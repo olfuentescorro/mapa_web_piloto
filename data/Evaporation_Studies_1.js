@@ -1,1 +1,644 @@
-var json_Evaporation_Studies_1 = {"type":"FeatureCollection","name":"Evaporation_Studies_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:13:01","Name Studi":"Evaporation Report -  Australia, WA, West Leinster - 600-300 - 105000TDS","Country":"Australia","State/Regi":"Western Australia","City/Site":"West Leinster","Model":"600/300","TDS":"105000 ppm","Elevation":"3","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1qdzFd8Z0QKV8tbVF8di4Tz5EyEYTTXiD","Address":"West Leinster, Western Australia, Australia","Studies":"Australia, Western Australia, West Leinster_600/300_105000 ppm_3m elevation","result_num":"0","osm_id":"545788592","display_na":"Western Australia Police Force, Mansbridge Street, Leinster, Western Australia, 6437, Australia","category":"amenity","type":"police","latlong":"-27.9169614,120.6992407"},"geometry":{"type":"Point","coordinates":[120.6992407,-27.9169614]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:18:21","Name Studi":"Evaporation Report - Australia, NSW, Lidsdale - 200E","Country":"Australia","State/Regi":"New South Wales","City/Site":"Lidsdale","Model":"200E","TDS":"10000 ppm","Elevation":"0","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1LrmxkuOqyDBlo7DhW8G2rmJDtHleCxtY","Address":"Lidsdale, New South Wales, Australia","Studies":"Australia, New South Wales, Lidsdale_200E_10000 ppm_0m elevation","result_num":"0","osm_id":"6044563","display_na":"Lidsdale, New South Wales, 2790, Australia","category":"boundary","type":"administrative","latlong":"-33.389538,150.0853774"},"geometry":{"type":"Point","coordinates":[150.0853774,-33.389538]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:21:07","Name Studi":"Evaporation Report - Australia, QLD, Bowen Basin - 600-300 - 5000TDS","Country":"Australia","State/Regi":"Queensland","City/Site":"Bowen","Model":"600/300","TDS":"5000 ppm","Elevation":"3","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1j6NYOkTlqPi8thUpuUuYIiMFjEXS9Eth","Address":"Bowen, Queensland, Australia","Studies":"Australia, Queensland, Bowen_600/300_5000 ppm_3m elevation","result_num":"0","osm_id":"11677017","display_na":"Bowen, Queensland, 4805, Australia","category":"boundary","type":"administrative","latlong":"-20.012125,148.2462901"},"geometry":{"type":"Point","coordinates":[148.24629010000001,-20.012125]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:24:11","Name Studi":"Evaporation Report - Australia, QLD, Comet - 600-300 - 47m Elevation","Country":"Australia","State/Regi":"Queensland","City/Site":"Comet","Model":"600/300","TDS":"10000 ppm","Elevation":"47","Avg Evap (":"51% - 75%","Naming Rep":"https://drive.google.com/open?id=15zlds34bP8bijIDi9w5fBcv63f-hvleJ","Address":"Comet, Queensland, Australia","Studies":"Australia, Queensland, Comet_600/300_10000 ppm_47m elevation","result_num":"0","osm_id":"11676544","display_na":"Comet, Queensland, 4702, Australia","category":"boundary","type":"administrative","latlong":"-23.6675035,148.5301846"},"geometry":{"type":"Point","coordinates":[148.530184600000013,-23.6675035]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:28:22","Name Studi":"Evaporation Report - Australia, QLD, Emerald - 600-300 - 25m Elevation - 20000TDS","Country":"Australia","State/Regi":"Queensland","City/Site":"Emerald","Model":"600/300","TDS":"20000 ppm","Elevation":"25","Avg Evap (":"51% - 75%","Naming Rep":"https://drive.google.com/open?id=1mGp9XhEelh2v3qnd2Qi5ABhD2itJFcm7","Address":"Emerald, Queensland, Australia","Studies":"Australia, Queensland, Emerald_600/300_20000 ppm_25m elevation","result_num":"0","osm_id":"11676575","display_na":"Emerald, Queensland, 4720, Australia","category":"boundary","type":"administrative","latlong":"-23.5263118,148.1618622"},"geometry":{"type":"Point","coordinates":[148.1618622,-23.5263118]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:32:31","Name Studi":"Evaporation Report - Northern Territory, Douglas River - 600-300 - 5000TDS, 10m Elevation","Country":"Australia","State/Regi":"Northern Territory","City/Site":"Douglas River","Model":"600/300","TDS":"5000 ppm","Elevation":"10","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1jhBLWDjjOwDVEWWEIcIqTWNTIP8v2tH1","Address":"Douglas River, Northern Territory, Australia","Studies":"Australia, Northern Territory, Douglas River_600/300_5000 ppm_10m elevation","result_num":"0","osm_id":"99152416","display_na":"Douglas River, Northern Territory, Australia","category":"waterway","type":"river","latlong":"-13.7645089,131.4321659"},"geometry":{"type":"Point","coordinates":[131.4321659,-13.7645089]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:35:21","Name Studi":"Evaporation Report - NSW, Lithgow - 600-300","Country":"Australia","State/Regi":"New South Wales","City/Site":"Lithgow","Model":"600/300","TDS":"10000 ppm","Elevation":"3","Avg Evap (":"0% - 35%","Naming Rep":"https://drive.google.com/open?id=14FK9MAzn8JAEM18nlkNJfnqKdU59J0i8","Address":"Lithgow, New South Wales, Australia","Studies":"Australia, New South Wales, Lithgow_600/300_10000 ppm_3m elevation","result_num":"0","osm_id":"78078822","display_na":"Lithgow, New South Wales, 2790, Australia","category":"place","type":"town","latlong":"-33.481536,150.1564887"},"geometry":{"type":"Point","coordinates":[150.156488700000011,-33.481536]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:39:15","Name Studi":"Evaporation Report - Queensland, Gladstone - 200E - 50000TDS","Country":"Australia","State/Regi":"Queensland","City/Site":"Gladstone","Model":"200E","TDS":"50000 ppm","Elevation":"0","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1fYMEfg_sw2TrxD5Om1mFnOydqCfNmZVv","Address":"Gladstone, Queensland, Australia","Studies":"Australia, Queensland, Gladstone_200E_50000 ppm_0m elevation","result_num":"0","osm_id":"247807315","display_na":"Gladstone, Queensland, Australia","category":"place","type":"city","latlong":"-23.8431724,151.256132"},"geometry":{"type":"Point","coordinates":[151.256132,-23.8431724]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:41:28","Name Studi":"Evaporation Report - USA, Idaho, Mountain Home, Elmore Lakes","Country":"USA","State/Regi":"Idaho","City/Site":"Mountain Home","Model":"600/300","TDS":"10000 ppm","Elevation":"3","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1GYKtGSHrL9MKaRGufEW3CT94jYitshOO","Address":"Mountain Home , Idaho, USA","Studies":"USA, Idaho, Mountain Home _600/300_10000 ppm_3m elevation","result_num":"0","osm_id":"121357","display_na":"Mountain Home, Elmore County, Idaho, United States","category":"boundary","type":"administrative","latlong":"43.1318937,-115.6939827"},"geometry":{"type":"Point","coordinates":[-115.6939827,43.1318937]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:44:34","Name Studi":"Evaporation Report - Victoria, Mangalore - 200E - 5000TDS","Country":"Australia","State/Regi":"Victoria","City/Site":"Mangalore","Model":"200E","TDS":"5000 ppm","Elevation":"0","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=15pKcg8BRyxd4U2u2Cb0ZideXQu7l7Xp-","Address":"Mangalore, Victoria, Australia","Studies":"Australia, Victoria, Mangalore_200E_5000 ppm_0m elevation","result_num":"0","osm_id":"2456278","display_na":"Mangalore, Victoria, 3663, Australia","category":"boundary","type":"administrative","latlong":"-36.924626,145.1708314"},"geometry":{"type":"Point","coordinates":[145.1708314,-36.924626]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:46:51","Name Studi":"Evaporation Report - Western Australia, Kalgoorlie-Boulder - 600-300 - 40000TDS","Country":"Australia","State/Regi":"Western Australia","City/Site":"Kalgoorlie-Boulder","Model":"600/300","TDS":"40000 ppm","Elevation":"3","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=14bEcELO9VtMXLl6_A990xPWGj6mFUmG4","Address":"Kalgoorlie-Boulder, Western Australia, Australia","Studies":"Australia, Western Australia, Kalgoorlie-Boulder_600/300_40000 ppm_3m elevation","result_num":"0","osm_id":"30772411","display_na":"Kalgoorlie, Western Australia, 6430, Australia","category":"place","type":"city","latlong":"-30.7464139,121.473223"},"geometry":{"type":"Point","coordinates":[121.473223,-30.7464139]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:49:47","Name Studi":"Evaporation Report - Western Australia, Mount Magnet - 600-300 - 40m Elevation","Country":"Australia","State/Regi":"Western Australia","City/Site":"Mount Magnet","Model":"600/300","TDS":"10000 ppm","Elevation":"40","Avg Evap (":"51% - 75%","Naming Rep":"https://drive.google.com/open?id=1kSzXvxLvEtUy1JLH4A5H_Ytk2QHYLCNn","Address":"Mount Magnet, Western Australia, Australia","Studies":"Australia, Western Australia, Mount Magnet_600/300_10000 ppm_40m elevation","result_num":"0","osm_id":"11690060","display_na":"Shire of Mount Magnet, Western Australia, 6638, Australia","category":"boundary","type":"administrative","latlong":"-28.275551,117.957212"},"geometry":{"type":"Point","coordinates":[117.957212,-28.275551]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:52:42","Name Studi":"Evaporation Report - Western Australia, Mount Magnet - 600-300","Country":"Australia","State/Regi":"Western Australia","City/Site":"Mount Magnet","Model":"600/300","TDS":"10000 ppm","Elevation":"3","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1bkenMUS_yMMGIDY7g7QFysqCp0QrkO1q","Address":"Mount Magnet, Western Australia, Australia","Studies":"Australia, Western Australia, Mount Magnet_600/300_10000 ppm_3m elevation","result_num":"0","osm_id":"11690060","display_na":"Shire of Mount Magnet, Western Australia, 6638, Australia","category":"boundary","type":"administrative","latlong":"-28.275551,117.957212"},"geometry":{"type":"Point","coordinates":[117.957212,-28.275551]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:54:51","Name Studi":"Evaporation Report Alice Springs Northern Territory - 40E","Country":"Australia","State/Regi":"Northern Territory","City/Site":"Alice Springs","Model":"40E","TDS":"10000 ppm","Elevation":"0","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1iCkDmAyWknHWTQMjTEO8H86580pxjUa2","Address":"Alice Springs, Northern Territory, Australia","Studies":"Australia, Northern Territory, Alice Springs_40E_10000 ppm_0m elevation","result_num":"0","osm_id":"11716659","display_na":"Alice Springs, Northern Territory, 0870, Australia","category":"boundary","type":"administrative","latlong":"-23.6983884,133.8812885"},"geometry":{"type":"Point","coordinates":[133.881288500000011,-23.6983884]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:56:11","Name Studi":"Evaporation Report Alice Springs Northern Territory - 200E","Country":"Australia","State/Regi":"Northern Territory","City/Site":"Alice Springs","Model":"200E","TDS":"10000 ppm","Elevation":"0","Avg Evap (":"51% - 75%","Naming Rep":"https://drive.google.com/open?id=1UAPcJXEHpGUDohfOZ-6ocEt_jIXOTJPi","Address":"Alice Springs, Northern Territory, Australia","Studies":"Australia, Northern Territory, Alice Springs_200E_10000 ppm_0m elevation","result_num":"0","osm_id":"11716659","display_na":"Alice Springs, Northern Territory, 0870, Australia","category":"boundary","type":"administrative","latlong":"-23.6983884,133.8812885"},"geometry":{"type":"Point","coordinates":[133.881288500000011,-23.6983884]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:57:23","Name Studi":"Evaporation Report Alice Springs Northern Territory - 400-200","Country":"Australia","State/Regi":"Northern Territory","City/Site":"Alice Springs","Model":"400/200","TDS":"10000 ppm","Elevation":"3","Avg Evap (":"51% - 75%","Naming Rep":"https://drive.google.com/open?id=18lKPKJn6Nr7X3t8sC_bYW1r3n0P8IsJS","Address":"Alice Springs, Northern Territory, Australia","Studies":"Australia, Northern Territory, Alice Springs_400/200_10000 ppm_3m elevation","result_num":"0","osm_id":"11716659","display_na":"Alice Springs, Northern Territory, 0870, Australia","category":"boundary","type":"administrative","latlong":"-23.6983884,133.8812885"},"geometry":{"type":"Point","coordinates":[133.881288500000011,-23.6983884]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 14:59:50","Name Studi":"Evaporation Report Burnie Australia - 600-300","Country":"Australia","State/Regi":"Tasmania","City/Site":"Burnie","Model":"600/300","TDS":"5000 ppm","Elevation":"3","Avg Evap (":"0% - 35%","Naming Rep":"https://drive.google.com/open?id=1DbUZkTDoR2RQYNLGipUsM6R2FUaQhsN-","Address":"Burnie, Tasmania, Australia","Studies":"Australia, Tasmania, Burnie_600/300_5000 ppm_3m elevation","result_num":"0","osm_id":"10632587","display_na":"Burnie, Tasmania, 7320, Australia","category":"boundary","type":"administrative","latlong":"-41.0523688,145.9064073"},"geometry":{"type":"Point","coordinates":[145.906407300000012,-41.0523688]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 15:09:47","Name Studi":"Evaporation Report Kalgoorlie Australia - 200-100","Country":"Australia","State/Regi":"Western Australia","City/Site":"Kalgoorlie","Model":"200/100","TDS":"5000 ppm","Elevation":"3","Avg Evap (":"51% - 75%","Naming Rep":"https://drive.google.com/open?id=1CqULqwEiOt1OXiC1dwDn6eCnmsfiPnk9","Address":"Kalgoorlie, Western Australia, Australia","Studies":"Australia, Western Australia, Kalgoorlie_200/100_5000 ppm_3m elevation","result_num":"0","osm_id":"30772411","display_na":"Kalgoorlie, Western Australia, 6430, Australia","category":"place","type":"city","latlong":"-30.7464139,121.473223"},"geometry":{"type":"Point","coordinates":[121.473223,-30.7464139]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 15:11:14","Name Studi":"Evaporation Report Kalgoorlie Australia - 400-200","Country":"Australia","State/Regi":"Western Australia","City/Site":"Kalgoorlie","Model":"400/200","TDS":"5000 ppm","Elevation":"3","Avg Evap (":"51% - 75%","Naming Rep":"https://drive.google.com/open?id=1Me4auWV_S8KilemO7co7fdenvMP9XWwC","Address":"Kalgoorlie, Western Australia, Australia","Studies":"Australia, Western Australia, Kalgoorlie_400/200_5000 ppm_3m elevation","result_num":"0","osm_id":"30772411","display_na":"Kalgoorlie, Western Australia, 6430, Australia","category":"place","type":"city","latlong":"-30.7464139,121.473223"},"geometry":{"type":"Point","coordinates":[121.473223,-30.7464139]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 15:12:34","Name Studi":"Evaporation Report Kalgoorlie Australia - 600-300","Country":"Australia","State/Regi":"Western Australia","City/Site":"Kalgoorlie","Model":"600/300","TDS":"5000 ppm","Elevation":"3","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1IxZkNGgTz4YYitQAaq6bQsxnneQRTSmD","Address":"Kalgoorlie, Western Australia, Australia","Studies":"Australia, Western Australia, Kalgoorlie_600/300_5000 ppm_3m elevation","result_num":"0","osm_id":"30772411","display_na":"Kalgoorlie, Western Australia, 6430, Australia","category":"place","type":"city","latlong":"-30.7464139,121.473223"},"geometry":{"type":"Point","coordinates":[121.473223,-30.7464139]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 15:13:59","Name Studi":"Evaporation Report Santiago Chile - 600-300","Country":"Chile","State/Regi":"Santiago","City/Site":"Santiago","Model":"600/300","TDS":"10000 ppm","Elevation":"3","Avg Evap (":"36% - 50%","Naming Rep":"https://drive.google.com/open?id=1WrkJr_24a4oPQxX9YhOmmbtB3tVYD85E","Address":"Santiago, Santiago, Chile","Studies":"Chile, Santiago, Santiago_600/300_10000 ppm_3m elevation","result_num":"0","osm_id":"164609","display_na":"Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile","category":"boundary","type":"administrative","latlong":"-33.4377752,-70.6505796"},"geometry":{"type":"Point","coordinates":[-70.6505796,-33.4377752]}},{"type":"Feature","properties":{"Marca temp":"26/5/2026 15:15:13","Name Studi":"Evaporation Report Townsville Queensland - 600-300","Country":"Australia","State/Regi":"Queensland","City/Site":"Townsville","Model":"600/300","TDS":"5000 ppm","Elevation":"3","Avg Evap (":"0% - 35%","Naming Rep":"https://drive.google.com/open?id=1kAw_BbzG1Nm9h6xz11noWU7U4ht8vvFR","Address":"Townsville, Queensland, Australia","Studies":"Australia, Queensland, Townsville_600/300_5000 ppm_3m elevation","result_num":"0","osm_id":"31446304","display_na":"Townsville, Queensland, 4810, Australia","category":"place","type":"city","latlong":"-19.2569391,146.8239537"},"geometry":{"type":"Point","coordinates":[146.8239537,-19.2569391]}},{"type":"Feature","properties":{"Marca temp":null,"Name Studi":null,"Country":"Angola","State/Regi":"Bie","City/Site":"Cuito","Model":"600/300","TDS":"105000 ppm","Elevation":"3","Avg Evap (":"36% - 50%","Naming Rep":null,"Address":null,"Studies":null,"result_num":null,"osm_id":null,"display_na":null,"category":"amenity","type":"police","latlong":null},"geometry":{"type":"Point","coordinates":[16.810982549317231,-12.608236911987845]}}]}
+json_Evaporation_Studies_1 = {
+  "type": "FeatureCollection",
+  "name": "Evaporation_Studies_1",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_New South Wales_Lidsdale_200E_10000_0.pdf",
+        "ID_PDF": "725699",
+        "Name_PDF": "Australia_New South Wales_Lidsdale_200E_10000_0.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_New%20South%20Wales_Lidsdale_200E_10000_0.pdf",
+        "Country": "Australia",
+        "State": "New South Wales",
+        "City": "Lidsdale",
+        "Model": "200E",
+        "TDS": "10000",
+        "Elevation": "0",
+        "Customer": "nan",
+        "Address": "Lidsdale, New South Wales, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.0853774,
+          -33.389538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Victoria_Mangalore_200E_5000_0.pdf",
+        "ID_PDF": "725692",
+        "Name_PDF": "Australia_Victoria_Mangalore_200E_5000_0.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Victoria_Mangalore_200E_5000_0.pdf",
+        "Country": "Australia",
+        "State": "Victoria",
+        "City": "Mangalore",
+        "Model": "200E",
+        "TDS": "5000",
+        "Elevation": "0",
+        "Customer": "nan",
+        "Address": "Mangalore, Victoria, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1708314,
+          -36.924626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Western Australia_Mount Magnet_600-300_10000_3.pdf",
+        "ID_PDF": "725695",
+        "Name_PDF": "Australia_Western Australia_Mount Magnet_600-300_10000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Western%20Australia_Mount%20Magnet_600-300_10000_3.pdf",
+        "Country": "Australia",
+        "State": "Western Australia",
+        "City": "Mount Magnet",
+        "Model": "600-300",
+        "TDS": "10000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Mount Magnet, Western Australia, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.957212,
+          -28.275551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Northern Territory_Alice Springs_200E_10000_0.pdf",
+        "ID_PDF": "725703",
+        "Name_PDF": "Australia_Northern Territory_Alice Springs_200E_10000_0.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Northern%20Territory_Alice%20Springs_200E_10000_0.pdf",
+        "Country": "Australia",
+        "State": "Northern Territory",
+        "City": "Alice Springs",
+        "Model": "200E",
+        "TDS": "10000",
+        "Elevation": "0",
+        "Customer": "nan",
+        "Address": "Alice Springs, Northern Territory, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8812885,
+          -23.6983884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Western Australia_Kalgoorlie_600-300_40000_3.pdf",
+        "ID_PDF": "725694",
+        "Name_PDF": "Australia_Western Australia_Kalgoorlie_600-300_40000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Western%20Australia_Kalgoorlie_600-300_40000_3.pdf",
+        "Country": "Australia",
+        "State": "Western Australia",
+        "City": "Kalgoorlie",
+        "Model": "600-300",
+        "TDS": "40000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Kalgoorlie, Western Australia, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.473223,
+          -30.7464139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Western Australia_Kalgoorlie_400-200_5000_3.pdf",
+        "ID_PDF": "725690",
+        "Name_PDF": "Australia_Western Australia_Kalgoorlie_400-200_5000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Western%20Australia_Kalgoorlie_400-200_5000_3.pdf",
+        "Country": "Australia",
+        "State": "Western Australia",
+        "City": "Kalgoorlie",
+        "Model": "400-200",
+        "TDS": "5000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Kalgoorlie, Western Australia, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.473223,
+          -30.7464139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Queensland_Gladstone_200E_50000_0.pdf",
+        "ID_PDF": "725708",
+        "Name_PDF": "Australia_Queensland_Gladstone_200E_50000_0.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Queensland_Gladstone_200E_50000_0.pdf",
+        "Country": "Australia",
+        "State": "Queensland",
+        "City": "Gladstone",
+        "Model": "200E",
+        "TDS": "50000",
+        "Elevation": "0",
+        "Customer": "nan",
+        "Address": "Gladstone, Queensland, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.256132,
+          -23.8431724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Western Australia_Mount Magnet_600-300_10000_40.pdf",
+        "ID_PDF": "725697",
+        "Name_PDF": "Australia_Western Australia_Mount Magnet_600-300_10000_40.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Western%20Australia_Mount%20Magnet_600-300_10000_40.pdf",
+        "Country": "Australia",
+        "State": "Western Australia",
+        "City": "Mount Magnet",
+        "Model": "600-300",
+        "TDS": "10000",
+        "Elevation": "40",
+        "Customer": "nan",
+        "Address": "Mount Magnet, Western Australia, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.957212,
+          -28.275551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Queensland_Townsville_600-300_5000_3.pdf",
+        "ID_PDF": "725709",
+        "Name_PDF": "Australia_Queensland_Townsville_600-300_5000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Queensland_Townsville_600-300_5000_3.pdf",
+        "Country": "Australia",
+        "State": "Queensland",
+        "City": "Townsville",
+        "Model": "600-300",
+        "TDS": "5000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Townsville, Queensland, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8239537,
+          -19.2569391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Queensland_Emerald_600-300_20000_25.pdf",
+        "ID_PDF": "725707",
+        "Name_PDF": "Australia_Queensland_Emerald_600-300_20000_25.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Queensland_Emerald_600-300_20000_25.pdf",
+        "Country": "Australia",
+        "State": "Queensland",
+        "City": "Emerald",
+        "Model": "600-300",
+        "TDS": "20000",
+        "Elevation": "25",
+        "Customer": "nan",
+        "Address": "Emerald, Queensland, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1618622,
+          -23.5263118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Chile_Region Metropolitana_Santiago_600-300_10000_3.pdf",
+        "ID_PDF": "725698",
+        "Name_PDF": "Chile_Region Metropolitana_Santiago_600-300_10000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Chile_Region%20Metropolitana_Santiago_600-300_10000_3.pdf",
+        "Country": "Chile",
+        "State": "Region Metropolitana",
+        "City": "Santiago",
+        "Model": "600-300",
+        "TDS": "10000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Santiago, Region Metropolitana, Chile",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6510671,
+          -33.4376995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Western Australia_West Leinster_600-300_105000_3.pdf",
+        "ID_PDF": "725696",
+        "Name_PDF": "Australia_Western Australia_West Leinster_600-300_105000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Western%20Australia_West%20Leinster_600-300_105000_3.pdf",
+        "Country": "Australia",
+        "State": "Western Australia",
+        "City": "West Leinster",
+        "Model": "600-300",
+        "TDS": "105000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "West Leinster, Western Australia, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6992407,
+          -27.9169614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Western Australia_Kalgoorlie_200-100_5000_3.pdf",
+        "ID_PDF": "725691",
+        "Name_PDF": "Australia_Western Australia_Kalgoorlie_200-100_5000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Western%20Australia_Kalgoorlie_200-100_5000_3.pdf",
+        "Country": "Australia",
+        "State": "Western Australia",
+        "City": "Kalgoorlie",
+        "Model": "200-100",
+        "TDS": "5000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Kalgoorlie, Western Australia, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.473223,
+          -30.7464139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Western Australia_Kalgoorlie_600-300_5000_3.pdf",
+        "ID_PDF": "725693",
+        "Name_PDF": "Australia_Western Australia_Kalgoorlie_600-300_5000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Western%20Australia_Kalgoorlie_600-300_5000_3.pdf",
+        "Country": "Australia",
+        "State": "Western Australia",
+        "City": "Kalgoorlie",
+        "Model": "600-300",
+        "TDS": "5000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Kalgoorlie, Western Australia, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.473223,
+          -30.7464139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Northern Territory_Alice Springs_40E_10000_0.pdf",
+        "ID_PDF": "725702",
+        "Name_PDF": "Australia_Northern Territory_Alice Springs_40E_10000_0.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Northern%20Territory_Alice%20Springs_40E_10000_0.pdf",
+        "Country": "Australia",
+        "State": "Northern Territory",
+        "City": "Alice Springs",
+        "Model": "40E",
+        "TDS": "10000",
+        "Elevation": "0",
+        "Customer": "nan",
+        "Address": "Alice Springs, Northern Territory, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8812885,
+          -23.6983884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Northern Territory_Douglas Rivers_600-300_5000_10.pdf",
+        "ID_PDF": "725705",
+        "Name_PDF": "Australia_Northern Territory_Douglas Rivers_600-300_5000_10.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Northern%20Territory_Douglas%20River_600-300_5000_10.pdf",
+        "Country": "Australia",
+        "State": "Northern Territory",
+        "City": "Douglas Rivers",
+        "Model": "600-300",
+        "TDS": "5000",
+        "Elevation": "10",
+        "Customer": "nan",
+        "Address": "Douglas Rivers, Northern Territory, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.515925,
+          -13.746218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Queensland_Basin_600-300_5000_3.pdf",
+        "ID_PDF": "725710",
+        "Name_PDF": "Australia_Queensland_Basin_600-300_5000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Queensland_Basin_600-300_5000_3.pdf",
+        "Country": "Australia",
+        "State": "Queensland",
+        "City": "Basin",
+        "Model": "600-300",
+        "TDS": "5000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Basin, Queensland, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5,
+          -26.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_New South Wales_Lithgow_600-300_10000_3.pdf",
+        "ID_PDF": "725700",
+        "Name_PDF": "Australia_New South Wales_Lithgow_600-300_10000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_New%20South%20Wales_Lithgow_600-300_10000_3.pdf",
+        "Country": "Australia",
+        "State": "New South Wales",
+        "City": "Lithgow",
+        "Model": "600-300",
+        "TDS": "10000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Lithgow, New South Wales, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1564887,
+          -33.481536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Tasmania_Burnie_600-300_5000_3.pdf",
+        "ID_PDF": "725711",
+        "Name_PDF": "Australia_Tasmania_Burnie_600-300_5000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Tasmania_Burnie_600-300_5000_3.pdf",
+        "Country": "Australia",
+        "State": "Tasmania",
+        "City": "Burnie",
+        "Model": "600-300",
+        "TDS": "5000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Burnie, Tasmania, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9064073,
+          -41.0523688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Northern Territory_Alice Springs_400-200_10000_3.pdf",
+        "ID_PDF": "725704",
+        "Name_PDF": "Australia_Northern Territory_Alice Springs_400-200_10000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Northern%20Territory_Alice%20Springs_400-200_10000_3.pdf",
+        "Country": "Australia",
+        "State": "Northern Territory",
+        "City": "Alice Springs",
+        "Model": "400-200",
+        "TDS": "10000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Alice Springs, Northern Territory, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8812885,
+          -23.6983884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "USA_Idaho_Mountain Home_600-300_10000_3.pdf",
+        "ID_PDF": "725701",
+        "Name_PDF": "USA_Idaho_Mountain Home_600-300_10000_3.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/USA_Idaho_Mountain%20Home_600-300_10000_3.pdf",
+        "Country": "USA",
+        "State": "Idaho",
+        "City": "Mountain Home",
+        "Model": "600-300",
+        "TDS": "10000",
+        "Elevation": "3",
+        "Customer": "nan",
+        "Address": "Mountain Home, Idaho, USA",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6939827,
+          43.1318937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Australia_Queensland_Comet_600-300_10000_47.pdf",
+        "ID_PDF": "725706",
+        "Name_PDF": "Australia_Queensland_Comet_600-300_10000_47.pdf",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
+        "URL": "https://minetek.sharepoint.com/sites/Engineering/Shared%20Documents/4.0%20Water/4.3%20Evaporation%20Sales%20Studies/Karen.Santos/Pilot_PDF_Evaporation%20Reports/Australia_Queensland_Comet_600-300_10000_47.pdf",
+        "Country": "Australia",
+        "State": "Queensland",
+        "City": "Comet",
+        "Model": "600-300",
+        "TDS": "10000",
+        "Elevation": "47",
+        "Customer": "nan",
+        "Address": "Comet, Queensland, Australia",
+        "Date_Registration": "2026-06-25 00:00:00",
+        "Date_Modification": "2026-06-25 00:00:00",
+        "Item Type": "Elemento",
+        "Path": "personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5301846,
+          -23.6675035
+        ]
+      }
+    }
+  ]
+};
