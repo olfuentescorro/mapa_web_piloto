@@ -346,7 +346,7 @@
         document.getElementById("all").appendChild(col2);
         col1.appendChild(mapDiv)
 		
-        var Filters = {"Country": "str","State": "str","City": "str","Elevation": "int","Modelo": "str","TDS": "str"};
+        var Filters = {"Country": "str","State": "str","City": "str","Elevation": "int","Model": "str","TDS": "str"};
         
         function filterFunc() {
             var features = json_Evaporation_Studies_1.features.slice(0);
@@ -668,7 +668,7 @@
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Definimos las columnas de texto que queremos que se actualicen solas
-    var columnasFiltro = ["Country", "State", "City", "Modelo", "TDS"];
+    var columnasFiltro = ["Country", "State", "City", "Model", "TDS"];
     
     // Esperamos 1 segundo para asegurar que qgis2web haya creado los menús
     setTimeout(function() {
