@@ -175,12 +175,12 @@
                         <td>' + (feature.properties['Country'] !== null ? autolinker.link(String(feature.properties['Country']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">State/Regi</th>\
-                        <td>' + (feature.properties['State/Regi'] !== null ? autolinker.link(String(feature.properties['State/Regi']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">State</th>\
+                        <td>' + (feature.properties['State'] !== null ? autolinker.link(String(feature.properties['State']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">City/Site</th>\
-                        <td>' + (feature.properties['City/Site'] !== null ? autolinker.link(String(feature.properties['City/Site']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">City</th>\
+                        <td>' + (feature.properties['City'] !== null ? autolinker.link(String(feature.properties['City']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">Model</th>\
@@ -346,7 +346,7 @@
         document.getElementById("all").appendChild(col2);
         col1.appendChild(mapDiv)
 		
-        var Filters = {"Country": "str","State/Regi": "str","City/Site": "str","Elevation": "int","Model": "str","TDS": "str","Avg Evap (": "str"};
+        var Filters = {"Country": "str","State": "str","City": "str","Elevation": "int","Modelo": "str","TDS": "str"};
         
         function filterFunc() {
             var features = json_Evaporation_Studies_1.features.slice(0);
@@ -488,7 +488,7 @@
             sel_StateRegi.innerHTML = StateRegi_options_str;
             div_StateRegi.appendChild(sel_StateRegi);
             var lab_StateRegi = document.createElement('div');
-            lab_StateRegi.innerHTML = 'State/Regi';
+            lab_StateRegi.innerHTML = 'State';
             lab_StateRegi.className = 'filterlabel';
             div_StateRegi.appendChild(lab_StateRegi);
             var reset_StateRegi = document.createElement('div');
@@ -534,7 +534,7 @@
             sel_CitySite.innerHTML = CitySite_options_str;
             div_CitySite.appendChild(sel_CitySite);
             var lab_CitySite = document.createElement('div');
-            lab_CitySite.innerHTML = 'City/Site';
+            lab_CitySite.innerHTML = 'City';
             lab_CitySite.className = 'filterlabel';
             div_CitySite.appendChild(lab_CitySite);
             var reset_CitySite = document.createElement('div');
@@ -664,36 +664,44 @@
             div_TDS.appendChild(reset_TDS);
             document.getElementById("menu").appendChild(
                 document.createElement("div"));
-            var div_AvgEvap = document.createElement('div');
-            div_AvgEvap.id = "div_AvgEvap";
-            div_AvgEvap.className= "filterselect";
-            document.getElementById("menu").appendChild(div_AvgEvap);
-            sel_AvgEvap = document.createElement('select');
-            sel_AvgEvap.multiple = true;
-            sel_AvgEvap.size = 3;
-            sel_AvgEvap.id = "sel_AvgEvap";
-            var AvgEvap_options_str = "<option value='' unselected></option>";
-            sel_AvgEvap.onchange = function(){filterFunc()};
-            AvgEvap_options_str  += '<option value="0% - 35%">0% - 35%</option>';
-            AvgEvap_options_str  += '<option value="36% - 50%">36% - 50%</option>';
-            AvgEvap_options_str  += '<option value="51% - 75%">51% - 75%</option>';
-            sel_AvgEvap.innerHTML = AvgEvap_options_str;
-            div_AvgEvap.appendChild(sel_AvgEvap);
-            var lab_AvgEvap = document.createElement('div');
-            lab_AvgEvap.innerHTML = 'Avg Evap (';
-            lab_AvgEvap.className = 'filterlabel';
-            div_AvgEvap.appendChild(lab_AvgEvap);
-            var reset_AvgEvap = document.createElement('div');
-            reset_AvgEvap.innerHTML = 'clear filter';
-            reset_AvgEvap.className = 'filterlabel';
-            reset_AvgEvap.onclick = function() {
-                var options = document.getElementById("sel_AvgEvap").options;
-                for (var i=0; i < options.length; i++) {
-                    options[i].selected = false;
+        </script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Definimos las columnas de texto que queremos que se actualicen solas
+    var columnasFiltro = ["Country", "State", "City", "Modelo", "TDS"];
+    
+    // Esperamos 1 segundo para asegurar que qgis2web haya creado los menús
+    setTimeout(function() {
+        if (typeof json_Evaporation_Studies_1 !== 'undefined') {
+            columnasFiltro.forEach(function(columna) {
+                var keyS = columna.replace(/[^a-zA-Z0-9_]/g, "");
+                var selectElement = document.getElementById("sel_" + keyS);
+                
+                if (selectElement) {
+                    // 1. Extraer valores únicos directamente del archivo .js actualizado
+                    var valoresUnicos = new Set();
+                    json_Evaporation_Studies_1.features.forEach(function(feature) {
+                        var valor = feature.properties[columna];
+                        if (valor !== null && valor !== undefined && String(valor).trim() !== "") {
+                            valoresUnicos.add(String(valor));
+                        }
+                    });
+                    
+                    // 2. Limpiar las opciones viejas dejando solo el espacio en blanco por defecto
+                    selectElement.innerHTML = "<option value='' unselected></option>";
+                    
+                    // 3. Ordenar alfabéticamente y crear las nuevas opciones
+                    Array.from(valoresUnicos).sort().forEach(function(valor) {
+                        var nuevaOpcion = document.createElement('option');
+                        nuevaOpcion.value = valor;
+                        nuevaOpcion.text = valor;
+                        selectElement.appendChild(nuevaOpcion);
+                    });
                 }
-                filterFunc();
-            };
-            div_AvgEvap.appendChild(reset_AvgEvap);
-        </script>        
+            });
+        }
+    }, 1000);
+});
+</script>        
     </body>
 </html>
