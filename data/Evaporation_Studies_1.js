@@ -15,7 +15,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "10.0",
         "ID_PDF": "726212",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCRbU9aFrYgRoBwaw_ozOafAT9pHD_KcneXiuDoRfPIwbE', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCRbU9aFrYgRoBwaw_ozOafAT9pHD_KcneXiuDoRfPIwbE'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCRbU9aFrYgRoBwaw_ozOafAT9pHD_KcneXiuDoRfPIwbE",
         "Address": "Douglas River, Northern Territory, Australia",
         "Latitude": "-13.746218",
         "Longitude": "131.515925"
@@ -41,7 +41,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726216",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQB6_WClkcmSQ41D6nSIuewXAS39hhzf7nHUufhC3KIhAbA', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQB6_WClkcmSQ41D6nSIuewXAS39hhzf7nHUufhC3KIhAbA'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB6_WClkcmSQ41D6nSIuewXAS39hhzf7nHUufhC3KIhAbA",
         "Address": "Townsville, Queensland, Australia",
         "Latitude": "-19.2663898468018",
         "Longitude": "146.805694580078"
@@ -67,7 +67,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "0.0",
         "ID_PDF": "726209",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCAFwfLpk1PQY1Zae9ZyP51Af_vzRb2GupWGFLfiOueUck', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCAFwfLpk1PQY1Zae9ZyP51Af_vzRb2GupWGFLfiOueUck'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCAFwfLpk1PQY1Zae9ZyP51Af_vzRb2GupWGFLfiOueUck",
         "Address": "Alice Springs, Northern Territory, Australia",
         "Latitude": "-23.7000007629395",
         "Longitude": "133.883331298828"
@@ -93,7 +93,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726200",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBt6l76qv9mT625e3BPmSgdAdPXblzvmtFmzUO302voiXc', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBt6l76qv9mT625e3BPmSgdAdPXblzvmtFmzUO302voiXc'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBt6l76qv9mT625e3BPmSgdAdPXblzvmtFmzUO302voiXc",
         "Address": "Mount Magnet, Western Australia, Australia",
         "Latitude": "-28.064790725708",
         "Longitude": "117.84903717041"
@@ -119,7 +119,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726204",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQDtCRlBGdT8SpkSVHLxjF_zAZv0XYubtADRTIkDI3KhM2s', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQDtCRlBGdT8SpkSVHLxjF_zAZv0XYubtADRTIkDI3KhM2s'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDtCRlBGdT8SpkSVHLxjF_zAZv0XYubtADRTIkDI3KhM2s",
         "Address": "West Leinster, Western Australia, Australia",
         "Latitude": "-27.8500003814697",
         "Longitude": "120.699996948242"
@@ -145,7 +145,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726217",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBVMNdRJ7jORaqb0KUyIKRsASP9wd_7xqWC-7zU4h7T1PI', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBVMNdRJ7jORaqb0KUyIKRsASP9wd_7xqWC-7zU4h7T1PI'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBVMNdRJ7jORaqb0KUyIKRsASP9wd_7xqWC-7zU4h7T1PI",
         "Address": "Burnie, Tasmania, Australia",
         "Latitude": "-41.0558395385742",
         "Longitude": "145.903747558594"
@@ -171,7 +171,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "0.0",
         "ID_PDF": "726208",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBvMOoWL9KgQI3x8T7uFqSaAX8L3hZXMiAsP_ajU1kmfZc', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBvMOoWL9KgQI3x8T7uFqSaAX8L3hZXMiAsP_ajU1kmfZc'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBvMOoWL9KgQI3x8T7uFqSaAX8L3hZXMiAsP_ajU1kmfZc",
         "Address": "Alice Springs, Northern Territory, Australia",
         "Latitude": "-23.7000007629395",
         "Longitude": "133.883331298828"
@@ -197,7 +197,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "0.0",
         "ID_PDF": "726215",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQB0m_8CtqVoTK4H2I8xvkTgAbN-lIMn3_yBzmZnccXfHRg', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQB0m_8CtqVoTK4H2I8xvkTgAbN-lIMn3_yBzmZnccXfHRg'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB0m_8CtqVoTK4H2I8xvkTgAbN-lIMn3_yBzmZnccXfHRg",
         "Address": "Gladstone, Queensland, Australia",
         "Latitude": "-23.8500003814697",
         "Longitude": "151.25"
@@ -223,7 +223,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726211",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQByY0ukkutjTYm-JtPZox5VAYK3gW8pSxgdt1aI1bf61OI', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQByY0ukkutjTYm-JtPZox5VAYK3gW8pSxgdt1aI1bf61OI'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQByY0ukkutjTYm-JtPZox5VAYK3gW8pSxgdt1aI1bf61OI",
         "Address": "Bowen Basin, Queensland, Australia",
         "Latitude": "-22.6000003814697",
         "Longitude": "144.550003051758"
@@ -249,7 +249,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726210",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCiQ48EceFRSYM8YvXaUPsWAZM4aD6vGiPacLG8cIqQheA', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCiQ48EceFRSYM8YvXaUPsWAZM4aD6vGiPacLG8cIqQheA'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCiQ48EceFRSYM8YvXaUPsWAZM4aD6vGiPacLG8cIqQheA",
         "Address": "Alice Springs, Northern Territory, Australia",
         "Latitude": "-23.7000007629395",
         "Longitude": "133.883331298828"
@@ -275,7 +275,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726202",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBunro_gUxMR5_Udz-hfTeZAZVPQ3muGTVYdFA5Ti4r_f8', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBunro_gUxMR5_Udz-hfTeZAZVPQ3muGTVYdFA5Ti4r_f8'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBunro_gUxMR5_Udz-hfTeZAZVPQ3muGTVYdFA5Ti4r_f8",
         "Address": "Kalgoorlie, Western Australia, Australia",
         "Latitude": "-30.75",
         "Longitude": "121.466667175293"
@@ -301,7 +301,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "0.0",
         "ID_PDF": "726205",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQDLxsJmPQMSTYTaVBwK_zPHAax95y7lOOBj3jq3Kvbr384', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQDLxsJmPQMSTYTaVBwK_zPHAax95y7lOOBj3jq3Kvbr384'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDLxsJmPQMSTYTaVBwK_zPHAax95y7lOOBj3jq3Kvbr384",
         "Address": "Lidsdale, New South Wales, Australia",
         "Latitude": "-33.4824714660645",
         "Longitude": "150.136306762695"
@@ -327,7 +327,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726219",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQC5DYljhJWYToe8bpj12ef3AVhkxtN1fItyU28MbIpO2zI', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQC5DYljhJWYToe8bpj12ef3AVhkxtN1fItyU28MbIpO2zI'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC5DYljhJWYToe8bpj12ef3AVhkxtN1fItyU28MbIpO2zI",
         "Address": "Kalgoorlie, Western Australia, Australia",
         "Latitude": "-30.75",
         "Longitude": "121.466667175293"
@@ -353,7 +353,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726206",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBpgMzESbC-R5F4I6Jqil6kAXvuAq52aw7ScNCRGSlmAso', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBpgMzESbC-R5F4I6Jqil6kAXvuAq52aw7ScNCRGSlmAso'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBpgMzESbC-R5F4I6Jqil6kAXvuAq52aw7ScNCRGSlmAso",
         "Address": "Mountain Home, Idaho, USA",
         "Latitude": "43.1329498291016",
         "Longitude": "-115.691200256348"
@@ -379,7 +379,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "40.0",
         "ID_PDF": "726203",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBZy6AU6hP5TbPyPrJ8kii1AfzNtV1f6kl_f-GN24n4bps', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBZy6AU6hP5TbPyPrJ8kii1AfzNtV1f6kl_f-GN24n4bps'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBZy6AU6hP5TbPyPrJ8kii1AfzNtV1f6kl_f-GN24n4bps",
         "Address": "Mount Magnet, Western Australia, Australia",
         "Latitude": "-28.064790725708",
         "Longitude": "117.84903717041"
@@ -405,7 +405,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726207",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQB5_3ZvpTMFQ4bzvhW5q024Abinjfctm-YG9sbxV2F4g5A', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQB5_3ZvpTMFQ4bzvhW5q024Abinjfctm-YG9sbxV2F4g5A'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB5_3ZvpTMFQ4bzvhW5q024Abinjfctm-YG9sbxV2F4g5A",
         "Address": "Lithgow, New South Wales, Australia",
         "Latitude": "-33.4824714660645",
         "Longitude": "150.136306762695"
@@ -431,7 +431,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "0.0",
         "ID_PDF": "726218",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBYZMaoEiKjSqtXaPfaMJrxAZyw-Mv4GUJOJs6y-emtYGg', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBYZMaoEiKjSqtXaPfaMJrxAZyw-Mv4GUJOJs6y-emtYGg'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBYZMaoEiKjSqtXaPfaMJrxAZyw-Mv4GUJOJs6y-emtYGg",
         "Address": "Mangalore, Victoria, Australia",
         "Latitude": "-36.8800010681152",
         "Longitude": "145.179992675781"
@@ -457,7 +457,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "47.0",
         "ID_PDF": "726213",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBJYQKcc9gZTqROBHICF4gDAQCsw5tVhMnXMnS7fNAFmJo', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQBJYQKcc9gZTqROBHICF4gDAQCsw5tVhMnXMnS7fNAFmJo'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBJYQKcc9gZTqROBHICF4gDAQCsw5tVhMnXMnS7fNAFmJo",
         "Address": "Comet, Queensland, Australia",
         "Latitude": "-23.6014003753662",
         "Longitude": "148.807495117188"
@@ -483,7 +483,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726220",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQAfl-2kGRerT7GGeTBGoRfXAds3TpedU0lFsZxRcH3GJ50', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQAfl-2kGRerT7GGeTBGoRfXAds3TpedU0lFsZxRcH3GJ50'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAfl-2kGRerT7GGeTBGoRfXAds3TpedU0lFsZxRcH3GJ50",
         "Address": "Kalgoorlie, Western Australia, Australia",
         "Latitude": "-30.75",
         "Longitude": "121.466667175293"
@@ -509,7 +509,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726201",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCbT_wdS7doSbFpTiUgGqoZAdxh5RhC458oydDFUrWQW4M', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCbT_wdS7doSbFpTiUgGqoZAdxh5RhC458oydDFUrWQW4M'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCbT_wdS7doSbFpTiUgGqoZAdxh5RhC458oydDFUrWQW4M",
         "Address": "Kalgoorlie, Western Australia, Australia",
         "Latitude": "-30.75",
         "Longitude": "121.466667175293"
@@ -535,7 +535,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "25.0",
         "ID_PDF": "726214",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCL11XgqZC0QYG7oTCxhZiJATFhQqT64A7ult8l_53ZeUs', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQCL11XgqZC0QYG7oTCxhZiJATFhQqT64A7ult8l_53ZeUs'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCL11XgqZC0QYG7oTCxhZiJATFhQqT64A7ult8l_53ZeUs",
         "Address": "Emerald, Queensland, Australia",
         "Latitude": "-23.5229606628418",
         "Longitude": "148.157836914063"
@@ -561,7 +561,7 @@ json_Evaporation_Studies_1 = {
         "Elevation": "3.0",
         "ID_PDF": "726221",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQAp0wzkgXANSaYQF6c0iR4PARZD3umUMXuHzBlxoH1JMLI', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQAp0wzkgXANSaYQF6c0iR4PARZD3umUMXuHzBlxoH1JMLI'}",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAp0wzkgXANSaYQF6c0iR4PARZD3umUMXuHzBlxoH1JMLI",
         "Address": "Santiago, RM, Chile",
         "Latitude": "-33.5639190673828",
         "Longitude": "-70.5763626098633"
@@ -571,32 +571,6 @@ json_Evaporation_Studies_1 = {
         "coordinates": [
           -70.5763626098633,
           -33.5639190673828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "623",
-        "Name_PDF": "QL_Idaho_Mountain Home_600-300_10000_3.pdf",
-        "Country": "QL",
-        "State": "IDAHO",
-        "City": "MOUNTAIN HOME",
-        "Model": "600-300",
-        "TDS": "10000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726224",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/",
-        "URL": "{'Description': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQA3KBuyzTT-RKA_t2I6E_HnATEAfLSPAaEvK8G0dmzUox8', 'Url': 'https://minetek.sharepoint.com/:b:/s/Engineering/IQA3KBuyzTT-RKA_t2I6E_HnATEAfLSPAaEvK8G0dmzUox8'}",
-        "Address": "Mountain Home, Idaho, QL",
-        "Latitude": "43.1329498291016",
-        "Longitude": "-115.691200256348"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.691200256348,
-          43.1329498291016
         ]
       }
     }
