@@ -183,6 +183,10 @@
                         <td>' + (feature.properties['City'] !== null ? autolinker.link(String(feature.properties['City']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
+                        <th scope="row">Elevation</th>\
+                        <td>' + (feature.properties['Elevation'] !== null ? autolinker.link(String(feature.properties['Elevation']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
                         <th scope="row">Model</th>\
                         <td>' + (feature.properties['Model'] !== null ? autolinker.link(String(feature.properties['Model']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
@@ -191,15 +195,12 @@
                         <td>' + (feature.properties['TDS'] !== null ? autolinker.link(String(feature.properties['TDS']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">Elevation</th>\
-                        <td>' + (feature.properties['Elevation'] !== null ? autolinker.link(String(feature.properties['Elevation']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">ID_PDF</th>\
+                        <td>' + (feature.properties['ID_PDF'] !== null ? autolinker.link(String(feature.properties['ID_PDF']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">Avg Evap (</th>\
-                        <td>' + (feature.properties['Avg Evap ('] !== null ? autolinker.link(String(feature.properties['Avg Evap (']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
-                    </tr>\
-                    <tr>\
-                        <td colspan="2"><strong>Naming Rep</strong><br />' + (feature.properties['Naming Rep'] !== null ? autolinker.link(String(feature.properties['Naming Rep']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">URL</th>\
+                        <td>' + (feature.properties['URL'] !== null ? autolinker.link(String(feature.properties['URL']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
