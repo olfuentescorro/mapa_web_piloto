@@ -182,6 +182,10 @@
                         <th scope="row">City</th>\
                         <td>' + (feature.properties['City'] !== null ? autolinker.link(String(feature.properties['City']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
+					<tr>\
+                        <th scope="row">Year</th>\
+                        <td>' + (feature.properties['Year'] !== null ? autolinker.link(String(feature.properties['Year']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
                     <tr>\
                         <th scope="row">Elevation</th>\
                         <td>' + (feature.properties['Elevation'] !== null ? autolinker.link(String(feature.properties['Elevation']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
@@ -347,7 +351,7 @@
         document.getElementById("all").appendChild(col2);
         col1.appendChild(mapDiv)
 		
-        var Filters = {"Country": "str","State": "str","City": "str","Elevation": "int","Model": "str","TDS": "str"};
+        var Filters = {"Country": "str","State": "str","City": "str","Year": "str", "Elevation": "int","Model": "str","TDS": "str"};
         
         function filterFunc() {
             var features = json_Evaporation_Studies_1.features.slice(0);
@@ -665,11 +669,38 @@
             div_TDS.appendChild(reset_TDS);
             document.getElementById("menu").appendChild(
                 document.createElement("div"));
+			var div_Year = document.createElement('div');
+            div_Year.id = "div_Year";
+            div_Year.className= "filterselect";
+            document.getElementById("menu").appendChild(div_Year);
+            sel_Year = document.createElement('select');
+            sel_Year.multiple = true;
+            sel_Year.size = 5; // Cantidad de años visibles al mismo tiempo
+            sel_Year.id = "sel_Year";
+            var Year_options_str = "<option value='' unselected></option>";
+            sel_Year.onchange = function(){filterFunc()};
+            sel_Year.innerHTML = Year_options_str;
+            div_Year.appendChild(sel_Year);
+            var lab_Year = document.createElement('div');
+            lab_Year.innerHTML = 'Year';
+            lab_Year.className = 'filterlabel';
+            div_Year.appendChild(lab_Year);
+            var reset_Year = document.createElement('div');
+            reset_Year.innerHTML = 'clear filter';
+            reset_Year.className = 'filterlabel';
+            reset_Year.onclick = function() {
+                var options = document.getElementById("sel_Year").options;
+                for (var i=0; i < options.length; i++) {
+                    options[i].selected = false;
+                }
+                filterFunc();
+            };
+            div_Year.appendChild(reset_Year);
         </script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
     // Definimos las columnas de texto que queremos que se actualicen solas
-    var columnasFiltro = ["Country", "State", "City", "Model", "TDS"];
+    var columnasFiltro = ["Country", "State", "City", "Year", "Model", "TDS"];
     
     // Esperamos 1 segundo para asegurar que qgis2web haya creado los menús
     setTimeout(function() {
