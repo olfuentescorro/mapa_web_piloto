@@ -5,648 +5,648 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
-        "id": "599",
-        "Name_PDF": "Australia_Northern Territory_Douglas River_600-300_5000_10.pdf",
-        "Country": "AUSTRALIA",
-        "State": "NORTHERN TERRITORY",
-        "City": "DOUGLAS RIVER",
-        "Year": "nan",
-        "Model": "600-300",
-        "TDS": "5000.0",
-        "Elevation": "10.0",
-        "ID_PDF": "726212",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCRbU9aFrYgRoBwaw_ozOafAT9pHD_KcneXiuDoRfPIwbE",
-        "Address": "Douglas River, Northern Territory, Australia",
-        "Latitude": "-13.746218",
-        "Longitude": "131.515925"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          131.515925,
-          -13.746218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "600",
-        "Name_PDF": "Australia_Queensland_Townsville_600-300_5000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "QUEENSLAND",
-        "City": "TOWNSVILLE",
-        "Year": "nan",
-        "Model": "600-300",
-        "TDS": "5000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726216",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB6_WClkcmSQ41D6nSIuewXAS39hhzf7nHUufhC3KIhAbA",
-        "Address": "Townsville, Queensland, Australia",
-        "Latitude": "-19.2663898468018",
-        "Longitude": "146.805694580078"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.805694580078,
-          -19.2663898468018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "601",
-        "Name_PDF": "Australia_Northern Territory_Alice Springs_200E_10000_0.pdf",
-        "Country": "AUSTRALIA",
-        "State": "NORTHERN TERRITORY",
-        "City": "ALICE SPRINGS",
-        "Year": "nan",
-        "Model": "200E",
-        "TDS": "10000.0",
-        "Elevation": "0.0",
-        "ID_PDF": "726209",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCAFwfLpk1PQY1Zae9ZyP51Af_vzRb2GupWGFLfiOueUck",
-        "Address": "Alice Springs, Northern Territory, Australia",
-        "Latitude": "-23.7000007629395",
-        "Longitude": "133.883331298828"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.883331298828,
-          -23.7000007629395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "602",
-        "Name_PDF": "Australia_Western Australia_Mount Magnet_600-300_10000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "WESTERN AUSTRALIA",
-        "City": "MOUNT MAGNET",
-        "Year": "nan",
+        "id": "654",
+        "Name_PDF": "PUERTO RICO_PONCE_MERCEDITA_600-300_10000_3_X_2026.PDF",
+        "Country": "PUERTO RICO",
+        "State": "PONCE",
+        "City": "MERCEDITA",
+        "Year": "2026",
         "Model": "600-300",
         "TDS": "10000.0",
         "Elevation": "3.0",
-        "ID_PDF": "726200",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBt6l76qv9mT625e3BPmSgdAdPXblzvmtFmzUO302voiXc",
-        "Address": "Mount Magnet, Western Australia, Australia",
-        "Latitude": "-28.064790725708",
-        "Longitude": "117.84903717041"
+        "ID_PDF": "726298",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDoF1UfpDLmR6aE1lvQfcfuAdwxtIDlA80mOZV2VWUstTU",
+        "Address": "MERCEDITA, PONCE, PUERTO RICO",
+        "Latitude": "18.011079788208",
+        "Longitude": "-66.6140594482422"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.84903717041,
-          -28.064790725708
+          -66.6140594482422,
+          18.011079788208
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "603",
-        "Name_PDF": "Australia_Western Australia_West Leinster_600-300_105000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "WESTERN AUSTRALIA",
-        "City": "WEST LEINSTER",
-        "Year": "nan",
+        "id": "655",
+        "Name_PDF": "SAUDI ARABIA_TURAIF_AL-QURAYYAT_600-300_66000_3_X_2026.PDF",
+        "Country": "SAUDI ARABIA",
+        "State": "TURAIF",
+        "City": "AL-QURAYYAT",
+        "Year": "2026",
         "Model": "600-300",
-        "TDS": "105000.0",
+        "TDS": "66000.0",
         "Elevation": "3.0",
-        "ID_PDF": "726204",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDtCRlBGdT8SpkSVHLxjF_zAZv0XYubtADRTIkDI3KhM2s",
-        "Address": "West Leinster, Western Australia, Australia",
-        "Latitude": "-27.8500003814697",
-        "Longitude": "120.699996948242"
+        "ID_PDF": "726286",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAUQpNDcOzOT4V6Hsms1n_UAZec-vQEn_evG43Egbfs3uU",
+        "Address": "AL-QURAYYAT, TURAIF, SAUDI ARABIA",
+        "Latitude": "31.3333301544189",
+        "Longitude": "37.3419494628906"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.699996948242,
-          -27.8500003814697
+          37.3419494628906,
+          31.3333301544189
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "604",
-        "Name_PDF": "Australia_Tasmania_Burnie_600-300_5000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "TASMANIA",
-        "City": "BURNIE",
-        "Year": "nan",
-        "Model": "600-300",
-        "TDS": "5000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726217",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBVMNdRJ7jORaqb0KUyIKRsASP9wd_7xqWC-7zU4h7T1PI",
-        "Address": "Burnie, Tasmania, Australia",
-        "Latitude": "-41.0558395385742",
-        "Longitude": "145.903747558594"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.903747558594,
-          -41.0558395385742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "605",
-        "Name_PDF": "Australia_Northern Territory_Alice Springs_40E_10000_0.pdf",
-        "Country": "AUSTRALIA",
-        "State": "NORTHERN TERRITORY",
-        "City": "ALICE SPRINGS",
-        "Year": "nan",
-        "Model": "40E",
-        "TDS": "10000.0",
-        "Elevation": "0.0",
-        "ID_PDF": "726208",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBvMOoWL9KgQI3x8T7uFqSaAX8L3hZXMiAsP_ajU1kmfZc",
-        "Address": "Alice Springs, Northern Territory, Australia",
-        "Latitude": "-23.7000007629395",
-        "Longitude": "133.883331298828"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.883331298828,
-          -23.7000007629395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "606",
-        "Name_PDF": "Australia_Queensland_Gladstone_200E_50000_0.pdf",
-        "Country": "AUSTRALIA",
-        "State": "QUEENSLAND",
-        "City": "GLADSTONE",
-        "Year": "nan",
-        "Model": "200E",
-        "TDS": "50000.0",
-        "Elevation": "0.0",
-        "ID_PDF": "726215",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB0m_8CtqVoTK4H2I8xvkTgAbN-lIMn3_yBzmZnccXfHRg",
-        "Address": "Gladstone, Queensland, Australia",
-        "Latitude": "-23.8500003814697",
-        "Longitude": "151.25"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.25,
-          -23.8500003814697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "607",
-        "Name_PDF": "Australia_Queensland_Bowen Basin_600-300_5000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "QUEENSLAND",
-        "City": "BOWEN BASIN",
-        "Year": "nan",
-        "Model": "600-300",
-        "TDS": "5000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726211",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQByY0ukkutjTYm-JtPZox5VAYK3gW8pSxgdt1aI1bf61OI",
-        "Address": "Bowen Basin, Queensland, Australia",
-        "Latitude": "-22.6000003814697",
-        "Longitude": "144.550003051758"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.550003051758,
-          -22.6000003814697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "608",
-        "Name_PDF": "Australia_Northern Territory_Alice Springs_400-200_10000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "NORTHERN TERRITORY",
-        "City": "ALICE SPRINGS",
-        "Year": "nan",
-        "Model": "400-200",
-        "TDS": "10000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726210",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCiQ48EceFRSYM8YvXaUPsWAZM4aD6vGiPacLG8cIqQheA",
-        "Address": "Alice Springs, Northern Territory, Australia",
-        "Latitude": "-23.7000007629395",
-        "Longitude": "133.883331298828"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.883331298828,
-          -23.7000007629395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "609",
-        "Name_PDF": "Australia_Western Australia_Kalgoorlie_600-300_5000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "WESTERN AUSTRALIA",
-        "City": "KALGOORLIE",
-        "Year": "nan",
-        "Model": "600-300",
-        "TDS": "5000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726202",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBunro_gUxMR5_Udz-hfTeZAZVPQ3muGTVYdFA5Ti4r_f8",
-        "Address": "Kalgoorlie, Western Australia, Australia",
-        "Latitude": "-30.75",
-        "Longitude": "121.466667175293"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.466667175293,
-          -30.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "610",
-        "Name_PDF": "Australia_New South Wales_Lidsdale_200E_10000_0.pdf",
-        "Country": "AUSTRALIA",
-        "State": "NEW SOUTH WALES",
-        "City": "LIDSDALE",
-        "Year": "nan",
-        "Model": "200E",
-        "TDS": "10000.0",
-        "Elevation": "0.0",
-        "ID_PDF": "726205",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDLxsJmPQMSTYTaVBwK_zPHAax95y7lOOBj3jq3Kvbr384",
-        "Address": "Lidsdale, New South Wales, Australia",
-        "Latitude": "-33.4824714660645",
-        "Longitude": "150.136306762695"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.136306762695,
-          -33.4824714660645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "611",
-        "Name_PDF": "Australia_Western Australia_Kalgoorlie_200-100_5000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "WESTERN AUSTRALIA",
-        "City": "KALGOORLIE",
-        "Year": "nan",
-        "Model": "200-100",
-        "TDS": "5000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726219",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC5DYljhJWYToe8bpj12ef3AVhkxtN1fItyU28MbIpO2zI",
-        "Address": "Kalgoorlie, Western Australia, Australia",
-        "Latitude": "-30.75",
-        "Longitude": "121.466667175293"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.466667175293,
-          -30.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "612",
-        "Name_PDF": "USA_Idaho_Mountain Home_600-300_10000_3.pdf",
+        "id": "656",
+        "Name_PDF": "USA_CALIFORNIA_MENDOTA_600-300_10000_3_X_2026.PDF",
         "Country": "USA",
-        "State": "IDAHO",
-        "City": "MOUNTAIN HOME",
-        "Year": "nan",
+        "State": "CALIFORNIA",
+        "City": "MENDOTA",
+        "Year": "2026",
         "Model": "600-300",
         "TDS": "10000.0",
         "Elevation": "3.0",
-        "ID_PDF": "726206",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBpgMzESbC-R5F4I6Jqil6kAXvuAq52aw7ScNCRGSlmAso",
-        "Address": "Mountain Home, Idaho, USA",
-        "Latitude": "43.1329498291016",
-        "Longitude": "-115.691200256348"
+        "ID_PDF": "726292",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBjdAmC2tQ8RL-QSoOTIn3kAc0qmlwqcnYn4GKUa1dKggw",
+        "Address": "MENDOTA, CALIFORNIA, USA",
+        "Latitude": "36.7535591125488",
+        "Longitude": "-120.381553649902"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.691200256348,
-          43.1329498291016
+          -120.381553649902,
+          36.7535591125488
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "613",
-        "Name_PDF": "Australia_Western Australia_Mount Magnet_600-300_10000_40.pdf",
-        "Country": "AUSTRALIA",
-        "State": "WESTERN AUSTRALIA",
-        "City": "MOUNT MAGNET",
-        "Year": "nan",
+        "id": "657",
+        "Name_PDF": "SPAIN_SALAMANCA_BARRUECOPARDO_600-300_10000_50_X_2026.PDF",
+        "Country": "SPAIN",
+        "State": "SALAMANCA",
+        "City": "BARRUECOPARDO",
+        "Year": "2026",
         "Model": "600-300",
         "TDS": "10000.0",
-        "Elevation": "40.0",
-        "ID_PDF": "726203",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBZy6AU6hP5TbPyPrJ8kii1AfzNtV1f6kl_f-GN24n4bps",
-        "Address": "Mount Magnet, Western Australia, Australia",
-        "Latitude": "-28.064790725708",
-        "Longitude": "117.84903717041"
+        "Elevation": "50.0",
+        "ID_PDF": "726296",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBdJ6DkVzQWSIN6Tb0Nc9UnAUACg5GjtAGVhauwzqZ-Ono",
+        "Address": "BARRUECOPARDO, SALAMANCA, SPAIN",
+        "Latitude": "41.0666694641113",
+        "Longitude": "-6.66666984558105"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          117.84903717041,
-          -28.064790725708
+          -6.66666984558105,
+          41.0666694641113
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "614",
-        "Name_PDF": "Australia_New South Wales_Lithgow_600-300_10000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "NEW SOUTH WALES",
-        "City": "LITHGOW",
-        "Year": "nan",
-        "Model": "600-300",
-        "TDS": "10000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726207",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB5_3ZvpTMFQ4bzvhW5q024Abinjfctm-YG9sbxV2F4g5A",
-        "Address": "Lithgow, New South Wales, Australia",
-        "Latitude": "-33.4824714660645",
-        "Longitude": "150.136306762695"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.136306762695,
-          -33.4824714660645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "615",
-        "Name_PDF": "Australia_Victoria_Mangalore_200E_5000_0.pdf",
-        "Country": "AUSTRALIA",
-        "State": "VICTORIA",
-        "City": "MANGALORE",
-        "Year": "nan",
-        "Model": "200E",
-        "TDS": "5000.0",
-        "Elevation": "0.0",
-        "ID_PDF": "726218",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBYZMaoEiKjSqtXaPfaMJrxAZyw-Mv4GUJOJs6y-emtYGg",
-        "Address": "Mangalore, Victoria, Australia",
-        "Latitude": "-36.8800010681152",
-        "Longitude": "145.179992675781"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.179992675781,
-          -36.8800010681152
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "616",
-        "Name_PDF": "Australia_Queensland_Comet_600-300_10000_47.pdf",
-        "Country": "AUSTRALIA",
-        "State": "QUEENSLAND",
-        "City": "COMET",
-        "Year": "nan",
-        "Model": "600-300",
-        "TDS": "10000.0",
-        "Elevation": "47.0",
-        "ID_PDF": "726213",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBJYQKcc9gZTqROBHICF4gDAQCsw5tVhMnXMnS7fNAFmJo",
-        "Address": "Comet, Queensland, Australia",
-        "Latitude": "-23.6014003753662",
-        "Longitude": "148.807495117188"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.807495117188,
-          -23.6014003753662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "617",
-        "Name_PDF": "Australia_Western Australia_Kalgoorlie_400-200_5000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "WESTERN AUSTRALIA",
-        "City": "KALGOORLIE",
-        "Year": "nan",
+        "id": "658",
+        "Name_PDF": "SAUDI ARABIA_TURAIF_AL-QURAYYAT_400-200_66000_3_X_2026.PDF",
+        "Country": "SAUDI ARABIA",
+        "State": "TURAIF",
+        "City": "AL-QURAYYAT",
+        "Year": "2026",
         "Model": "400-200",
-        "TDS": "5000.0",
+        "TDS": "66000.0",
         "Elevation": "3.0",
-        "ID_PDF": "726220",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAfl-2kGRerT7GGeTBGoRfXAds3TpedU0lFsZxRcH3GJ50",
-        "Address": "Kalgoorlie, Western Australia, Australia",
-        "Latitude": "-30.75",
-        "Longitude": "121.466667175293"
+        "ID_PDF": "726282",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA6_BjZCqnJRr-vGot7wZ6UAcomQEL5jyRUMItt--bmiZM",
+        "Address": "AL-QURAYYAT, TURAIF, SAUDI ARABIA",
+        "Latitude": "31.3333301544189",
+        "Longitude": "37.3419494628906"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.466667175293,
-          -30.75
+          37.3419494628906,
+          31.3333301544189
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "618",
-        "Name_PDF": "Australia_Western Australia_Kalgoorlie_600-300_40000_3.pdf",
-        "Country": "AUSTRALIA",
-        "State": "WESTERN AUSTRALIA",
-        "City": "KALGOORLIE",
-        "Year": "nan",
-        "Model": "600-300",
-        "TDS": "40000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726201",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCbT_wdS7doSbFpTiUgGqoZAdxh5RhC458oydDFUrWQW4M",
-        "Address": "Kalgoorlie, Western Australia, Australia",
-        "Latitude": "-30.75",
-        "Longitude": "121.466667175293"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.466667175293,
-          -30.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "619",
-        "Name_PDF": "Australia_Queensland_Emerald_600-300_20000_25.pdf",
+        "id": "659",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_600-300_10000_3_X_2026.PDF",
         "Country": "AUSTRALIA",
         "State": "QUEENSLAND",
-        "City": "EMERALD",
-        "Year": "nan",
+        "City": "MORANBAH",
+        "Year": "2026",
         "Model": "600-300",
-        "TDS": "20000.0",
-        "Elevation": "25.0",
-        "ID_PDF": "726214",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCL11XgqZC0QYG7oTCxhZiJATFhQqT64A7ult8l_53ZeUs",
-        "Address": "Emerald, Queensland, Australia",
-        "Latitude": "-23.5229606628418",
-        "Longitude": "148.157836914063"
+        "TDS": "10000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726284",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCSlDv1L6p7R7W3CMoW2ECNAdCF1zQ6qDa7b_InUw1_R7M",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": "-22.0016307830811",
+        "Longitude": "148.046600341797"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.157836914063,
-          -23.5229606628418
+          148.046600341797,
+          -22.0016307830811
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "620",
-        "Name_PDF": "Chile_RM_Santiago_600-300_10000_3.pdf",
-        "Country": "CHILE",
-        "State": "RM",
-        "City": "SANTIAGO",
-        "Year": "nan",
+        "id": "660",
+        "Name_PDF": "THAILAND_PHETCHABUN_THAIDONG_600-300_10000_6_X_2026.PDF",
+        "Country": "THAILAND",
+        "State": "PHETCHABUN",
+        "City": "THAIDONG",
+        "Year": "2026",
         "Model": "600-300",
         "TDS": "10000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726221",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/Pilot_PDF_Evaporation Reports/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAp0wzkgXANSaYQF6c0iR4PARZD3umUMXuHzBlxoH1JMLI",
-        "Address": "Santiago, RM, Chile",
-        "Latitude": "-33.5639190673828",
-        "Longitude": "-70.5763626098633"
+        "Elevation": "6.0",
+        "ID_PDF": "726294",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDHJAIYwC4DSr0N7MRctMtlAVcvTCJ7YMbAVvulEz3bqvw",
+        "Address": "THAIDONG, PHETCHABUN, THAILAND",
+        "Latitude": "16.1895294189453",
+        "Longitude": "100.859580993652"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.5763626098633,
-          -33.5639190673828
+          100.859580993652,
+          16.1895294189453
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "637",
-        "Name_PDF": "US_Idaho_Mountain Home_600-300_10000_3_S_122323.pdf",
-        "Country": "US",
-        "State": "IDAHO",
-        "City": "MOUNTAIN HOME",
-        "Year": "122323",
+        "id": "661",
+        "Name_PDF": "USA_NORTH CAROLINA_ROSE HILL_600-300_10000_3_X_2026.PDF",
+        "Country": "USA",
+        "State": "NORTH CAROLINA",
+        "City": "ROSE HILL",
+        "Year": "2026",
         "Model": "600-300",
         "TDS": "10000.0",
         "Elevation": "3.0",
-        "ID_PDF": "726261",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA3LCXpthgsT7LHqr1Z4jyiAdVtDOTYDOMlq0bVl7dFSSI",
-        "Address": "Mountain Home, Idaho, US",
-        "Latitude": "43.1329498291016",
-        "Longitude": "-115.691200256348"
+        "ID_PDF": "726288",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBCp3VZyrs9Qp__Ri8GUOh-AQq7_DP0I73Q63E9fba1Lvk",
+        "Address": "ROSE HILL, NORTH CAROLINA, USA",
+        "Latitude": "34.8282203674316",
+        "Longitude": "-78.0230407714844"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.691200256348,
-          43.1329498291016
+          -78.0230407714844,
+          34.8282203674316
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "id": "638",
-        "Name_PDF": "Chi_RM_Santiago_600-300_10000_3_X_999.pdf",
-        "Country": "CHI",
-        "State": "RM",
-        "City": "SANTIAGO",
-        "Year": "999",
+        "id": "662",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_600-300_10000_5_X_2026.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2026",
         "Model": "600-300",
         "TDS": "10000.0",
-        "Elevation": "3.0",
-        "ID_PDF": "726260",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Karen.Santos/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCFiFkeJ4-PTbZrEVIznWMSAVALZXKWd1ZhnAsV0pjVof0",
-        "Address": "Santiago, RM, Chi",
-        "Latitude": "-33.5639190673828",
-        "Longitude": "-70.5763626098633"
+        "Elevation": "5.0",
+        "ID_PDF": "726308",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA_U7qW-IETT7Lk4CLECilpAYWUQd0a4hVSV7zbCJC1Xy0",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": "-22.0016307830811",
+        "Longitude": "148.046600341797"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.5763626098633,
-          -33.5639190673828
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "663",
+        "Name_PDF": "USA_INDIANA_GARY_600-300_10000_3_X_2026.PDF",
+        "Country": "USA",
+        "State": "INDIANA",
+        "City": "GARY",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726300",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCv-MxzjFX6QbmLV2QIENtFATjWNGUrC1FX1UQ8WF503Rs",
+        "Address": "GARY, INDIANA, USA",
+        "Latitude": "41.5933685302734",
+        "Longitude": "-87.3464279174805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3464279174805,
+          41.5933685302734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "664",
+        "Name_PDF": "USA_TEXAS_KARNES CITY_600-300_1000_3_X_2026.PDF",
+        "Country": "USA",
+        "State": "TEXAS",
+        "City": "KARNES CITY",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "1000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726290",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDUApHRbqMOSpHUoTpYMfWwAYnezxK8wBNp41jB7upwe2c",
+        "Address": "KARNES CITY, TEXAS, USA",
+        "Latitude": "28.8849792480469",
+        "Longitude": "-97.9008331298828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9008331298828,
+          28.8849792480469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "665",
+        "Name_PDF": "USA_TEXAS_KARNES CITY_600-300_1000_5_X_2026.PDF",
+        "Country": "USA",
+        "State": "TEXAS",
+        "City": "KARNES CITY",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "1000.0",
+        "Elevation": "5.0",
+        "ID_PDF": "726304",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAN9xatpk8CSr03I1p1ZkldAXdUma-EIIYyJicZRBOZ1K8",
+        "Address": "KARNES CITY, TEXAS, USA",
+        "Latitude": "28.8849792480469",
+        "Longitude": "-97.9008331298828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9008331298828,
+          28.8849792480469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "666",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_CLERMONT_600-300_10000_3_X_2026.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "CLERMONT",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726306",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDfvQii0qRZT7xnb8YbD0s3AXKCm2agCjPO0egcf--CLlE",
+        "Address": "CLERMONT, QUEENSLAND, AUSTRALIA",
+        "Latitude": "-22.8240699768066",
+        "Longitude": "147.636352539063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.636352539063,
+          -22.8240699768066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "667",
+        "Name_PDF": "USA_LOUISIANA_GRAMERCY_600-300_10000_3_X_2026.pdf",
+        "Country": "USA",
+        "State": "LOUISIANA",
+        "City": "GRAMERCY",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726302",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBZGrBJXtwQSLfJzIdju3yfAYiVqfodwhACLlJNt2zQIdM",
+        "Address": "GRAMERCY, LOUISIANA, USA",
+        "Latitude": "30.047420501709",
+        "Longitude": "-90.689811706543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.689811706543,
+          30.047420501709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "668",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_PERTH_600-300_1000_8_X_2026.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "PERTH",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "1000.0",
+        "Elevation": "8.0",
+        "ID_PDF": "726314",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBMJOpk1wu7Tq_HqV6JdAmJAZ7txGhf0qJCJkk0WJ6Dch4",
+        "Address": "PERTH, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": "-31.9522399902344",
+        "Longitude": "115.861396789551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.861396789551,
+          -31.9522399902344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "669",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_600-300_10000_10_X_2026.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "10.0",
+        "ID_PDF": "726320",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDBU0MNVkCFSrkLTTgBR8AlAQsoZPUBRjY2fW1-KdptYjY",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": "-22.0016307830811",
+        "Longitude": "148.046600341797"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "670",
+        "Name_PDF": "USA_INDIANA_TERRE HAUTE_600-300_10000_3_X_2026.PDF",
+        "Country": "USA",
+        "State": "INDIANA",
+        "City": "TERRE HAUTE",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726326",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAc9PBNqhNSQIK9trmnMP0LAfZrUmqSqRk7161dsC4-iQA",
+        "Address": "TERRE HAUTE, INDIANA, USA",
+        "Latitude": "39.4667015075684",
+        "Longitude": "-87.4139099121094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4139099121094,
+          39.4667015075684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "671",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GREENBUSHES_600-300_66000_3_X_2026.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GREENBUSHES",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "66000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726310",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCdzfIjW9_bQaReePYH7_z0AYEgxB6QG-rravKe3JywZTg",
+        "Address": "GREENBUSHES, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": "-33.9500007629395",
+        "Longitude": "116.129997253418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.129997253418,
+          -33.9500007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "673",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GREENBUSHES_600-300_10000_10_X_2026.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GREENBUSHES",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "10.0",
+        "ID_PDF": "726322",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB_kU4J97x5SYTTGWYEsO1rAWtTd5a4ucbbrDVGf-e-qaU",
+        "Address": "GREENBUSHES, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": "-33.9500007629395",
+        "Longitude": "116.129997253418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.129997253418,
+          -33.9500007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "674",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_KWINANA_600-300_1000_8_X_2026.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "KWINANA",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "1000.0",
+        "Elevation": "8.0",
+        "ID_PDF": "726318",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDHlNC4I3tbRLbfqTvvT7s6ASCOMrmldLN4mtHFs5GdYNg",
+        "Address": "KWINANA, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": "-32.2301292419434",
+        "Longitude": "115.781280517578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.781280517578,
+          -32.2301292419434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "675",
+        "Name_PDF": "USA_PENNSYLVANIA_WAYNESBURG_600-300_10000_3_X_2026.PDF",
+        "Country": "USA",
+        "State": "PENNSYLVANIA",
+        "City": "WAYNESBURG",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726328",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBleAqTEqmHQJwpGuUwvkSjAUy4ZBLkA-VF2QpHTwxjgqc",
+        "Address": "WAYNESBURG, PENNSYLVANIA, USA",
+        "Latitude": "39.8964691162109",
+        "Longitude": "-80.1792297363281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1792297363281,
+          39.8964691162109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "676",
+        "Name_PDF": "POLAND_LOWER SILESIAN_TARNOWEK_600-300_50000_3_X_2026.PDF",
+        "Country": "POLAND",
+        "State": "LOWER SILESIAN",
+        "City": "TARNOWEK",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "50000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726312",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA8fX_iTMvNTLKfbB83YqheAU7KNfeHMyjT6G8uj1GaZnI",
+        "Address": "TARNOWEK, LOWER SILESIAN, POLAND",
+        "Latitude": "51.5",
+        "Longitude": "16.0666694641113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0666694641113,
+          51.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "677",
+        "Name_PDF": "USA_INDIANA_CHICAGO_600-300_10000_3_X_2026.PDF",
+        "Country": "USA",
+        "State": "INDIANA",
+        "City": "CHICAGO",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "3.0",
+        "ID_PDF": "726324",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCpOb5DvcXyTIMuaQ0uvc6qATOtzvLz8KWuR2Ph1mxrrwo",
+        "Address": "CHICAGO, INDIANA, USA",
+        "Latitude": "41.8500289916992",
+        "Longitude": "-87.6500473022461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6500473022461,
+          41.8500289916992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "678",
+        "Name_PDF": "THAILAND_PHETCHABUN_THAIDONG_600-300_10000_12_X_2026.PDF",
+        "Country": "THAILAND",
+        "State": "PHETCHABUN",
+        "City": "THAIDONG",
+        "Year": "2026",
+        "Model": "600-300",
+        "TDS": "10000.0",
+        "Elevation": "12.0",
+        "ID_PDF": "726316",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQADrgpRLhNDSqcr0N4R1vbOAQkngQ9VCHWxGNLo-Mep3ZA",
+        "Address": "THAIDONG, PHETCHABUN, THAILAND",
+        "Latitude": "16.1895294189453",
+        "Longitude": "100.859580993652"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.859580993652,
+          16.1895294189453
         ]
       }
     }
