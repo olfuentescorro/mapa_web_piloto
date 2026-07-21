@@ -768,23 +768,22 @@ document.addEventListener("DOMContentLoaded", function() {
             }
         });
     }, 1000); // Se ejecuta un segundo después de cargar para asegurar que los datos ya están en la página
-    // -- FIN: ORDENAR FILTROS ALFABÉTICAMENTE --
+// -- FIN: ORDENAR FILTROS ALFABÉTICAMENTE --
 // -- INICIO: CONVERTIR FILTROS EN DESPLEGABLES --
     setTimeout(function() {
         var filterDivs = document.querySelectorAll('.filterselect');
         filterDivs.forEach(function(div) {
-            // Buscamos si el filtro tiene una caja de selección múltiple
-            var select = div.querySelector('select');
             var label = div.querySelector('.filterlabel');
 
-            // --- INICIO DEL CAMBIO ---
-            // Interceptamos la etiqueta de Elevación y le cambiamos el nombre antes de crear el menú
-            if (label && label.textContent.trim() === 'Elevation') {
-                label.innerHTML = 'Elevation (m)';
-            }
-            // --- FIN DEL CAMBIO ---
+            // Si el contenedor tiene una etiqueta, procesamos el acordeón
+            if (label) {
+                // --- INICIO DEL CAMBIO ---
+                // Interceptamos la etiqueta de Elevación y le cambiamos el nombre
+                if (label.textContent.trim() === 'Elevation') {
+                    label.innerHTML = 'Elevation (m)';
+                }
+                // --- FIN DEL CAMBIO ---
 
-            if (select && label) {
                 // Creamos el menú colapsable (Acordeón)
                 var details = document.createElement('details');
                 var summary = document.createElement('summary');
@@ -797,10 +796,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
                 details.appendChild(summary);
 
-                // Movemos la caja de selección y el botón "clear" adentro del desplegable
+                // Movemos TODOS los elementos internos (cajas, sliders y botones clear) adentro del desplegable
                 while (div.firstChild) {
                     if (div.firstChild === label) {
-                        div.removeChild(div.firstChild);
+                        div.removeChild(div.firstChild); // Borramos el texto original para no duplicarlo
                     } else {
                         details.appendChild(div.firstChild);
                     }
