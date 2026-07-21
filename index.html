@@ -62,6 +62,12 @@
               });
             }
         }
+		// PARCHE DE SEGURIDAD PARA EVITAR EL COLAPSO DEL FILTRO
+        var originalOff = L.Evented.prototype.off;
+        L.Evented.prototype.off = function (types, fn, context) {
+            if (typeof types === 'undefined') return this;
+            return originalOff.call(this, types, fn, context);
+        };
         var map = L.map('map', {
             zoomControl:false, maxZoom:28, minZoom:1
         }).fitBounds([[-89.97032880113107,-268.89091464827834],[89.97032880113107,268.89091464827845]]);
@@ -600,13 +606,13 @@
             slider_Elevation.style.width = "90%";
             div_Elevation.appendChild(slider_Elevation);
 
-            // 3. Encendemos el motor del slider indicando el mínimo (0) y máximo (47) de tus datos
+            // 3. Encendemos el motor del slider indicando el mínimo (0) y máximo (5000) de tus datos
             noUiSlider.create(slider_Elevation, {
-                start: [0, 47], 
+                start: [0, 1000], 
                 connect: true,
                 range: {
                     'min': 0,
-                    'max': 47
+                    'max': 1000
                 },
                 step: 1,
                 tooltips: true,
