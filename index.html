@@ -177,43 +177,43 @@
             });
             var popupContent = '<table>\
                     <tr>\
-                        <th scope="row">Country</th>\
+                        <th scope="row">Country:</th>\
                         <td>' + (feature.properties['Country'] !== null ? autolinker.link(String(feature.properties['Country']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">State</th>\
+                        <th scope="row">State:</th>\
                         <td>' + (feature.properties['State'] !== null ? autolinker.link(String(feature.properties['State']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">City</th>\
+                        <th scope="row">City:</th>\
                         <td>' + (feature.properties['City'] !== null ? autolinker.link(String(feature.properties['City']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
-					<tr>\
-                        <th scope="row">Year</th>\
-                        <td>' + (feature.properties['Year'] !== null ? autolinker.link(String(feature.properties['Year']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
-                    </tr>\
                     <tr>\
-                        <th scope="row">Elevation</th>\
+                        <th scope="row">Elevation (m):</th>\
                         <td>' + (feature.properties['Elevation'] !== null ? autolinker.link(String(feature.properties['Elevation']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">Model</th>\
+                        <th scope="row">Model:</th>\
                         <td>' + (feature.properties['Model'] !== null ? autolinker.link(String(feature.properties['Model']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">TDS</th>\
+                        <th scope="row">TDS:</th>\
                         <td>' + (feature.properties['TDS'] !== null ? autolinker.link(String(feature.properties['TDS']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">ID_PDF</th>\
+                        <th scope="row">Year:</th>\
+                        <td>' + (feature.properties['Year'] !== null ? autolinker.link(String(feature.properties['Year']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">ID_PDF:</th>\
                         <td>' + (feature.properties['ID_PDF'] !== null ? autolinker.link(String(feature.properties['ID_PDF']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
-					<tr>\
-                        <th scope="row">Name_PDF</th>\
+                    <tr>\
+                        <th scope="row">Name_PDF:</th>\
                         <td>' + (feature.properties['Name_PDF'] !== null ? autolinker.link(String(feature.properties['Name_PDF']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">URL</th>\
+                        <th scope="row">URL:</th>\
                         <td>' + (feature.properties['URL'] !== null ? autolinker.link(String(feature.properties['URL']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
@@ -744,6 +744,31 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }, 1000);
 });
+// -- INICIO: ORDENAR FILTROS ALFABÉTICAMENTE --
+    setTimeout(function() {
+        ["sel_Country", "sel_State", "sel_City"].forEach(function(id) {
+            var sel = document.getElementById(id);
+            if (sel) {
+                // Convertimos las opciones a un arreglo (Array)
+                var options = Array.from(sel.options);
+                
+                // Separamos la opción vacía (el botón transparente de reset) del resto de opciones
+                var firstOption = options.find(function(o) { return o.value === ''; });
+                var otherOptions = options.filter(function(o) { return o.value !== ''; });
+                
+                // Ordenamos las opciones reales de la A a la Z
+                otherOptions.sort(function(a, b) {
+                    return a.text.localeCompare(b.text);
+                });
+                
+                // Limpiamos la caja y volvemos a inyectar todo en el nuevo orden
+                sel.innerHTML = "";
+                if (firstOption) { sel.appendChild(firstOption); }
+                otherOptions.forEach(function(opt) { sel.appendChild(opt); });
+            }
+        });
+    }, 1000); // Se ejecuta un segundo después de cargar para asegurar que los datos ya están en la página
+    // -- FIN: ORDENAR FILTROS ALFABÉTICAMENTE --
 // -- INICIO: CONVERTIR FILTROS EN DESPLEGABLES --
     setTimeout(function() {
         var filterDivs = document.querySelectorAll('.filterselect');
@@ -751,6 +776,13 @@ document.addEventListener("DOMContentLoaded", function() {
             // Buscamos si el filtro tiene una caja de selección múltiple
             var select = div.querySelector('select');
             var label = div.querySelector('.filterlabel');
+
+            // --- INICIO DEL CAMBIO ---
+            // Interceptamos la etiqueta de Elevación y le cambiamos el nombre antes de crear el menú
+            if (label && label.textContent.trim() === 'Elevation') {
+                label.innerHTML = 'Elevation (m)';
+            }
+            // --- FIN DEL CAMBIO ---
 
             if (select && label) {
                 // Creamos el menú colapsable (Acordeón)
