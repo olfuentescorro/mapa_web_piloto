@@ -208,6 +208,10 @@
                         <th scope="row">ID_PDF</th>\
                         <td>' + (feature.properties['ID_PDF'] !== null ? autolinker.link(String(feature.properties['ID_PDF']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
+					<tr>\
+                        <th scope="row">Name_PDF</th>\
+                        <td>' + (feature.properties['Name_PDF'] !== null ? autolinker.link(String(feature.properties['Name_PDF']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
                     <tr>\
                         <th scope="row">URL</th>\
                         <td>' + (feature.properties['URL'] !== null ? autolinker.link(String(feature.properties['URL']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
@@ -331,7 +335,7 @@
             layer: cluster_Evaporation_Studies_1,
             initial: false,
             hideMarkerOnCollapse: true,
-            propertyName: 'Studies'}));
+            propertyName: 'Name_PDF'}));
         if (typeof url === 'undefined') {
             document.getElementsByClassName('search-button')[0].className += ' fa fa-binoculars';
         } else {
