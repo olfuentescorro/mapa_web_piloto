@@ -78,7 +78,10 @@
         };
         var map = L.map('map', {
          zoomControl:false, maxZoom:28, minZoom:1
-     }).setView([25.8, 53.8], 2);
+     });
+     // Calculamos la extensión real de los datos originales para el inicio
+     var capaInicialTemp = L.geoJson(json_Evaporation_Studies_1);
+     map.fitBounds(capaInicialTemp.getBounds(), {padding: [30, 30]});
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/qgis2web/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -773,16 +776,13 @@
 // -- INICIO: BOTÓN ZOOM TO LAYER --
             var zoomToLayerControl = L.control({position: 'topleft'});
             zoomToLayerControl.onAdd = function (map) {
-                // Creamos un contenedor con las clases nativas de Leaflet para que herede el diseño
                 var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
                 var btn = L.DomUtil.create('a', '', container);
                 
-                // Usamos un ícono de expansión de la librería FontAwesome que ya tienes instalada
                 btn.innerHTML = '<i class="fas fa-expand"></i>'; 
                 btn.href = '#';
                 btn.title = 'Zoom to Layer (Fit to points)';
                 
-                // Ajustes de estilo para que luzca idéntico a los botones de + y -
                 btn.style.width = '30px';
                 btn.style.height = '30px';
                 btn.style.lineHeight = '30px';
@@ -791,21 +791,21 @@
                 btn.style.color = 'black';
                 btn.style.display = 'block';
 
-                // Evitamos que al presionar el botón se haga clic accidentalmente en el mapa detrás
                 L.DomEvent.disableClickPropagation(container);
 
                 // Función que se ejecuta al hacer clic
-             L.DomEvent.on(btn, 'click', function(e) {
-                 L.DomEvent.stop(e); // Evita que la página salte al inicio
-
-                 // Retorna exactamente a la vista personalizada
-                 map.setView([25.8, 53.8], 2);
-             });
+                L.DomEvent.on(btn, 'click', function(e) {
+                    L.DomEvent.stop(e); // Evita que la página salte al inicio
+                    
+                    // Ajusta la vista exactamente a la extensión original de los datos base
+                    var capaOriginal = L.geoJson(json_Evaporation_Studies_1);
+                    map.fitBounds(capaOriginal.getBounds(), {padding: [30, 30]});
+                });
 
                 return container;
             };
             zoomToLayerControl.addTo(map);
-// -- FIN: BOTÓN ZOOM TO LAYER --
+            // -- FIN: BOTÓN ZOOM TO LAYER --
         </script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
