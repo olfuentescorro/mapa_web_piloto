@@ -483,6 +483,50 @@
         }
             document.getElementById("menu").appendChild(
                 document.createElement("div"));
+				// -- INICIO: BOTÓN GENERAL "CLEAR ALL FILTERS" --
+            var divClearAll = document.createElement('div');
+            divClearAll.style.padding = "10px";
+            divClearAll.style.textAlign = "center";
+            
+            var btnClearAll = document.createElement('button');
+            btnClearAll.innerHTML = '<i class="fas fa-undo"></i> Clear All Filters';
+            btnClearAll.style.width = "100%";
+            btnClearAll.style.padding = "8px";
+            btnClearAll.style.backgroundColor = "#f8f9fa";
+            btnClearAll.style.border = "1px solid #ccc";
+            btnClearAll.style.borderRadius = "4px";
+            btnClearAll.style.cursor = "pointer";
+            btnClearAll.style.fontWeight = "bold";
+            btnClearAll.style.marginBottom = "10px";
+
+            btnClearAll.onclick = function() {
+                var selects = document.querySelectorAll('#menu select');
+                selects.forEach(function(sel) {
+                    for (var i = 0; i < sel.options.length; i++) {
+                        sel.options[i].selected = false;
+                    }
+                });
+
+                var sliders = document.querySelectorAll('#menu .filterselect');
+                sliders.forEach(function(div) {
+                    if (div.noUiSlider) {
+                        div.noUiSlider.reset();
+                    }
+                });
+
+                var inputsBusqueda = document.querySelectorAll('#menu input[type="text"]');
+                inputsBusqueda.forEach(function(input) {
+                    input.value = "";
+                    var event = new Event('input', { bubbles: true });
+                    input.dispatchEvent(event);
+                });
+
+                filterFunc();
+            };
+
+            divClearAll.appendChild(btnClearAll);
+            document.getElementById("menu").appendChild(divClearAll);
+            // -- FIN: BOTÓN GENERAL "CLEAR ALL FILTERS" --
             var div_Country = document.createElement('div');
             div_Country.id = "div_Country";
             div_Country.className= "filterselect";
