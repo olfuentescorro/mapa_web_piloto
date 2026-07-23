@@ -77,8 +77,8 @@
             return originalOff.call(this, types, fn, context);
         };
         var map = L.map('map', {
-            zoomControl:false, maxZoom:28, minZoom:1
-        }).fitBounds([[-89.97032880113107,-268.89091464827834],[89.97032880113107,268.89091464827845]]);
+         zoomControl:false, maxZoom:28, minZoom:1
+     }).setView([25.8, 53.8], 2);
         var hash = new L.Hash(map);
         map.attributionControl.setPrefix('<a href="https://github.com/qgis2web/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
@@ -414,41 +414,63 @@
             } catch(err){
             }
             
-            // -- INICIO LÓGICA DE FILTROS EN CASCADA --
-            // Recorremos nuevamente los filtros para deshabilitar las opciones sin datos
+            // -- INICIO LÓGICA DE FILTROS EN CASCADA DINÁMICA (OCULTAR NO DISPONIBLES) --
             for (var keyCascada in Filters) {
                 if (Filters[keyCascada] == "str" || Filters[keyCascada] == "bool") {
                     var keySCascada = keyCascada.replace(/[^a-zA-Z0-9_]/g, "");
                     var selectElement = document.getElementById("sel_" + keySCascada);
                     
-                    // a. Hacemos un listado de los valores que existen en los puntos restantes
-                    var valoresDisponibles = [];
-                    for (var j = 0; j < features.length; j++) {
-                        var val = features[j].properties[keyCascada];
-                        if (val !== null && val !== undefined) {
-                            valoresDisponibles.push(String(val));
-                        }
-                    }
-                    
-                    // b. Apagamos o encendemos las opciones del menú visualmente
                     if (selectElement) {
-                        for (var k = 0; k < selectElement.options.length; k++) {
-                            var opcion = selectElement.options[k];
-                            if (opcion.value !== "") {
-                                // Si la opción NO está en los valores disponibles y NO está seleccionada por el usuario
-                                if (valoresDisponibles.indexOf(opcion.value) === -1 && !opcion.selected) {
-                                    opcion.disabled = true;           // Evita que se le haga clic
-                                    opcion.style.color = "#d3d3d3";   // La pinta de gris claro
-                                } else {
-                                    opcion.disabled = false;          // La vuelve a habilitar
-                                    opcion.style.color = "#000000";   // La pinta de negro normal
-                                }
+                        // a. Recopilamos los valores actualmente seleccionados por el usuario en este menú
+                        var seleccionadosPrevios = [];
+                        for (var optIdx = 0; optIdx < selectElement.options.length; optIdx++) {
+                            if (selectElement.options[optIdx].selected) {
+                                seleccionadosPrevios.push(selectElement.options[optIdx].value);
                             }
                         }
+
+                        // b. Listamos los valores válidos según los puntos que sobrevivieron al filtro general
+                        var valoresDisponibles = [];
+                        for (var j = 0; j < features.length; j++) {
+                            var val = features[j].properties[keyCascada];
+                            if (val !== null && val !== undefined) {
+                                valoresDisponibles.push(String(val));
+                            }
+                        }
+
+                        // c. Obtenemos todas las opciones maestras originales de esta columna ordenadas de la A a la Z
+                        // (Nos basamos en el archivo base para no perder opciones al deseleccionar)
+                        var unicosGlobales = new Set();
+                        json_Evaporation_Studies_1.features.forEach(function(f) {
+                            var v = f.properties[keyCascada];
+                            if (v !== null && v !== undefined && String(v).trim() !== "") {
+                                unicosGlobales.add(String(v));
+                            }
+                        });
+
+                        var opcionesOrdenadas = Array.from(unicosGlobales).sort(function(a, b) {
+                            return a.localeCompare(b);
+                        });
+
+                        // d. Reconstruimos las opciones del menú: solo mostramos las disponibles o las que ya están seleccionadas
+                        selectElement.innerHTML = "";
+                        opcionesOrdenadas.forEach(function(valTexto) {
+                            var estaDisponible = valoresDisponibles.indexOf(valTexto) !== -1;
+                            var estaSeleccionado = seleccionadosPrevios.indexOf(valTexto) !== -1;
+
+                            // Mostramos la opción si hay datos disponibles para ella O si el usuario ya la tenía marcada
+                            if (estaDisponible || estaSeleccionado) {
+                                var option = document.createElement('option');
+                                option.value = valTexto;
+                                option.text = valTexto;
+                                option.selected = estaSeleccionado; // Mantiene la selección del usuario
+                                selectElement.appendChild(option);
+                            }
+                        });
                     }
                 }
             }
-            // -- FIN LÓGICA DE FILTROS EN CASCADA --
+            // -- FIN LÓGICA DE FILTROS EN CASCADA DINÁMICA --
 
             // 3. Actualización del Mapa y Clústeres
             cluster_Evaporation_Studies_1.clearLayers();
@@ -773,13 +795,12 @@
                 L.DomEvent.disableClickPropagation(container);
 
                 // Función que se ejecuta al hacer clic
-                L.DomEvent.on(btn, 'click', function(e) {
-                    L.DomEvent.stop(e); // Evita que la página salte al inicio
-                    
-                    // Creamos una capa virtual temporal con los datos base sin filtrar para calcular la extensión global real
-                    var capaOriginal = L.geoJson(json_Evaporation_Studies_1);
-                    map.fitBounds(capaOriginal.getBounds(), {padding: [30, 30]});
-                });
+             L.DomEvent.on(btn, 'click', function(e) {
+                 L.DomEvent.stop(e); // Evita que la página salte al inicio
+
+                 // Retorna exactamente a la vista personalizada
+                 map.setView([25.8, 53.8], 2);
+             });
 
                 return container;
             };
