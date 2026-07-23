@@ -76,9 +76,7 @@
             if (typeof types === 'undefined') return this;
             return originalOff.call(this, types, fn, context);
         };
-        var map = L.map('map', {
-         zoomControl:false, maxZoom:28, minZoom:1
-     });
+
      var map = L.map('map', {
             zoomControl:false, maxZoom:28, minZoom:1
         }).setView([34.6, 55.2], 2);
