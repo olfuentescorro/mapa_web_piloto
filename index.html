@@ -776,10 +776,9 @@
                 L.DomEvent.on(btn, 'click', function(e) {
                     L.DomEvent.stop(e); // Evita que la página salte al inicio
                     
-                    // Si hay puntos en el mapa, hace zoom hacia ellos dejando un margen (padding) de 30px
-                    if (cluster_Evaporation_Studies_1.getLayers().length > 0) {
-                        map.fitBounds(cluster_Evaporation_Studies_1.getBounds(), {padding: [30, 30]});
-                    }
+                    // Creamos una capa virtual temporal con los datos base sin filtrar para calcular la extensión global real
+                    var capaOriginal = L.geoJson(json_Evaporation_Studies_1);
+                    map.fitBounds(capaOriginal.getBounds(), {padding: [30, 30]});
                 });
 
                 return container;
