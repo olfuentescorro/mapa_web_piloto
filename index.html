@@ -417,14 +417,14 @@
             } catch(err){
             }
             
-            // -- INICIO LÓGICA DE FILTROS EN CASCADA DINÁMICA (OCULTAR NO DISPONIBLES) --
+            // -- INICIO LÓGICA DE FILTROS EN CASCADA CON SELECCIÓN MÚLTIPLE FLUIDA --
             for (var keyCascada in Filters) {
                 if (Filters[keyCascada] == "str" || Filters[keyCascada] == "bool") {
                     var keySCascada = keyCascada.replace(/[^a-zA-Z0-9_]/g, "");
                     var selectElement = document.getElementById("sel_" + keySCascada);
                     
                     if (selectElement) {
-                        // a. Recopilamos los valores actualmente seleccionados por el usuario en este menú
+                        // a. Guardamos los valores que el usuario tiene actualmente seleccionados
                         var seleccionadosPrevios = [];
                         for (var optIdx = 0; optIdx < selectElement.options.length; optIdx++) {
                             if (selectElement.options[optIdx].selected) {
@@ -432,7 +432,7 @@
                             }
                         }
 
-                        // b. Listamos los valores válidos según los puntos que sobrevivieron al filtro general
+                        // b. Valores disponibles según los puntos actuales en el mapa
                         var valoresDisponibles = [];
                         for (var j = 0; j < features.length; j++) {
                             var val = features[j].properties[keyCascada];
@@ -441,8 +441,7 @@
                             }
                         }
 
-                        // c. Obtenemos todas las opciones maestras originales de esta columna ordenadas de la A a la Z
-                        // (Nos basamos en el archivo base para no perder opciones al deseleccionar)
+                        // c. Obtenemos la lista global ordenada alfabéticamente
                         var unicosGlobales = new Set();
                         json_Evaporation_Studies_1.features.forEach(function(f) {
                             var v = f.properties[keyCascada];
@@ -455,25 +454,25 @@
                             return a.localeCompare(b);
                         });
 
-                        // d. Reconstruimos las opciones del menú: solo mostramos las disponibles o las que ya están seleccionadas
+                        // d. Redibujamos las opciones manteniendo las seleccionadas activas para selección múltiple
                         selectElement.innerHTML = "";
                         opcionesOrdenadas.forEach(function(valTexto) {
                             var estaDisponible = valoresDisponibles.indexOf(valTexto) !== -1;
                             var estaSeleccionado = seleccionadosPrevios.indexOf(valTexto) !== -1;
 
-                            // Mostramos la opción si hay datos disponibles para ella O si el usuario ya la tenía marcada
+                            // Mostramos la opción si hay datos o si el usuario la marcó previamente
                             if (estaDisponible || estaSeleccionado) {
                                 var option = document.createElement('option');
                                 option.value = valTexto;
                                 option.text = valTexto;
-                                option.selected = estaSeleccionado; // Mantiene la selección del usuario
+                                option.selected = estaSeleccionado; // Conserva la selección múltiple
                                 selectElement.appendChild(option);
                             }
                         });
                     }
                 }
             }
-            // -- FIN LÓGICA DE FILTROS EN CASCADA DINÁMICA --
+            // -- FIN LÓGICA DE FILTROS EN CASCADA CON SELECCIÓN MÚLTIPLE FLUIDA --
 
             // 3. Actualización del Mapa y Clústeres
             cluster_Evaporation_Studies_1.clearLayers();
