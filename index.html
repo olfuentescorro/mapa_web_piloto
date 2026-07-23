@@ -361,7 +361,7 @@
         document.getElementById("all").appendChild(col2);
         col1.appendChild(mapDiv)
 		
-        var Filters = {"Country": "str","State": "str","City": "str","Year": "str", "Elevation": "int","Model": "str","TDS": "str"};
+        var Filters = {"Country": "str","State": "str","City": "str","Year": "str", "Elevation": "int","Model": "str","TDS": "int"};
         
         function filterFunc() {
             var features = json_Evaporation_Studies_1.features.slice(0);
@@ -590,53 +590,6 @@
                 filterFunc();
             };
             div_Year.appendChild(reset_Year);
-            // -- INICIO DEL NUEVO SLIDER DE ELEVACIÓN --
-            document.getElementById("menu").appendChild(document.createElement("div"));
-            var div_Elevation = document.createElement('div');
-            div_Elevation.id = "div_Elevation";
-            div_Elevation.className= "filterselect";
-            document.getElementById("menu").appendChild(div_Elevation);
-            
-            // 1. Creamos la etiqueta de texto
-            var lab_Elevation = document.createElement('div');
-            lab_Elevation.innerHTML = 'Elevation (m)';
-            lab_Elevation.className = 'filterlabel';
-            div_Elevation.appendChild(lab_Elevation);
-            
-            // 2. Creamos el contenedor visual para la barra deslizante
-            var slider_Elevation = document.createElement('div');
-            slider_Elevation.style.marginTop = "10px"; // Damos un poco de espacio
-            slider_Elevation.style.marginBottom = "10px";
-            slider_Elevation.style.width = "90%";
-            div_Elevation.appendChild(slider_Elevation);
-
-            // 3. Encendemos el motor del slider indicando el mínimo (0) y máximo (5000) de tus datos
-            noUiSlider.create(slider_Elevation, {
-                start: [0, 1000], 
-                connect: true,
-                range: {
-                    'min': 0,
-                    'max': 1000
-                },
-                step: 1,
-                tooltips: true,
-                format: wNumb({ decimals: 0 })
-            });
-
-            // 4. Conectamos el slider con la función de filtrado del mapa
-            div_Elevation.noUiSlider = slider_Elevation.noUiSlider;
-            slider_Elevation.noUiSlider.on('change', function() { filterFunc() });
-            
-            // 5. Configuramos el botón de reinicio
-            var reset_Elevation = document.createElement('div');
-            reset_Elevation.innerHTML = 'clear filter';
-            reset_Elevation.className = 'filterlabel';
-            reset_Elevation.onclick = function() {
-                slider_Elevation.noUiSlider.reset();
-                filterFunc();
-            };
-            div_Elevation.appendChild(reset_Elevation);
-            // -- FIN DEL NUEVO SLIDER DE ELEVACIÓN --
             var div_Model = document.createElement('div');
             div_Model.id = "div_Model";
             div_Model.className= "filterselect";
@@ -671,39 +624,118 @@
             div_Model.appendChild(reset_Model);
             document.getElementById("menu").appendChild(
                 document.createElement("div"));
-            var div_TDS = document.createElement('div');
-            div_TDS.id = "div_TDS";
-            div_TDS.className= "filterselect";
-            document.getElementById("menu").appendChild(div_TDS);
-            sel_TDS = document.createElement('select');
-            sel_TDS.multiple = true;
-            sel_TDS.size = 6;
-            sel_TDS.id = "sel_TDS";
-            var TDS_options_str = "<option value='' unselected></option>";
-            sel_TDS.onchange = function(){filterFunc()};
-            TDS_options_str  += '<option value="10000 ppm">10000 ppm</option>';
-            TDS_options_str  += '<option value="105000 ppm">105000 ppm</option>';
-            TDS_options_str  += '<option value="20000 ppm">20000 ppm</option>';
-            TDS_options_str  += '<option value="40000 ppm">40000 ppm</option>';
-            TDS_options_str  += '<option value="5000 ppm">5000 ppm</option>';
-            TDS_options_str  += '<option value="50000 ppm">50000 ppm</option>';
-            sel_TDS.innerHTML = TDS_options_str;
-            div_TDS.appendChild(sel_TDS);
-            var lab_TDS = document.createElement('div');
-            lab_TDS.innerHTML = 'TDS';
-            lab_TDS.className = 'filterlabel';
-            div_TDS.appendChild(lab_TDS);
-            var reset_TDS = document.createElement('div');
-            reset_TDS.innerHTML = 'clear filter';
-            reset_TDS.className = 'filterlabel';
-            reset_TDS.onclick = function() {
-                var options = document.getElementById("sel_TDS").options;
-                for (var i=0; i < options.length; i++) {
-                    options[i].selected = false;
-                }
-                filterFunc();
-            };
-            div_TDS.appendChild(reset_TDS);
+// -- INICIO DE SLIDERS DINÁMICOS E INTERACTIVOS (ELEVATION Y TDS) --
+            // 1. Función para escanear el archivo de datos y obtener el Mínimo y Máximo real
+            function obtenerMinMax(features, propiedad) {
+                var valores = features.map(function(f) { return parseFloat(f.properties[propiedad]); })
+                                      .filter(function(v) { return !isNaN(v); });
+                if (valores.length === 0) return [0, 100]; // Seguridad por si no hay datos
+                var min = Math.min.apply(null, valores);
+                var max = Math.max.apply(null, valores);
+                if (min === max) max = min + 1; // Evita que el slider colapse si todos los valores son iguales
+                return [min, max];
+            }
+            
+            var featuresData = json_Evaporation_Studies_1.features;
+            
+            // 2. Función maestra creadora de sliders híbridos (Barra + Cajas de texto)
+            function crearSliderDinamico(idVariable, titulo, paso) {
+                var limites = obtenerMinMax(featuresData, idVariable);
+                var minReal = limites[0];
+                var maxReal = limites[1];
+
+                var divContenedor = document.createElement('div');
+                divContenedor.id = "div_" + idVariable;
+                divContenedor.className= "filterselect";
+                document.getElementById("menu").appendChild(divContenedor);
+                
+                // Etiqueta del título
+                var labTitulo = document.createElement('div');
+                labTitulo.innerHTML = titulo;
+                labTitulo.className = 'filterlabel';
+                divContenedor.appendChild(labTitulo);
+
+                // Contenedor para las cajas de texto (Inputs)
+                var divInputs = document.createElement('div');
+                divInputs.style.display = "flex";
+                divInputs.style.justifyContent = "space-between";
+                divInputs.style.width = "90%";
+                divInputs.style.marginBottom = "10px";
+                divInputs.style.marginTop = "5px";
+
+                // Input para el valor Mínimo
+                var inputMin = document.createElement('input');
+                inputMin.type = "number";
+                inputMin.style.width = "45%";
+                inputMin.min = minReal;
+                inputMin.max = maxReal;
+                inputMin.title = "Min " + titulo;
+
+                // Input para el valor Máximo
+                var inputMax = document.createElement('input');
+                inputMax.type = "number";
+                inputMax.style.width = "45%";
+                inputMax.min = minReal;
+                inputMax.max = maxReal;
+                inputMax.title = "Max " + titulo;
+
+                divInputs.appendChild(inputMin);
+                divInputs.appendChild(inputMax);
+                divContenedor.appendChild(divInputs);
+                
+                // Contenedor visual de la barra deslizante
+                var divSlider = document.createElement('div');
+                divSlider.style.marginTop = "10px";
+                divSlider.style.marginBottom = "10px";
+                divSlider.style.width = "90%";
+                divContenedor.appendChild(divSlider);
+
+                // Inicialización del motor de la barra
+                noUiSlider.create(divSlider, {
+                    start: [minReal, maxReal], 
+                    connect: true,
+                    range: { 'min': minReal, 'max': maxReal },
+                    step: paso,
+                    format: wNumb({ decimals: 0 })
+                });
+
+                divContenedor.noUiSlider = divSlider.noUiSlider;
+
+                // A) Sincronización: Al mover el slider, se actualizan las cajas de texto
+                divSlider.noUiSlider.on('update', function (values, handle) {
+                    if (handle === 0) {
+                        inputMin.value = values[0];
+                    } else {
+                        inputMax.value = values[1];
+                    }
+                });
+
+                // B) Sincronización: Al escribir en las cajas de texto, se mueve el slider
+                inputMin.addEventListener('change', function () {
+                    divSlider.noUiSlider.set([this.value, null]);
+                });
+                inputMax.addEventListener('change', function () {
+                    divSlider.noUiSlider.set([null, this.value]);
+                });
+
+                // C) Conectar el Slider al motor de filtros del mapa
+                divSlider.noUiSlider.on('change', function() { filterFunc() });
+                
+                // Botón para limpiar el filtro
+                var btnReset = document.createElement('div');
+                btnReset.innerHTML = 'clear filter';
+                btnReset.className = 'filterlabel';
+                btnReset.onclick = function() {
+                    divSlider.noUiSlider.reset(); // Regresa la barra a sus límites reales
+                    filterFunc(); // Refresca el mapa
+                };
+                divContenedor.appendChild(btnReset);
+            }
+
+            // 3. Ejecutamos la función para fabricar los dos paneles matemáticos en pantalla
+            crearSliderDinamico('Elevation', 'Elevation (m)', 1); // Pasos de 1 metro
+            crearSliderDinamico('TDS', 'TDS', 1); // Pasos de 1 ppm
+ // -- FIN DE SLIDERS DINÁMICOS E INTERACTIVOS --
             document.getElementById("menu").appendChild(
                 document.createElement("div"));
         </script>
