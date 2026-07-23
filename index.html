@@ -839,9 +839,8 @@
                 L.DomEvent.on(btn, 'click', function(e) {
                     L.DomEvent.stop(e); // Evita que la página salte al inicio
                     
-                    // Ajusta la vista exactamente a la extensión original de los datos base
-                    var capaOriginal = L.geoJson(json_Evaporation_Studies_1);
-                    map.fitBounds(capaOriginal.getBounds(), {padding: [30, 30]});
+                    // Retorna a la nueva vista personalizada
+                    map.setView([34.6, 55.2], 2);
                 });
 
                 return container;
