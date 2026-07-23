@@ -729,8 +729,8 @@ document.addEventListener("DOMContentLoaded", function() {
                         }
                     });
                     
-                    // 2. Limpiar las opciones viejas dejando solo el espacio en blanco por defecto
-                    selectElement.innerHTML = "<option value='' unselected></option>";
+                    // 2. Limpiar las opciones viejas sin dejar espacios en blanco
+                    selectElement.innerHTML = "";
                     
                     // 3. Ordenar alfabéticamente y crear las nuevas opciones
                     Array.from(valoresUnicos).sort().forEach(function(valor) {
@@ -767,7 +767,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 validOptions.forEach(function(opt) { sel.appendChild(opt); });
             }
         });
-    }, 1000);
+    }, 1200);
     // -- FIN: ORDENAR Y LIMPIAR FILTROS --
 // -- INICIO: CONVERTIR FILTROS EN DESPLEGABLES --
     setTimeout(function() {
