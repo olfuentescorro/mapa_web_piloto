@@ -744,31 +744,31 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }, 1000);
 });
-// -- INICIO: ORDENAR FILTROS ALFABÉTICAMENTE --
+// -- INICIO: ORDENAR Y LIMPIAR FILTROS --
     setTimeout(function() {
-        ["sel_Country", "sel_State", "sel_City"].forEach(function(id) {
+        // Agregamos todos los filtros de recuadro a la lista de limpieza
+        var listFilters = ["sel_Country", "sel_State", "sel_City", "sel_Model", "sel_TDS", "sel_Year"];
+        
+        listFilters.forEach(function(id) {
             var sel = document.getElementById(id);
             if (sel) {
-                // Convertimos las opciones a un arreglo (Array)
                 var options = Array.from(sel.options);
                 
-                // Separamos la opción vacía (el botón transparente de reset) del resto de opciones
-                var firstOption = options.find(function(o) { return o.value === ''; });
-                var otherOptions = options.filter(function(o) { return o.value !== ''; });
+                // LA MAGIA: Filtramos SOLO las opciones que tienen texto (esto ELIMINA la opción en blanco)
+                var validOptions = options.filter(function(o) { return o.value.trim() !== ''; });
                 
                 // Ordenamos las opciones reales de la A a la Z
-                otherOptions.sort(function(a, b) {
+                validOptions.sort(function(a, b) {
                     return a.text.localeCompare(b.text);
                 });
                 
-                // Limpiamos la caja y volvemos a inyectar todo en el nuevo orden
+                // Limpiamos la caja y volvemos a inyectar solo las opciones válidas y ordenadas
                 sel.innerHTML = "";
-                if (firstOption) { sel.appendChild(firstOption); }
-                otherOptions.forEach(function(opt) { sel.appendChild(opt); });
+                validOptions.forEach(function(opt) { sel.appendChild(opt); });
             }
         });
-    }, 1000); // Se ejecuta un segundo después de cargar para asegurar que los datos ya están en la página
-// -- FIN: ORDENAR FILTROS ALFABÉTICAMENTE --
+    }, 1000);
+    // -- FIN: ORDENAR Y LIMPIAR FILTROS --
 // -- INICIO: CONVERTIR FILTROS EN DESPLEGABLES --
     setTimeout(function() {
         var filterDivs = document.querySelectorAll('.filterselect');
