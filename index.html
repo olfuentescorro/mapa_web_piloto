@@ -869,26 +869,23 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     }, 1200);
     // -- FIN: ORDENAR Y LIMPIAR FILTROS --
-// -- INICIO: CONVERTIR FILTROS EN DESPLEGABLES --
+// -- INICIO: CONVERTIR FILTROS EN DESPLEGABLES CON BUSCADOR INTERNO --
     setTimeout(function() {
         var filterDivs = document.querySelectorAll('.filterselect');
         filterDivs.forEach(function(div) {
             var label = div.querySelector('.filterlabel');
+            var select = div.querySelector('select');
 
-            // Si el contenedor tiene una etiqueta, procesamos el acordeón
             if (label) {
-                // --- INICIO DEL CAMBIO ---
                 // Interceptamos la etiqueta de Elevación y le cambiamos el nombre
                 if (label.textContent.trim() === 'Elevation') {
                     label.innerHTML = 'Elevation (m)';
                 }
-                // --- FIN DEL CAMBIO ---
 
                 // Creamos el menú colapsable (Acordeón)
                 var details = document.createElement('details');
                 var summary = document.createElement('summary');
                 
-                // Le damos formato de título al texto al lado de la flecha
                 summary.innerHTML = "<strong>" + label.textContent + "</strong>";
                 summary.style.cursor = "pointer";
                 summary.style.paddingBottom = "5px";
@@ -896,20 +893,53 @@ document.addEventListener("DOMContentLoaded", function() {
 
                 details.appendChild(summary);
 
-                // Movemos TODOS los elementos internos (cajas, sliders y botones clear) adentro del desplegable
+                // Si el filtro es una lista desplegable de texto, le añadimos su buscador interno
+                if (select) {
+                    var inputSearch = document.createElement('input');
+                    inputSearch.type = "text";
+                    inputSearch.placeholder = "Buscar...";
+                    inputSearch.style.width = "90%";
+                    inputSearch.style.marginBottom = "6px";
+                    inputSearch.style.padding = "3px";
+                    inputSearch.style.fontSize = "12px";
+                    inputSearch.style.boxSizing = "border-box";
+
+                    // Evento para filtrar las opciones de la lista mientras se escribe
+                    inputSearch.addEventListener('input', function() {
+                        var filtroTexto = this.value.toLowerCase();
+                        var opciones = select.options;
+                        for (var i = 0; i < opciones.length; i++) {
+                            var textoOpcion = opciones[i].text.toLowerCase();
+                            if (textoOpcion.indexOf(filtroTexto) > -1) {
+                                opciones[i].style.display = ""; // Muestra la opción si coincide
+                            } else {
+                                opciones[i].style.display = "none"; // Oculta si no coincide
+                            }
+                        }
+                    });
+
+                    // Evitamos que al hacer clic en la caja de búsqueda se colapse el menú
+                    inputSearch.addEventListener('click', function(e) {
+                        e.stopPropagation();
+                    });
+
+                    details.appendChild(inputSearch);
+                }
+
+                // Movemos el resto de los elementos (select y botón clear) adentro del desplegable
                 while (div.firstChild) {
                     if (div.firstChild === label) {
-                        div.removeChild(div.firstChild); // Borramos el texto original para no duplicarlo
+                        div.removeChild(div.firstChild);
                     } else {
                         details.appendChild(div.firstChild);
                     }
                 }
-                // Insertamos el nuevo formato en el panel
+                
                 div.appendChild(details);
             }
         });
     }, 1500);
-    // -- FIN: CONVERTIR FILTROS EN DESPLEGABLES --
+    // -- FIN: CONVERTIR FILTROS EN DESPLEGABLES CON BUSCADOR INTERNO --
 </script>        
     </body>
 </html>
