@@ -569,7 +569,7 @@
             document.getElementById("menu").appendChild(div_Year);
             sel_Year = document.createElement('select');
             sel_Year.multiple = true;
-            sel_Year.size = 5; // Cantidad de años visibles al mismo tiempo
+            sel_Year.size = 3; // Cantidad de años visibles al mismo tiempo
             sel_Year.id = "sel_Year";
             var Year_options_str = "<option value='' unselected></option>";
             sel_Year.onchange = function(){filterFunc()};
