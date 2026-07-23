@@ -1760,6 +1760,33 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
+        "id": "724",
+        "Name_PDF": "GUINEA_MAMOU REGION_PENOU_200E_10000_0_2023.PDF",
+        "Country": "GUINEA",
+        "State": "MAMOU REGION",
+        "City": "PENOU",
+        "Year": null,
+        "Model": "200E",
+        "TDS": 10000.0,
+        "Elevation": 0,
+        "ID_PDF": "726574",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCuxyK566doTIZRLe_zOWgzAQIoFzhXhRroRp3l2_L8In4",
+        "Address": "PENOU, MAMOU REGION, GUINEA",
+        "Latitude": 10.6944398880005,
+        "Longitude": -12.2944402694702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2944402694702,
+          10.6944398880005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "725",
         "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MEEKATHARRA_200E_10000_0_2023.PDF",
         "Country": "AUSTRALIA",
@@ -3434,6 +3461,33 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
+        "id": "792",
+        "Name_PDF": "GUINEA_MAMOU REGION_PENOU_200-100_10000_3_2023.PDF",
+        "Country": "GUINEA",
+        "State": "MAMOU REGION",
+        "City": "PENOU",
+        "Year": null,
+        "Model": "200-100",
+        "TDS": 10000.0,
+        "Elevation": 3,
+        "ID_PDF": "726541",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBWxcr3gytZRaLwQzhD8yDIATEHwkQBcSJ7Xk3GpnQlC9k",
+        "Address": "PENOU, MAMOU REGION, GUINEA",
+        "Latitude": 10.6944398880005,
+        "Longitude": -12.2944402694702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2944402694702,
+          10.6944398880005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "793",
         "Name_PDF": "BRAZIL_MINAS GERAIS_PARACATU_400-200_10000_3_2023.PDF",
         "Country": "BRAZIL",
@@ -5027,6 +5081,33 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
+        "id": "862",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_MISHOR ROTEM_200E_10000_0_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "MISHOR ROTEM",
+        "Year": null,
+        "Model": "200E",
+        "TDS": 10000.0,
+        "Elevation": 0,
+        "ID_PDF": "726684",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBN45mIaEnORYR5hPdBJ7PzAWFAiQ_OShEOxP5PeSEeyPk",
+        "Address": "MISHOR ROTEM, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "863",
         "Name_PDF": "CANADA_ALBERTA_FORT MCMURRAY_400-200_10000_3_2023.PDF",
         "Country": "CANADA",
@@ -5993,6 +6074,33 @@ json_Evaporation_Studies_1 = {
         "coordinates": [
           151.1868303,
           -28.853678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "902",
+        "Name_PDF": "FINLAND_NORTH SAVO_KUOPIO_400-200_10000_3_2023.PDF",
+        "Country": "FINLAND",
+        "State": "NORTH SAVO",
+        "City": "KUOPIO",
+        "Year": null,
+        "Model": "400-200",
+        "TDS": 10000.0,
+        "Elevation": 3,
+        "ID_PDF": "726444",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCZEFktu6WuT5b4gpjGDVjcAa8dBlNnByUjfIRYEYniUKo",
+        "Address": "KUOPIO, NORTH SAVO, FINLAND",
+        "Latitude": 62.9000015258789,
+        "Longitude": 27.6833305358887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6833305358887,
+          62.9000015258789
         ]
       }
     },
@@ -7241,6 +7349,33 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
+        "id": "955",
+        "Name_PDF": "DOMINICAN REPUBLIC_OZAMA_SANTO DOMINGO_40E_10000_0_2023.PDF",
+        "Country": "DOMINICAN REPUBLIC",
+        "State": "OZAMA",
+        "City": "SANTO DOMINGO",
+        "Year": null,
+        "Model": "40E",
+        "TDS": 10000.0,
+        "Elevation": 0,
+        "ID_PDF": "727014",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBmYShkcmL8S5zSNJgENQa3AQruQhEneLUXVRrE9-t9is0",
+        "Address": "SANTO DOMINGO, OZAMA, DOMINICAN REPUBLIC",
+        "Latitude": 18.4833297729492,
+        "Longitude": -69.9499969482422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9499969482422,
+          18.4833297729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "956",
         "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_200-100_10000_3_2023.PDF",
         "Country": "AUSTRALIA",
@@ -7262,6 +7397,33 @@ json_Evaporation_Studies_1 = {
         "coordinates": [
           149.1865149,
           -21.141956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "957",
+        "Name_PDF": "ARGENTINA_MENDOZA_USPALLATA_200-100_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "USPALLATA",
+        "Year": null,
+        "Model": "200-100",
+        "TDS": 10000.0,
+        "Elevation": 3,
+        "ID_PDF": "726368",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCJBrzJ89cnRK-IL6K7Gvn6Aff3oksjAaOiORbyIzGMufI",
+        "Address": "USPALLATA, MENDOZA, ARGENTINA",
+        "Latitude": -32.5999984741211,
+        "Longitude": -69.3300018310547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3300018310547,
+          -32.5999984741211
         ]
       }
     },
@@ -8699,6 +8861,33 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
+        "id": "1022",
+        "Name_PDF": "COTEDIVOIRE_ABIDJAN_ABIDJAN_600-300_10000_3_2023.PDF",
+        "Country": "COTEDIVOIRE",
+        "State": "ABIDJAN",
+        "City": "ABIDJAN",
+        "Year": null,
+        "Model": "600-300",
+        "TDS": 10000.0,
+        "Elevation": 3,
+        "ID_PDF": "727054",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAgedAFLPIjTq77rvFx_J6aAXUukMAAD6DTdQ1fUSTQ9ws",
+        "Address": "ABIDJAN, ABIDJAN, COTEDIVOIRE",
+        "Latitude": 5.30965995788574,
+        "Longitude": -4.01266002655029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01266002655029,
+          5.30965995788574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1023",
         "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_ALICE SPRINGS_200E_10000_0_2023.PDF",
         "Country": "AUSTRALIA",
@@ -9104,6 +9293,33 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
+        "id": "1041",
+        "Name_PDF": "COTEDIVOIRE_ABIDJAN_ABIDJAN_40E_10000_0_2023.PDF",
+        "Country": "COTEDIVOIRE",
+        "State": "ABIDJAN",
+        "City": "ABIDJAN",
+        "Year": null,
+        "Model": "40E",
+        "TDS": 10000.0,
+        "Elevation": 0,
+        "ID_PDF": "726865",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDeRQaGVsH7TpjTt98FAh62AQEWLMB6tbBuOj4x46KuWm4",
+        "Address": "ABIDJAN, ABIDJAN, COTEDIVOIRE",
+        "Latitude": 5.30965995788574,
+        "Longitude": -4.01266002655029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01266002655029,
+          5.30965995788574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1042",
         "Name_PDF": "CANADA_ALBERTA_FORT MCMURRAY_200-100_10000_3_2023.PDF",
         "Country": "CANADA",
@@ -9233,6 +9449,33 @@ json_Evaporation_Studies_1 = {
         "coordinates": [
           -46.0355606079102,
           -7.53249979019165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1048",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_MISHOR ROTEM_600-300_10000_3_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "MISHOR ROTEM",
+        "Year": null,
+        "Model": "600-300",
+        "TDS": 10000.0,
+        "Elevation": 3,
+        "ID_PDF": "726722",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCirJN4UNwgT5ZkCkeyGj0AAXIlKDQirEuHfsLnkXaenSE",
+        "Address": "MISHOR ROTEM, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
         ]
       }
     },
@@ -9887,6 +10130,33 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
+        "id": "1074",
+        "Name_PDF": "GUINEA_MAMOU REGION_PENOU_600-300_10000_3_2023.PDF",
+        "Country": "GUINEA",
+        "State": "MAMOU REGION",
+        "City": "PENOU",
+        "Year": null,
+        "Model": "600-300",
+        "TDS": 10000.0,
+        "Elevation": 3,
+        "ID_PDF": "726892",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC2JSnheRDyQKkJJKjBbTdrAZwQLouJrGoSN383WWHWGi0",
+        "Address": "PENOU, MAMOU REGION, GUINEA",
+        "Latitude": 10.6944398880005,
+        "Longitude": -12.2944402694702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2944402694702,
+          10.6944398880005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "1075",
         "Name_PDF": "AUSTRALIA_QUEENSLAND_GAYNDAH_200-100_10000_3_2023.PDF",
         "Country": "AUSTRALIA",
@@ -10178,6 +10448,33 @@ json_Evaporation_Studies_1 = {
         "coordinates": [
           145.179992675781,
           -36.8800010681152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "1087",
+        "Name_PDF": "DOMINICAN REPUBLIC_OZAMA_SANTO DOMINGO_600-300_10000_3_2023.PDF",
+        "Country": "DOMINICAN REPUBLIC",
+        "State": "OZAMA",
+        "City": "SANTO DOMINGO",
+        "Year": null,
+        "Model": "600-300",
+        "TDS": 10000.0,
+        "Elevation": 3,
+        "ID_PDF": "726974",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCXIB__SGFERYicUb9AizR1AVMsNnveo8hNT90QkiOTUII",
+        "Address": "SANTO DOMINGO, OZAMA, DOMINICAN REPUBLIC",
+        "Latitude": 18.4833297729492,
+        "Longitude": -69.9499969482422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9499969482422,
+          18.4833297729492
         ]
       }
     },
