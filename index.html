@@ -710,12 +710,14 @@
                     }
                 });
 
-                // B) Sincronización: Al escribir en las cajas de texto, se mueve el slider
+                // B) Sincronización: Al escribir en las cajas de texto, se mueve el slider y SE APLICA EL FILTRO
                 inputMin.addEventListener('change', function () {
                     divSlider.noUiSlider.set([this.value, null]);
+                    filterFunc(); // Fuerza la actualización del mapa
                 });
                 inputMax.addEventListener('change', function () {
                     divSlider.noUiSlider.set([null, this.value]);
+                    filterFunc(); // Fuerza la actualización del mapa
                 });
 
                 // C) Conectar el Slider al motor de filtros del mapa
