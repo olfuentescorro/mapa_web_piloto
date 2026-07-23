@@ -456,7 +456,7 @@
             document.getElementById("menu").appendChild(div_Country);
             sel_Country = document.createElement('select');
             sel_Country.multiple = true;
-            sel_Country.size = 3;
+            sel_Country.size = 8;
             sel_Country.id = "sel_Country";
             var Country_options_str = "<option value='' unselected></option>";
             sel_Country.onchange = function(){filterFunc()};
@@ -525,7 +525,7 @@
             document.getElementById("menu").appendChild(div_City);
             sel_City = document.createElement('select');
             sel_City.multiple = true;
-            sel_City.size = 10;
+            sel_City.size = 8;
             sel_City.id = "sel_City";
             var City_options_str = "<option value='' unselected></option>";
             sel_City.onchange = function(){filterFunc()};
