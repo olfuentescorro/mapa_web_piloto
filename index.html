@@ -890,27 +890,40 @@
 			// -- INICIO: LOGO MINETEK CON ENLACE A SHAREPOINT --
             var minetekLogoControl = L.control({position: 'bottomleft'});
             minetekLogoControl.onAdd = function (map) {
-                // 1. Creamos un contenedor de enlace interactivo (etiqueta <a>)
+                // 1. Creamos el contenedor de enlace
                 var link = L.DomUtil.create('a');
                 link.href = 'https://minetek-my.sharepoint.com/personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES/AllItems.aspx?env=WebViewList';
-                link.target = '_blank'; // Fundamental para que abra en una pestaña nueva
-                link.title = 'Ir a la Lista en SharePoint'; // Texto de ayuda que aparece al pasar el cursor
+                link.target = '_blank';
+                link.title = 'Ir a la Lista en SharePoint';
                 
-                // 2. Creamos la imagen e indicamos que viva "dentro" del enlace
+                // Limpiamos los estilos automáticos de Leaflet para quitar el fondo y la sombra
+                link.style.backgroundColor = 'transparent';
+                link.style.border = 'none';
+                link.style.boxShadow = 'none';
+                link.style.display = 'block';
+                
+                // Activamos el cursor de "mano" explícitamente
+                link.style.cursor = 'pointer';
+
+                // Aplicamos los márgenes al enlace (y NO a la imagen) para que no se infle el recuadro
+                link.style.marginLeft = '15px';
+                link.style.marginBottom = '25px';
+                
+                // 2. Creamos la imagen adentro del enlace
                 var img = L.DomUtil.create('img', '', link);
                 img.src = 'minetek_banner.png'; 
                 img.alt = 'Minetek Logo';
                 
-                // 3. Ajustes de tamaño y diseño que ya teníamos (60x60px)
+                // 3. Ajustes de tamaño estricto para la imagen
                 img.style.width = '60px'; 
                 img.style.height = '60px';
-                img.style.marginLeft = '15px';
-                img.style.marginBottom = '25px';
+                img.style.display = 'block'; // Quita márgenes invisibles debajo de la imagen
+                img.style.cursor = 'pointer'; // Asegura que la imagen también muestre la mano
                 
-                // 4. Evitamos que al hacer clic en el logo se haga clic accidentalmente en el mapa que está detrás
+                // 4. Evitamos interacción accidental con el mapa trasero
                 L.DomEvent.disableClickPropagation(link);
                 
-                return link; // Retornamos el enlace completo con la imagen adentro
+                return link;
             };
             minetekLogoControl.addTo(map);
             // -- FIN: LOGO MINETEK CON ENLACE A SHAREPOINT --
