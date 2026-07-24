@@ -373,110 +373,91 @@
         var Filters = {"Country": "str","State": "str","City": "str","Year": "str", "Elevation": "int","Model": "str","TDS": "int"};
         
         function filterFunc() {
-            var features = json_Evaporation_Studies_1.features.slice(0);
-            try{
-              for (key in Filters){
-                keyS = key.replace(/[^a-zA-Z0-9_]/g, "");
-                
-                // 1. Filtrado de Textos
-                if (Filters[key] == "str" || Filters[key] == "bool"){
-                  var selection = [];
-                  var options = document.getElementById("sel_" + keyS).options;
-                  for (var i=0; i < options.length; i++) {
-                    if (options[i].selected) selection.push(options[i].value);
-                  }
-                  try{
-                    if (key in features[0].properties){
-                      for (i = features.length - 1; i >= 0; --i){
-                        if (selection.indexOf(features[i].properties[key])<0 && selection.length>0) {
-                          features.splice(i,1);
-                        }
-                      }
+            var allFeatures = json_Evaporation_Studies_1.features.slice(0);
+
+            // 1. Recopilar estado actual de todos los filtros
+            var activeFilters = {};
+            for (var key in Filters) {
+                var keyS = key.replace(/[^a-zA-Z0-9_]/g, "");
+                if (Filters[key] == "str" || Filters[key] == "bool") {
+                    var sel = [];
+                    var options = document.getElementById("sel_" + keyS).options;
+                    for (var i=0; i < options.length; i++) {
+                        if (options[i].selected) sel.push(options[i].value);
                     }
-                  } catch(err){
-                  }
-                }
-                
-                // 2. Filtrado del Slider Numérico
-                if (Filters[key] == "int"){
-                  var sliderVals = document.getElementById("div_" + keyS).noUiSlider.get();
-                  try{
-                    if (key in features[0].properties){
-                      for (i = features.length - 1; i >= 0; --i){
-                        if (parseInt(features[i].properties[key]) < sliderVals[0] || parseInt(features[i].properties[key]) > sliderVals[1]){
-                          features.splice(i,1); 
-                        }
-                      }
+                    activeFilters[key] = { type: 'text', values: sel };
+                } else if (Filters[key] == "int") {
+                    var sliderObj = document.getElementById("div_" + keyS);
+                    if (sliderObj && sliderObj.noUiSlider) {
+                        var vals = sliderObj.noUiSlider.get();
+                        activeFilters[key] = { type: 'int', min: parseFloat(vals[0]), max: parseFloat(vals[1]) };
                     }
-                  } catch(err){
-                  }
                 }
-              }
-            } catch(err){
             }
-            
-            // -- INICIO LÓGICA DE FILTROS EN CASCADA DINÁMICA (OCULTAR NO DISPONIBLES) --
-            for (var keyCascada in Filters) {
-                if (Filters[keyCascada] == "str" || Filters[keyCascada] == "bool") {
-                    var keySCascada = keyCascada.replace(/[^a-zA-Z0-9_]/g, "");
-                    var selectElement = document.getElementById("sel_" + keySCascada);
-                    
-                    if (selectElement) {
-                        // a. Recopilamos los valores actualmente seleccionados por el usuario en este menú
-                        var seleccionadosPrevios = [];
-                        for (var optIdx = 0; optIdx < selectElement.options.length; optIdx++) {
-                            if (selectElement.options[optIdx].selected) {
-                                seleccionadosPrevios.push(selectElement.options[optIdx].value);
+
+            // Función auxiliar para saber si un punto pasa las reglas de un filtro dado
+            function passesFilter(feature, filterKey) {
+                var val = feature.properties[filterKey];
+                var fData = activeFilters[filterKey];
+                if (!fData) return true;
+                if (fData.type === 'text') {
+                    if (fData.values.length === 0) return true; // Si no hay nada seleccionado, pasa
+                    return fData.values.indexOf(String(val)) !== -1;
+                } else if (fData.type === 'int') {
+                    if (val === null || val === undefined) return false;
+                    var num = parseFloat(val);
+                    return num >= fData.min && num <= fData.max;
+                }
+                return true;
+            }
+
+            // 2. Filtrar Puntos para el Mapa (Lógica AND estricta cruzada)
+            var mapFeatures = allFeatures.filter(function(feat) {
+                for (var key in Filters) {
+                    if (!passesFilter(feat, key)) return false;
+                }
+                return true;
+            });
+
+            // 3. Evaluar opciones disponibles para los Desplegables (Lógica OR interna)
+            for (var currentFilterKey in Filters) {
+                var keyS = currentFilterKey.replace(/[^a-zA-Z0-9_]/g, "");
+
+                if (Filters[currentFilterKey] == "str" || Filters[currentFilterKey] == "bool") {
+                    var validOptions = new Set();
+                    allFeatures.forEach(function(feat) {
+                        var passesAllOther = true;
+                        // Evaluamos contra todos los DEMÁS filtros, ignorando el propio
+                        for (var otherKey in Filters) {
+                            if (otherKey !== currentFilterKey) {
+                                if (!passesFilter(feat, otherKey)) {
+                                    passesAllOther = false;
+                                    break;
+                                }
                             }
                         }
-
-                        // b. Listamos los valores válidos según los puntos que sobrevivieron al filtro general
-                        var valoresDisponibles = [];
-                        for (var j = 0; j < features.length; j++) {
-                            var val = features[j].properties[keyCascada];
-                            if (val !== null && val !== undefined) {
-                                valoresDisponibles.push(String(val));
-                            }
-                        }
-
-                        // c. Obtenemos todas las opciones maestras originales de esta columna ordenadas de la A a la Z
-                        // (Nos basamos en el archivo base para no perder opciones al deseleccionar)
-                        var unicosGlobales = new Set();
-                        json_Evaporation_Studies_1.features.forEach(function(f) {
-                            var v = f.properties[keyCascada];
+                        // Si el punto sobrevive a los otros filtros, su opción se mantiene disponible aquí
+                        if (passesAllOther) {
+                            var v = feat.properties[currentFilterKey];
                             if (v !== null && v !== undefined && String(v).trim() !== "") {
-                                unicosGlobales.add(String(v));
+                                validOptions.add(String(v));
                             }
-                        });
+                        }
+                    });
 
-                        var opcionesOrdenadas = Array.from(unicosGlobales).sort(function(a, b) {
-                            return a.localeCompare(b);
-                        });
-
-                        // d. Reconstruimos las opciones del menú: solo mostramos las disponibles o las que ya están seleccionadas
-                        selectElement.innerHTML = "";
-                        opcionesOrdenadas.forEach(function(valTexto) {
-                            var estaDisponible = valoresDisponibles.indexOf(valTexto) !== -1;
-                            var estaSeleccionado = seleccionadosPrevios.indexOf(valTexto) !== -1;
-
-                            // Mostramos la opción si hay datos disponibles para ella O si el usuario ya la tenía marcada
-                            if (estaDisponible || estaSeleccionado) {
-                                var option = document.createElement('option');
-                                option.value = valTexto;
-                                option.text = valTexto;
-                                option.selected = estaSeleccionado; // Mantiene la selección del usuario
-                                selectElement.appendChild(option);
-                            }
-                        });
+                    // Guardamos las opciones válidas en el elemento y disparamos la reconstrucción visual
+                    var selectElement = document.getElementById("sel_" + keyS);
+                    if (selectElement) {
+                        selectElement.dataset.validOptions = JSON.stringify(Array.from(validOptions));
+                        selectElement.dispatchEvent(new Event('updateCustomUI'));
                     }
                 }
             }
-            // -- FIN LÓGICA DE FILTROS EN CASCADA DINÁMICA --
 
-            // 3. Actualización del Mapa y Clústeres
+            // 4. Actualización del Mapa
             cluster_Evaporation_Studies_1.clearLayers();
             layer_Evaporation_Studies_1.clearLayers();
-            layer_Evaporation_Studies_1.addData(features);
+            layer_Evaporation_Studies_1.addData(mapFeatures);
             cluster_Evaporation_Studies_1.addLayer(layer_Evaporation_Studies_1);
         }
             document.getElementById("menu").appendChild(
@@ -850,124 +831,201 @@
         </script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // Definimos las columnas de texto que queremos que se actualicen solas
-    var columnasFiltro = ["Country", "State", "City", "Year", "Model", "TDS"];
-    
-    // Esperamos 1 segundo para asegurar que qgis2web haya creado los menús
-    setTimeout(function() {
-        if (typeof json_Evaporation_Studies_1 !== 'undefined') {
-            columnasFiltro.forEach(function(columna) {
-                var keyS = columna.replace(/[^a-zA-Z0-9_]/g, "");
-                var selectElement = document.getElementById("sel_" + keyS);
-                
-                if (selectElement) {
-                    // 1. Extraer valores únicos directamente del archivo .js actualizado
-                    var valoresUnicos = new Set();
-                    json_Evaporation_Studies_1.features.forEach(function(feature) {
-                        var valor = feature.properties[columna];
-                        if (valor !== null && valor !== undefined && String(valor).trim() !== "") {
-                            valoresUnicos.add(String(valor));
-                        }
-                    });
-                    
-                    // 2. Limpiar las opciones viejas sin dejar espacios en blanco
-                    selectElement.innerHTML = "";
-                    
-                    // 3. Ordenar alfabéticamente y crear las nuevas opciones
-                    Array.from(valoresUnicos).sort().forEach(function(valor) {
-                        var nuevaOpcion = document.createElement('option');
-                        nuevaOpcion.value = valor;
-                        nuevaOpcion.text = valor;
-                        selectElement.appendChild(nuevaOpcion);
-                    });
-                }
-            });
-        }
-    }, 1000);
-});
-// -- INICIO: ORDENAR Y LIMPIAR FILTROS --
-    setTimeout(function() {
-        // Agregamos todos los filtros de recuadro a la lista de limpieza
-        var listFilters = ["sel_Country", "sel_State", "sel_City", "sel_Model", "sel_TDS", "sel_Year"];
-        
-        listFilters.forEach(function(id) {
-            var sel = document.getElementById(id);
-            if (sel) {
-                var options = Array.from(sel.options);
-                
-                // LA MAGIA: Filtramos SOLO las opciones que tienen texto (esto ELIMINA la opción en blanco)
-                var validOptions = options.filter(function(o) { return o.value.trim() !== ''; });
-                
-                // Ordenamos las opciones reales de la A a la Z
-                validOptions.sort(function(a, b) {
-                    return a.text.localeCompare(b.text);
-                });
-                
-                // Limpiamos la caja y volvemos a inyectar solo las opciones válidas y ordenadas
-                sel.innerHTML = "";
-                validOptions.forEach(function(opt) { sel.appendChild(opt); });
-            }
-        });
-    }, 1200);
-    // -- FIN: ORDENAR Y LIMPIAR FILTROS --
-// -- INICIO: CONVERTIR FILTROS EN DESPLEGABLES CON BUSCADOR INTERNO --
     setTimeout(function() {
         var filterDivs = document.querySelectorAll('.filterselect');
+
         filterDivs.forEach(function(div) {
             var label = div.querySelector('.filterlabel');
             var select = div.querySelector('select');
 
             if (label) {
-                // Interceptamos la etiqueta de Elevación y le cambiamos el nombre
-                if (label.textContent.trim() === 'Elevation') {
-                    label.innerHTML = 'Elevation (m)';
+                var fieldName = label.textContent.trim();
+                if (fieldName === 'Elevation') fieldName = 'Elevation (m)';
+                label.innerHTML = fieldName;
+
+                // Si es un filtro numérico (Sliders), solo lo envolvemos en Acordeón y terminamos
+                if (!select) {
+                    var detailsNum = document.createElement('details');
+                    var summaryNum = document.createElement('summary');
+                    summaryNum.innerHTML = "<strong>" + fieldName + "</strong>";
+                    summaryNum.style.cursor = "pointer";
+                    summaryNum.style.paddingBottom = "5px";
+                    summaryNum.style.outline = "none";
+                    detailsNum.appendChild(summaryNum);
+
+                    while (div.firstChild) {
+                        if (div.firstChild !== label) {
+                            detailsNum.appendChild(div.firstChild);
+                        } else {
+                            div.removeChild(div.firstChild);
+                        }
+                    }
+                    div.appendChild(detailsNum);
+                    return;
                 }
 
-                // Creamos el menú colapsable (Acordeón)
+                // ESTRUCTURA BASE PARA FILTROS DE TEXTO
                 var details = document.createElement('details');
                 var summary = document.createElement('summary');
-                
-                summary.innerHTML = "<strong>" + label.textContent + "</strong>";
+                summary.innerHTML = "<strong>" + fieldName + "</strong>";
                 summary.style.cursor = "pointer";
                 summary.style.paddingBottom = "5px";
                 summary.style.outline = "none";
-
                 details.appendChild(summary);
 
-                // Si el filtro es una lista desplegable de texto, le añadimos su buscador interno
-                if (select) {
-                    var inputSearch = document.createElement('input');
-                    inputSearch.type = "text";
-                    inputSearch.placeholder = "Search...";
-                    inputSearch.style.width = "90%";
-                    inputSearch.style.marginBottom = "6px";
-                    inputSearch.style.padding = "3px";
-                    inputSearch.style.fontSize = "12px";
-                    inputSearch.style.boxSizing = "border-box";
+                // Caja de Etiquetas Activas
+                var tagsContainer = document.createElement('div');
+                tagsContainer.style.marginBottom = "8px";
+                tagsContainer.style.display = "flex";
+                tagsContainer.style.flexWrap = "wrap";
+                tagsContainer.style.gap = "4px";
+                details.appendChild(tagsContainer);
 
-                    // Evento para filtrar las opciones de la lista mientras se escribe
-                    inputSearch.addEventListener('input', function() {
-                        var filtroTexto = this.value.toLowerCase();
-                        var opciones = select.options;
-                        for (var i = 0; i < opciones.length; i++) {
-                            var textoOpcion = opciones[i].text.toLowerCase();
-                            if (textoOpcion.indexOf(filtroTexto) > -1) {
-                                opciones[i].style.display = ""; // Muestra la opción si coincide
-                            } else {
-                                opciones[i].style.display = "none"; // Oculta si no coincide
+                // Caja de Búsqueda
+                var inputSearch = document.createElement('input');
+                inputSearch.type = "text";
+                inputSearch.placeholder = "Buscar o seleccionar...";
+                inputSearch.style.width = "100%";
+                inputSearch.style.marginBottom = "5px";
+                inputSearch.style.padding = "6px";
+                inputSearch.style.fontSize = "12px";
+                inputSearch.style.boxSizing = "border-box";
+                details.appendChild(inputSearch);
+
+                // Lista de Opciones Disponibles
+                var optionsList = document.createElement('div');
+                optionsList.style.border = "1px solid #ddd";
+                optionsList.style.maxHeight = "160px";
+                optionsList.style.overflowY = "auto";
+                optionsList.style.backgroundColor = "#fff";
+                optionsList.style.width = "100%";
+                optionsList.style.boxSizing = "border-box";
+                details.appendChild(optionsList);
+
+                select.style.display = "none"; // Ocultar el selector nativo
+
+                // Rescatar universo completo de opciones de la DB original
+                var todasLasOpciones = new Set();
+                if (typeof json_Evaporation_Studies_1 !== 'undefined') {
+                    json_Evaporation_Studies_1.features.forEach(function(f) {
+                        var v = f.properties[fieldName];
+                        if (v !== null && v !== undefined && String(v).trim() !== "") {
+                            todasLasOpciones.add(String(v));
+                        }
+                    });
+                }
+                var arrayMaestro = Array.from(todasLasOpciones).sort(function(a, b) {
+                    return a.localeCompare(b);
+                });
+                select.dataset.validOptions = JSON.stringify(arrayMaestro);
+
+                // MOTOR REACTIVO UI (Se dispara cada vez que filterFunc() calcula disponibilidades)
+                function renderUI() {
+                    var validOptions = JSON.parse(select.dataset.validOptions || '[]');
+                    var searchVal = inputSearch.value.toLowerCase();
+
+                    // 1. DIBUJAR ETIQUETAS
+                    tagsContainer.innerHTML = "";
+                    var selectedVals = [];
+                    for (var i = 0; i < select.options.length; i++) {
+                        if (select.options[i].selected) {
+                            var val = select.options[i].value;
+                            selectedVals.push(val);
+
+                            var tag = document.createElement('span');
+                            tag.style.backgroundColor = "#0078A8"; // Color etiqueta
+                            tag.style.color = "white";
+                            tag.style.padding = "3px 8px";
+                            tag.style.borderRadius = "12px";
+                            tag.style.fontSize = "11px";
+                            tag.style.display = "inline-flex";
+                            tag.style.alignItems = "center";
+                            tag.style.gap = "6px";
+                            tag.innerHTML = val + ' <span title="Remove" style="cursor:pointer; font-weight:bold; font-size:14px;">&times;</span>';
+
+                            tag.querySelector('span').onclick = (function(optionIndex) {
+                                return function(e) {
+                                    e.stopPropagation();
+                                    select.options[optionIndex].selected = false;
+                                    filterFunc(); // Eliminar etiqueta recalcula todo
+                                };
+                            })(i);
+                            tagsContainer.appendChild(tag);
+                        }
+                    }
+
+                    // 2. DIBUJAR OPCIONES DISPONIBLES (No seleccionadas aún)
+                    optionsList.innerHTML = "";
+                    var hasVisibleOptions = false;
+
+                    arrayMaestro.forEach(function(valTexto) {
+                        if (validOptions.indexOf(valTexto) !== -1 && selectedVals.indexOf(valTexto) === -1) {
+                            if (searchVal === "" || valTexto.toLowerCase().indexOf(searchVal) > -1) {
+                                hasVisibleOptions = true;
+                                var item = document.createElement('div');
+                                item.textContent = valTexto;
+                                item.style.padding = "6px 8px";
+                                item.style.cursor = "pointer";
+                                item.style.fontSize = "12px";
+                                item.style.borderBottom = "1px solid #f9f9f9";
+
+                                item.onmouseover = function() { this.style.backgroundColor = "#f0f8ff"; };
+                                item.onmouseout = function() { this.style.backgroundColor = "#fff"; };
+
+                                // Selección por CLIC
+                                item.onclick = function(e) {
+                                    e.stopPropagation();
+                                    seleccionarOpcion(valTexto);
+                                };
+
+                                optionsList.appendChild(item);
                             }
                         }
                     });
 
-                    // Evitamos que al hacer clic en la caja de búsqueda se colapse el menú
-                    inputSearch.addEventListener('click', function(e) {
-                        e.stopPropagation();
-                    });
-
-                    details.appendChild(inputSearch);
+                    if (!hasVisibleOptions) {
+                        var noItem = document.createElement('div');
+                        noItem.textContent = "No hay opciones disponibles";
+                        noItem.style.padding = "6px 8px";
+                        noItem.style.fontSize = "12px";
+                        noItem.style.color = "#888";
+                        optionsList.appendChild(noItem);
+                    }
                 }
 
-                // Movemos el resto de los elementos (select y botón clear) adentro del desplegable
+                select.addEventListener('updateCustomUI', renderUI);
+
+                // Función de Selección Centralizada
+                function seleccionarOpcion(valTexto) {
+                    var encontrada = false;
+                    for (var i = 0; i < select.options.length; i++) {
+                        if (select.options[i].value === valTexto) {
+                            select.options[i].selected = true;
+                            encontrada = true; break;
+                        }
+                    }
+                    if (!encontrada) { // Redundancia de seguridad
+                        var opt = document.createElement('option');
+                        opt.value = valTexto; opt.text = valTexto; opt.selected = true;
+                        select.appendChild(opt);
+                    }
+                    inputSearch.value = ""; // Limpia el buscador
+                    filterFunc(); // Gatilla efecto cascada
+                }
+
+                // EVENTOS DEL BUSCADOR
+                inputSearch.addEventListener('input', renderUI);
+                inputSearch.addEventListener('keydown', function(e) {
+                    // Selección con ENTER sobre el primer elemento coincidente
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        var primerItem = optionsList.querySelector('div[style*="cursor: pointer"]');
+                        if (primerItem) seleccionarOpcion(primerItem.textContent);
+                    }
+                });
+                inputSearch.addEventListener('click', function(e) { e.stopPropagation(); });
+
+                // Ensamblar DOM
                 while (div.firstChild) {
                     if (div.firstChild === label) {
                         div.removeChild(div.firstChild);
@@ -975,12 +1033,14 @@ document.addEventListener("DOMContentLoaded", function() {
                         details.appendChild(div.firstChild);
                     }
                 }
-                
                 div.appendChild(details);
+
+                // Disparo inicial
+                renderUI();
             }
         });
-    }, 1500);
-    // -- FIN: CONVERTIR FILTROS EN DESPLEGABLES CON BUSCADOR INTERNO --
+    }, 1500); // Dar tiempo a Qgis2web a generar la base
+});
 </script>        
     </body>
 </html>
