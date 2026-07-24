@@ -927,6 +927,34 @@
             };
             minetekLogoControl.addTo(map);
             // -- FIN: LOGO MINETEK CON ENLACE A SHAREPOINT --
+			
+			// -- INICIO: NOTA AL PIE (FOOTER) --
+            var footerControl = L.control({position: 'bottomright'});
+            footerControl.onAdd = function (map) {
+                var container = L.DomUtil.create('div', 'map-footer-note');
+                
+                // Estilos profesionales, discretos y sin fondos
+                container.style.backgroundColor = 'transparent';
+                container.style.border = 'none';
+                container.style.boxShadow = 'none';
+                container.style.fontSize = '8px';
+                container.style.textAlign = 'justify';
+                container.style.color = '#777777'; // Tono gris sutil y elegante
+                container.style.maxWidth = '320px'; // Bloque compacto para que no cruce todo el mapa
+                container.style.lineHeight = '1.3';
+                container.style.marginRight = '10px';
+                container.style.marginBottom = '10px';
+                
+                // Texto exacto solicitado
+                container.innerHTML = "Reminder: The study locations on this map are for reference only and do not necessarily indicate the precise location of the evaporation study in question. The coordinates for each study were obtained through a geocoding process based on the “Address” field, which consists of the “Country,” “State,” and “City” values extracted from the PDF files for each study. This map uses MSN Weather and Nominatim as search engines in the geocoding process. For more information, you can access this map’s database in the SharePoint list by clicking on the banner.";
+                
+                // Evita que los clics en el texto interfieran con el mapa
+                L.DomEvent.disableClickPropagation(container);
+                
+                return container;
+            };
+            footerControl.addTo(map);
+            // -- FIN: NOTA AL PIE (FOOTER) --
         </script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
