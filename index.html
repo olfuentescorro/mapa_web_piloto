@@ -206,7 +206,7 @@
                         <td>' + (feature.properties['Model'] !== null ? autolinker.link(String(feature.properties['Model']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <th scope="row">TDS:</th>\
+                        <th scope="row">TDS (ppm):</th>\
                         <td>' + (feature.properties['TDS'] !== null ? autolinker.link(String(feature.properties['TDS']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
@@ -850,7 +850,7 @@
 
             // 3. Ejecutamos la función para fabricar los dos paneles matemáticos en pantalla
             crearSliderDinamico('Elevation', 'Elevation (m)', 1); // Pasos de 1 metro
-            crearSliderDinamico('TDS', 'TDS', 1); // Pasos de 1 ppm
+            crearSliderDinamico('TDS', 'TDS (ppm)', 1); // Pasos de 1 ppm
  // -- FIN DE SLIDERS DINÁMICOS E INTERACTIVOS --
             document.getElementById("menu").appendChild(
                 document.createElement("div"));
