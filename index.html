@@ -886,6 +886,32 @@
             };
             zoomToLayerControl.addTo(map);
             // -- FIN: BOTÓN ZOOM TO LAYER --
+			
+			// -- INICIO: LOGO MINETEK --
+            var minetekLogoControl = L.control({position: 'bottomleft'});
+            minetekLogoControl.onAdd = function (map) {
+                // Creamos el elemento de imagen
+                var img = L.DomUtil.create('img');
+                
+                // Ruta de la imagen (debe coincidir exactamente con el nombre del archivo)
+                img.src = 'minetek_banner.png'; 
+                img.alt = 'Minetek Logo';
+                
+                // Reducción a 1/16 del área (aprox 1/4 del ancho/alto)
+                img.style.width = '60px'; 
+                img.style.height = '60px';
+                
+                // Márgenes para separarlo de la esquina y la escala del mapa
+                img.style.marginLeft = '15px';
+                img.style.marginBottom = '25px';
+                
+                // Aseguramos que el logo no interfiera con el mapa (evita hacer clic o zoom por accidente al tocarlo)
+                L.DomEvent.disableClickPropagation(img);
+                
+                return img;
+            };
+            minetekLogoControl.addTo(map);
+            // -- FIN: LOGO MINETEK --
         </script>
 <script>
 document.addEventListener("DOMContentLoaded", function() {
