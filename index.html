@@ -419,10 +419,11 @@
                 return true;
             });
 
-            // 3. Evaluar opciones disponibles para los Desplegables (Lógica OR interna)
+            // 3. Evaluar opciones disponibles para los Desplegables y Sliders (Lógica OR interna)
             for (var currentFilterKey in Filters) {
                 var keyS = currentFilterKey.replace(/[^a-zA-Z0-9_]/g, "");
 
+                // -- A. LÓGICA PARA FILTROS DE TEXTO --
                 if (Filters[currentFilterKey] == "str" || Filters[currentFilterKey] == "bool") {
                     var validOptions = new Set();
                     allFeatures.forEach(function(feat) {
@@ -436,7 +437,6 @@
                                 }
                             }
                         }
-                        // Si el punto sobrevive a los otros filtros, su opción se mantiene disponible aquí
                         if (passesAllOther) {
                             var v = feat.properties[currentFilterKey];
                             if (v !== null && v !== undefined && String(v).trim() !== "") {
@@ -445,13 +445,71 @@
                         }
                     });
 
-                    // Guardamos las opciones válidas en el elemento y disparamos la reconstrucción visual
                     var selectElement = document.getElementById("sel_" + keyS);
                     if (selectElement) {
                         selectElement.dataset.validOptions = JSON.stringify(Array.from(validOptions));
                         selectElement.dispatchEvent(new Event('updateCustomUI'));
                     }
                 }
+                // -- B. LÓGICA PARA RANGOS DINÁMICOS DE SLIDERS NUMÉRICOS --
+                else if (Filters[currentFilterKey] == "int") {
+                    var validNums = [];
+                    allFeatures.forEach(function(feat) {
+                        var passesAllOther = true;
+                        for (var otherKey in Filters) {
+                            if (otherKey !== currentFilterKey) {
+                                if (!passesFilter(feat, otherKey)) {
+                                    passesAllOther = false;
+                                    break;
+                                }
+                            }
+                        }
+                        if (passesAllOther) {
+                            var v = feat.properties[currentFilterKey];
+                            if (v !== null && v !== undefined && !isNaN(parseFloat(v))) {
+                                validNums.push(parseFloat(v));
+                            }
+                        }
+                    });
+
+                    var sliderObj = document.getElementById("div_" + keyS);
+                    if (sliderObj && sliderObj.noUiSlider) {
+                        if (validNums.length > 0) {
+                            var newMin = Math.min.apply(null, validNums);
+                            var newMax = Math.max.apply(null, validNums);
+                            if (newMin === newMax) newMax = newMin + 1; // Evita el colapso de la barra
+                            
+                            var oldMin = parseFloat(sliderObj.noUiSlider.options.range.min);
+                            var oldMax = parseFloat(sliderObj.noUiSlider.options.range.max);
+                            
+                            // Si los límites reales disponibles han cambiado
+                            if (oldMin !== newMin || oldMax !== newMax) {
+                                var currentHandles = sliderObj.noUiSlider.get();
+                                // Inteligencia UX: verificamos si las perillas estaban puestas en los extremos
+                                var isAtMinEdge = (parseFloat(currentHandles[0]) === oldMin);
+                                var isAtMaxEdge = (parseFloat(currentHandles[1]) === oldMax);
+
+                                // Ajustamos la pista física de la barra a los nuevos límites
+                                sliderObj.noUiSlider.updateOptions({
+                                    range: { 'min': newMin, 'max': newMax }
+                                });
+                                
+                                // Si estaban en los extremos, las arrastramos automáticamente a los nuevos extremos
+                                var nextHandleMin = isAtMinEdge ? newMin : parseFloat(currentHandles[0]);
+                                var nextHandleMax = isAtMaxEdge ? newMax : parseFloat(currentHandles[1]);
+                                sliderObj.noUiSlider.set([nextHandleMin, nextHandleMax]);
+
+                                // Sincronizamos las cajas de texto
+                                var inputs = sliderObj.querySelectorAll('input[type="number"]');
+                                if (inputs.length >= 2) {
+                                    inputs[0].min = newMin; inputs[0].max = newMax;
+                                    inputs[1].min = newMin; inputs[1].max = newMax;
+                                }
+                            }
+                        }
+                    }
+                }
+                // -- FIN LÓGICA DE SLIDERS --
             }
 
             // 4. Actualización del Mapa
