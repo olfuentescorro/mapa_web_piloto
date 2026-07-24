@@ -849,214 +849,125 @@
             // -- FIN: BOTÓN ZOOM TO LAYER --
         </script>
 <script>
-<script>
 document.addEventListener("DOMContentLoaded", function() {
+    // Definimos las columnas de texto que queremos que se actualicen solas
+    var columnasFiltro = ["Country", "State", "City", "Year", "Model", "TDS"];
+    
+    // Esperamos 1 segundo para asegurar que qgis2web haya creado los menús
+    setTimeout(function() {
+        if (typeof json_Evaporation_Studies_1 !== 'undefined') {
+            columnasFiltro.forEach(function(columna) {
+                var keyS = columna.replace(/[^a-zA-Z0-9_]/g, "");
+                var selectElement = document.getElementById("sel_" + keyS);
+                
+                if (selectElement) {
+                    // 1. Extraer valores únicos directamente del archivo .js actualizado
+                    var valoresUnicos = new Set();
+                    json_Evaporation_Studies_1.features.forEach(function(feature) {
+                        var valor = feature.properties[columna];
+                        if (valor !== null && valor !== undefined && String(valor).trim() !== "") {
+                            valoresUnicos.add(String(valor));
+                        }
+                    });
+                    
+                    // 2. Limpiar las opciones viejas sin dejar espacios en blanco
+                    selectElement.innerHTML = "";
+                    
+                    // 3. Ordenar alfabéticamente y crear las nuevas opciones
+                    Array.from(valoresUnicos).sort().forEach(function(valor) {
+                        var nuevaOpcion = document.createElement('option');
+                        nuevaOpcion.value = valor;
+                        nuevaOpcion.text = valor;
+                        selectElement.appendChild(nuevaOpcion);
+                    });
+                }
+            });
+        }
+    }, 1000);
+});
+// -- INICIO: ORDENAR Y LIMPIAR FILTROS --
+    setTimeout(function() {
+        // Agregamos todos los filtros de recuadro a la lista de limpieza
+        var listFilters = ["sel_Country", "sel_State", "sel_City", "sel_Model", "sel_TDS", "sel_Year"];
+        
+        listFilters.forEach(function(id) {
+            var sel = document.getElementById(id);
+            if (sel) {
+                var options = Array.from(sel.options);
+                
+                // LA MAGIA: Filtramos SOLO las opciones que tienen texto (esto ELIMINA la opción en blanco)
+                var validOptions = options.filter(function(o) { return o.value.trim() !== ''; });
+                
+                // Ordenamos las opciones reales de la A a la Z
+                validOptions.sort(function(a, b) {
+                    return a.text.localeCompare(b.text);
+                });
+                
+                // Limpiamos la caja y volvemos a inyectar solo las opciones válidas y ordenadas
+                sel.innerHTML = "";
+                validOptions.forEach(function(opt) { sel.appendChild(opt); });
+            }
+        });
+    }, 1200);
+    // -- FIN: ORDENAR Y LIMPIAR FILTROS --
+// -- INICIO: CONVERTIR FILTROS EN DESPLEGABLES CON BUSCADOR INTERNO --
     setTimeout(function() {
         var filterDivs = document.querySelectorAll('.filterselect');
-        
         filterDivs.forEach(function(div) {
             var label = div.querySelector('.filterlabel');
             var select = div.querySelector('select');
 
             if (label) {
-                var fieldName = label.textContent.trim();
-                if (fieldName === 'Elevation') {
-                    fieldName = 'Elevation (m)';
-                    label.innerHTML = fieldName;
+                // Interceptamos la etiqueta de Elevación y le cambiamos el nombre
+                if (label.textContent.trim() === 'Elevation') {
+                    label.innerHTML = 'Elevation (m)';
                 }
 
-                // Omitimos los sliders numéricos (Elevation y TDS) para que mantengan su barra
-                if (!select) return;
-
-                var keyS = fieldName.replace(/[^a-zA-Z0-9_]/g, "");
-
-                // 1. Contenedor principal tipo Acordeón
+                // Creamos el menú colapsable (Acordeón)
                 var details = document.createElement('details');
                 var summary = document.createElement('summary');
-                summary.innerHTML = "<strong>" + fieldName + "</strong>";
+                
+                summary.innerHTML = "<strong>" + label.textContent + "</strong>";
                 summary.style.cursor = "pointer";
                 summary.style.paddingBottom = "5px";
                 summary.style.outline = "none";
+
                 details.appendChild(summary);
 
-                // 2. Contenedor visual para las etiquetas (Tags) seleccionadas
-                var tagsContainer = document.createElement('div');
-                tagsContainer.className = "tags-container_" + keyS;
-                tagsContainer.style.marginBottom = "6px";
-                tagsContainer.style.display = "flex";
-                tagsContainer.style.flexWrap = "wrap";
-                tagsContainer.style.gap = "4px";
-                details.appendChild(tagsContainer);
+                // Si el filtro es una lista desplegable de texto, le añadimos su buscador interno
+                if (select) {
+                    var inputSearch = document.createElement('input');
+                    inputSearch.type = "text";
+                    inputSearch.placeholder = "Search...";
+                    inputSearch.style.width = "90%";
+                    inputSearch.style.marginBottom = "6px";
+                    inputSearch.style.padding = "3px";
+                    inputSearch.style.fontSize = "12px";
+                    inputSearch.style.boxSizing = "border-box";
 
-                // 3. Caja de búsqueda interactiva
-                var inputSearch = document.createElement('input');
-                inputSearch.type = "text";
-                inputSearch.placeholder = "Buscar y presionar Enter...";
-                inputSearch.style.width = "90%";
-                inputSearch.style.marginBottom = "6px";
-                inputSearch.style.padding = "4px";
-                inputSearch.style.fontSize = "12px";
-                inputSearch.style.boxSizing = "border-box";
-                details.appendChild(inputSearch);
-
-                // Ocultamos el elemento select nativo feo, pero conservamos su funcionalidad lógica
-                select.style.display = "none";
-
-                // Obtenemos todas las opciones únicas globales ordenadas alfabéticamente
-                var unicosGlobales = new Set();
-                if (typeof json_Evaporation_Studies_1 !== 'undefined') {
-                    json_Evaporation_Studies_1.features.forEach(function(f) {
-                        var v = f.properties[fieldName];
-                        if (v !== null && v !== undefined && String(v).trim() !== "") {
-                            unicosGlobales.add(String(v));
-                        }
-                    });
-                }
-                var opcionesOrdenadas = Array.from(unicosGlobales).sort(function(a, b) {
-                    return a.localeCompare(b);
-                });
-
-                // Lista desplegable visual flotante para los resultados de búsqueda
-                var dropdownList = document.createElement('div');
-                dropdownList.style.border = "1px solid #ccc";
-                dropdownList.style.maxHeight = "120px";
-                dropdownList.style.overflowY = "auto";
-                dropdownList.style.backgroundColor = "#fff";
-                dropdownList.style.position = "absolute";
-                dropdownList.style.zIndex = "1000";
-                dropdownList.style.width = "75%";
-                dropdownList.style.display = "none";
-                details.appendChild(dropdownList);
-
-                // Función para redibujar las opciones en la lista flotante al escribir
-                function actualizarDropdown(filtro) {
-                    dropdownList.innerHTML = "";
-                    var matchCount = 0;
-                    
-                    opcionesOrdenadas.forEach(function(valTexto) {
-                        // Verificamos si ya está seleccionada como etiqueta
-                        var yaSeleccionada = false;
-                        for (var i = 0; i < select.options.length; i++) {
-                            if (select.options[i].value === valTexto && select.options[i].selected) {
-                                yaSeleccionada = true;
-                                break;
+                    // Evento para filtrar las opciones de la lista mientras se escribe
+                    inputSearch.addEventListener('input', function() {
+                        var filtroTexto = this.value.toLowerCase();
+                        var opciones = select.options;
+                        for (var i = 0; i < opciones.length; i++) {
+                            var textoOpcion = opciones[i].text.toLowerCase();
+                            if (textoOpcion.indexOf(filtroTexto) > -1) {
+                                opciones[i].style.display = ""; // Muestra la opción si coincide
+                            } else {
+                                opciones[i].style.display = "none"; // Oculta si no coincide
                             }
-                        }
-
-                        // Si coincide con el texto y no está ya seleccionada, la mostramos
-                        if (!yaSeleccionada && valTexto.toLowerCase().indexOf(filtro.toLowerCase()) > -1) {
-                            var item = document.createElement('div');
-                            item.textContent = valTexto;
-                            item.style.padding = "4px 8px";
-                            item.style.cursor = "pointer";
-                            item.style.fontSize = "12px";
-                            
-                            item.onmouseover = function() { this.style.backgroundColor = "#f0f0f0"; };
-                            item.onmouseout = function() { this.style.backgroundColor = "#fff"; };
-                            
-                            // Al hacer clic con el cursor en una opción de la lista
-                            item.onclick = function(e) {
-                                e.stopPropagation();
-                                seleccionarValor(valTexto);
-                                inputSearch.value = "";
-                                dropdownList.style.display = "none";
-                            };
-                            
-                            dropdownList.appendChild(item);
-                            matchCount++;
                         }
                     });
 
-                    dropdownList.style.display = matchCount > 0 && filtro.length > 0 ? "block" : "none";
+                    // Evitamos que al hacer clic en la caja de búsqueda se colapse el menú
+                    inputSearch.addEventListener('click', function(e) {
+                        e.stopPropagation();
+                    });
+
+                    details.appendChild(inputSearch);
                 }
 
-                // Función maestra para agregar la selección a las etiquetas y disparar el mapa
-                function seleccionarValor(valTexto) {
-                    // Marcamos la opción en el select oculto nativo
-                    var encontrada = false;
-                    for (var i = 0; i < select.options.length; i++) {
-                        if (select.options[i].value === valTexto) {
-                            select.options[i].selected = true;
-                            encontrada = true;
-                            break;
-                        }
-                    }
-                    if (!encontrada) {
-                        var opt = document.createElement('option');
-                        opt.value = valTexto;
-                        opt.text = valTexto;
-                        opt.selected = true;
-                        select.appendChild(opt);
-                    }
-
-                    renderizarEtiquetas();
-                    filterFunc(); // Actualiza el mapa y los demás filtros en cascada
-                }
-
-                // Función para construir visualmente las burbujas/etiquetas
-                function renderizarEtiquetas() {
-                    tagsContainer.innerHTML = "";
-                    for (var i = 0; i < select.options.length; i++) {
-                        if (select.options[i].selected) {
-                            var val = select.options[i].value;
-                            
-                            var tag = document.createElement('span');
-                            tag.style.backgroundColor = "#e2e8f0";
-                            tag.style.padding = "2px 6px";
-                            tag.style.borderRadius = "4px";
-                            tag.style.fontSize = "11px";
-                            tag.style.display = "inline-flex";
-                            tag.style.alignItems = "center";
-                            tag.style.gap = "4px";
-                            tag.innerHTML = val + ' <span style="cursor:pointer; font-weight:bold; color:#e53e3e;">&times;</span>';
-                            
-                            // Botón de eliminar etiqueta (la 'X')
-                            tag.querySelector('span').onclick = (function(optionIndex) {
-                                return function(e) {
-                                    e.stopPropagation();
-                                    select.options[optionIndex].selected = false;
-                                    renderizarEtiquetas();
-                                    filterFunc();
-                                };
-                            })(i);
-
-                            tagsContainer.appendChild(tag);
-                        }
-                    }
-                }
-
-                // Evento al escribir en la caja de texto
-                inputSearch.addEventListener('input', function() {
-                    actualizarDropdown(this.value);
-                });
-
-                // Evento al presionar Enter en el buscador (selecciona el primer resultado coincidente automáticamente)
-                inputSearch.addEventListener('keydown', function(e) {
-                    if (e.key === 'Enter') {
-                        e.preventDefault();
-                        var textoBusqueda = this.value.trim();
-                        if (textoBusqueda !== "") {
-                            // Buscamos si coincide exactamente o de forma parcial con alguna opción válida
-                            var encontradaCoincidencia = null;
-                            for (var j = 0; j < opcionesOrdenadas.length; j++) {
-                                if (opcionesOrdenadas[j].toLowerCase().indexOf(textoBusqueda.toLowerCase()) > -1) {
-                                    encontradaCoincidencia = opcionesOrdenadas[j];
-                                    break;
-                                }
-                            }
-                            if (encontradaCoincidencia) {
-                                seleccionarValor(encontradaCoincidencia);
-                                this.value = "";
-                                dropdownList.style.display = "none";
-                            }
-                        }
-                    }
-                });
-
-                // Evitamos que los clics internos cierren el acordeón
-                inputSearch.addEventListener('click', function(e) { e.stopPropagation(); });
-
-                // Movemos el botón "clear filter" original adentro del desplegable
+                // Movemos el resto de los elementos (select y botón clear) adentro del desplegable
                 while (div.firstChild) {
                     if (div.firstChild === label) {
                         div.removeChild(div.firstChild);
@@ -1064,11 +975,12 @@ document.addEventListener("DOMContentLoaded", function() {
                         details.appendChild(div.firstChild);
                     }
                 }
+                
                 div.appendChild(details);
             }
         });
     }, 1500);
-});
+    // -- FIN: CONVERTIR FILTROS EN DESPLEGABLES CON BUSCADOR INTERNO --
 </script>        
     </body>
 </html>
