@@ -1096,6 +1096,10 @@ document.addEventListener("DOMContentLoaded", function() {
                 inputSearch.style.padding = "6px";
                 inputSearch.style.fontSize = "12px";
                 inputSearch.style.boxSizing = "border-box";
+				// Ocultamos visualmente el buscador si es Customer o Temperature
+                if (fieldName === 'Customer' || fieldName === 'Temperature') {
+                    inputSearch.style.display = 'none';
+                }
                 details.appendChild(inputSearch);
 
                 // Lista de Opciones Disponibles
