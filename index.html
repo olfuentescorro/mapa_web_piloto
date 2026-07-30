@@ -173,7 +173,21 @@
         });
         layer_ESRIGraylight_0;
         map.addLayer(layer_ESRIGraylight_0);
-        function pop_Evaporation_Studies_1(feature, layer) {
+        // -- INICIO: TRADUCCIÓN DE VALORES RAW A ETIQUETAS --
+        if (typeof json_Evaporation_Studies_1 !== 'undefined') {
+            json_Evaporation_Studies_1.features.forEach(function(f) {
+                // Traducción del campo Customer
+                if (f.properties['Customer'] === 'X') f.properties['Customer'] = 'Previous customer';
+                else if (f.properties['Customer'] === 'O') f.properties['Customer'] = 'Standard studies';
+                
+                // Traducción del campo Temperature
+                if (f.properties['Temperature'] === 'C') f.properties['Temperature'] = 'Celcius';
+                else if (f.properties['Temperature'] === 'K') f.properties['Temperature'] = 'Kelvin';
+                else if (f.properties['Temperature'] === 'F') f.properties['Temperature'] = 'Fahrenheit';
+            });
+        }
+        // -- FIN: TRADUCCIÓN DE VALORES RAW A ETIQUETAS --
+		function pop_Evaporation_Studies_1(feature, layer) {
             layer.on({
                 mouseout: function(e) {
                     for (var i in e.target._eventParents) {
@@ -196,6 +210,14 @@
                     <tr>\
                         <th scope="row">City:</th>\
                         <td>' + (feature.properties['City'] !== null ? autolinker.link(String(feature.properties['City']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Customer:</th>\
+                        <td>' + (feature.properties['Customer'] !== null ? autolinker.link(String(feature.properties['Customer']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+					<tr>\
+                        <th scope="row">Temperature:</th>\
+                        <td>' + (feature.properties['Temperature'] !== null ? autolinker.link(String(feature.properties['Temperature']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">Elevation (m):</th>\
@@ -370,7 +392,7 @@
         document.getElementById("all").appendChild(col2);
         col1.appendChild(mapDiv)
 		
-        var Filters = {"Country": "str","State": "str","City": "str","Year": "str", "Elevation": "int","Model": "str","TDS": "int"};
+        var Filters = {"Country": "str","State": "str","City": "str","Year": "str","Customer": "str", "Temperature": "str","Elevation": "int","Model": "str","TDS": "int"};
         
         function filterFunc() {
             var allFeatures = json_Evaporation_Studies_1.features.slice(0);
@@ -738,6 +760,63 @@
             div_Model.appendChild(reset_Model);
             document.getElementById("menu").appendChild(
                 document.createElement("div"));
+				// -- INICIO: FILTRO CUSTOMER --
+            var div_Customer = document.createElement('div');
+            div_Customer.id = "div_Customer";
+            div_Customer.className= "filterselect";
+            document.getElementById("menu").appendChild(div_Customer);
+            sel_Customer = document.createElement('select');
+            sel_Customer.multiple = true;
+            sel_Customer.size = 3;
+            sel_Customer.id = "sel_Customer";
+            sel_Customer.onchange = function(){filterFunc()};
+            div_Customer.appendChild(sel_Customer);
+            var lab_Customer = document.createElement('div');
+            lab_Customer.innerHTML = 'Customer'; // Este nombre debe coincidir exacto con la columna
+            lab_Customer.className = 'filterlabel';
+            div_Customer.appendChild(lab_Customer);
+            var reset_Customer = document.createElement('div');
+            reset_Customer.innerHTML = 'clear filter';
+            reset_Customer.className = 'filterlabel';
+            reset_Customer.onclick = function() {
+                var options = document.getElementById("sel_Customer").options;
+                for (var i=0; i < options.length; i++) {
+                    options[i].selected = false;
+                }
+                filterFunc();
+            };
+            div_Customer.appendChild(reset_Customer);
+            document.getElementById("menu").appendChild(document.createElement("div"));
+            // -- FIN: FILTRO CUSTOMER --
+
+            // -- INICIO: FILTRO TEMPERATURE --
+            var div_Temperature = document.createElement('div');
+            div_Temperature.id = "div_Temperature";
+            div_Temperature.className= "filterselect";
+            document.getElementById("menu").appendChild(div_Temperature);
+            sel_Temperature = document.createElement('select');
+            sel_Temperature.multiple = true;
+            sel_Temperature.size = 3;
+            sel_Temperature.id = "sel_Temperature";
+            sel_Temperature.onchange = function(){filterFunc()};
+            div_Temperature.appendChild(sel_Temperature);
+            var lab_Temperature = document.createElement('div');
+            lab_Temperature.innerHTML = 'Temperature'; // Este nombre debe coincidir exacto con la columna
+            lab_Temperature.className = 'filterlabel';
+            div_Temperature.appendChild(lab_Temperature);
+            var reset_Temperature = document.createElement('div');
+            reset_Temperature.innerHTML = 'clear filter';
+            reset_Temperature.className = 'filterlabel';
+            reset_Temperature.onclick = function() {
+                var options = document.getElementById("sel_Temperature").options;
+                for (var i=0; i < options.length; i++) {
+                    options[i].selected = false;
+                }
+                filterFunc();
+            };
+            div_Temperature.appendChild(reset_Temperature);
+            document.getElementById("menu").appendChild(document.createElement("div"));
+            // -- FIN: FILTRO TEMPERATURE --
 // -- INICIO DE SLIDERS DINÁMICOS E INTERACTIVOS (ELEVATION Y TDS) --
             // 1. Función para escanear el archivo de datos y obtener el Mínimo y Máximo real
             function obtenerMinMax(features, propiedad) {
