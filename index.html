@@ -971,7 +971,7 @@
             minetekLogoControl.onAdd = function (map) {
                 // 1. Creamos el contenedor de enlace
                 var link = L.DomUtil.create('a');
-                link.href = 'https://minetek-my.sharepoint.com/personal/karen_santos_minetek_com/Lists/Catalog_PDF_ES/AllItems.aspx?env=WebViewList';
+                link.href = 'https://minetek.com/;
                 link.target = '_blank';
                 link.title = 'Go to the SharePoint List';
                 
@@ -1025,7 +1025,7 @@
                 container.style.marginBottom = '10px';
                 
                 // Texto exacto solicitado
-                container.innerHTML = "Reminder: The study locations on this map are for reference only and do not necessarily indicate the precise location of the evaporation study in question. The coordinates for each study were obtained through a geocoding process based on the “Address” field, which consists of the “Country,” “State,” and “City” values extracted from the PDF files for each study. This map uses MSN Weather and Nominatim as search engines in the geocoding process. For more information, you can access this map’s database in the SharePoint list by clicking on the banner.";
+                container.innerHTML = "Reminder: The study locations on this map are for reference only and do not necessarily indicate the precise location of the evaporation study in question. The coordinates for each study were obtained through a complementary geocoding process applying 'MSN Weather' and 'Nominatim' as search engines. Due to the use of different search engines, the coordinates of studies with the same address might slightly differ";
                 
                 // Evita que los clics en el texto interfieran con el mapa
                 L.DomEvent.disableClickPropagation(container);
