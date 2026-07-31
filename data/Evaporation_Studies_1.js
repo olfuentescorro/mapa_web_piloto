@@ -11543,6 +11543,10620 @@ json_Evaporation_Studies_1 = {
           32.8048515319824
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3522",
+        "Name_PDF": "ARGENTINA_MENDOZA_USPALLATA_200E_10000_0_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "USPALLATA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731234",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCMNV93N7MXQKGcdwzY1sMlAf74Gu9ddiDXFVr83LU-wcM",
+        "Address": "USPALLATA, MENDOZA, ARGENTINA",
+        "Latitude": -32.5999984741211,
+        "Longitude": -69.3300018310547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3300018310547,
+          -32.5999984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3523",
+        "Name_PDF": "ARGENTINA_SALTA_TOLAR GRANDE_400-200_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "SALTA",
+        "City": "TOLAR GRANDE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731225",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCk0E1sTQi2QqGlMvSxYAchAWeqScvqEVOcOocaa2-NGwc",
+        "Address": "TOLAR GRANDE, SALTA, ARGENTINA",
+        "Latitude": -25.0666694641113,
+        "Longitude": -68.2333297729492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2333297729492,
+          -25.0666694641113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3524",
+        "Name_PDF": "ARGENTINA_MENDOZA_USPALLATA_600-300_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "USPALLATA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731221",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDb5ino-WlbSo3_IcBuhaFoAXO9Zo1lXppOCpelYyQn3Hk",
+        "Address": "USPALLATA, MENDOZA, ARGENTINA",
+        "Latitude": -32.5999984741211,
+        "Longitude": -69.3300018310547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3300018310547,
+          -32.5999984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3525",
+        "Name_PDF": "ARGENTINA_SALTA_TOLAR GRANDE_600-300_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "SALTA",
+        "City": "TOLAR GRANDE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731227",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB_hPbIghzfRZ9oVU8WxGT0AcErdDlYgjVeQDkMG5e300s",
+        "Address": "TOLAR GRANDE, SALTA, ARGENTINA",
+        "Latitude": -25.0666694641113,
+        "Longitude": -68.2333297729492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2333297729492,
+          -25.0666694641113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3526",
+        "Name_PDF": "ARGENTINA_SALTA_TOLAR GRANDE_40E_10000_0_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "SALTA",
+        "City": "TOLAR GRANDE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731223",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC68MDRd5FRQ4_P49F8pJH3AQxVo1UDW712x8kPfB6sehg",
+        "Address": "TOLAR GRANDE, SALTA, ARGENTINA",
+        "Latitude": -25.0666694641113,
+        "Longitude": -68.2333297729492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2333297729492,
+          -25.0666694641113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3527",
+        "Name_PDF": "ARGENTINA_MENDOZA_MAIPU_200-100_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "MAIPU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731229",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDNa0ljwzh4TKnsc_pdT4apAUYJN7zjYUXzsbVOxtEyx0Q",
+        "Address": "MAIPU, MENDOZA, ARGENTINA",
+        "Latitude": -32.9286308288574,
+        "Longitude": -68.8350982666016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8350982666016,
+          -32.9286308288574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3528",
+        "Name_PDF": "ARGENTINA_SALTA_TOLAR GRANDE_200E_10000_0_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "SALTA",
+        "City": "TOLAR GRANDE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731226",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAmQLbyxELmRYpSC2seultsAaNkYEPyVM8KjY5H4_nOe68",
+        "Address": "TOLAR GRANDE, SALTA, ARGENTINA",
+        "Latitude": -25.0666694641113,
+        "Longitude": -68.2333297729492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2333297729492,
+          -25.0666694641113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3529",
+        "Name_PDF": "ARGENTINA_MENDOZA_MAIPU_600-300_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "MAIPU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731231",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCBgNyofjSXSLC9NT5aZ2rqAbzG4d0XFYBYTiFR0w-jnOQ",
+        "Address": "MAIPU, MENDOZA, ARGENTINA",
+        "Latitude": -32.9286308288574,
+        "Longitude": -68.8350982666016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8350982666016,
+          -32.9286308288574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3530",
+        "Name_PDF": "ARGENTINA_SALTA_TOLAR GRANDE_200-100_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "SALTA",
+        "City": "TOLAR GRANDE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731224",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCJl9nI1IWFTbNw5N-4n7WpAViUjUJP90aWh6Giqccr0oM",
+        "Address": "TOLAR GRANDE, SALTA, ARGENTINA",
+        "Latitude": -25.0666694641113,
+        "Longitude": -68.2333297729492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2333297729492,
+          -25.0666694641113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3531",
+        "Name_PDF": "ANGOLA_LUNDA SUL_SAURIMO_600-300_10000_5_2023.PDF",
+        "Country": "ANGOLA",
+        "State": "LUNDA SUL",
+        "City": "SAURIMO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 5,
+        "ID_PDF": "731228",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCcRkLiPJthSZnJgG8EnbXEAUnGEZUDFZ944ardSsRUL4I",
+        "Address": "SAURIMO, LUNDA SUL, ANGOLA",
+        "Latitude": -9.66077995300293,
+        "Longitude": 20.3915500640869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3915500640869,
+          -9.66077995300293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3532",
+        "Name_PDF": "ARGENTINA_MENDOZA_MAIPU_400-200_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "MAIPU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731230",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCbnBShBzhuQqbwuXy3ybvAAXJBhV4ZIeMJXOGCib2zB38",
+        "Address": "MAIPU, MENDOZA, ARGENTINA",
+        "Latitude": -32.9286308288574,
+        "Longitude": -68.8350982666016
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8350982666016,
+          -32.9286308288574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3533",
+        "Name_PDF": "ARGENTINA_MENDOZA_USPALLATA_200-100_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "USPALLATA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731233",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC7g4SspLA0Ta24C6JOc7ypAcJr4tsD_0JkORNMkkAC5FQ",
+        "Address": "USPALLATA, MENDOZA, ARGENTINA",
+        "Latitude": -32.5999984741211,
+        "Longitude": -69.3300018310547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3300018310547,
+          -32.5999984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3534",
+        "Name_PDF": "ARGENTINA_MENDOZA_USPALLATA_40E_10000_0_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "USPALLATA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731232",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA3Pr0eDWh3SaTQ-wRpYQX2AZeoE9gIVFLu9ofmaoacbfk",
+        "Address": "USPALLATA, MENDOZA, ARGENTINA",
+        "Latitude": -32.5999984741211,
+        "Longitude": -69.3300018310547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3300018310547,
+          -32.5999984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3535",
+        "Name_PDF": "ARGENTINA_MENDOZA_USPALLATA_400-200_10000_3_2023.PDF",
+        "Country": "ARGENTINA",
+        "State": "MENDOZA",
+        "City": "USPALLATA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731222",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA9DRq5-8H5Qam3gzbJ-0BuAZbt4a9IbzLM4a-V-nmENqI",
+        "Address": "USPALLATA, MENDOZA, ARGENTINA",
+        "Latitude": -32.5999984741211,
+        "Longitude": -69.3300018310547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3300018310547,
+          -32.5999984741211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3536",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_JABIRU_200E_100000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "JABIRU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 100000,
+        "Elevation": 0,
+        "ID_PDF": "731262",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAhVnrz165QQ789jY4TdDoQAYFIyFEEtEMfg3FyGNeXrZs",
+        "Address": "JABIRU, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -12.6700000762939,
+        "Longitude": 132.899993896484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.899993896484,
+          -12.6700000762939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3537",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_DUBBO_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "DUBBO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731235",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBNjYZa84bST4SKU3jttQexAVBAMRk2QoAEEGzPGbV-9g8",
+        "Address": "DUBBO, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.2429504394531,
+        "Longitude": 148.604843139648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.604843139648,
+          -32.2429504394531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3538",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_LITHGOW_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "LITHGOW",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731242",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB-KZsve_QcQpkBp-nUaIkMAXqNUpe1YrSHcU1zl84kaDM",
+        "Address": "LITHGOW, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -33.4824714660645,
+        "Longitude": 150.136306762695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.136306762695,
+          -33.4824714660645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3539",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_SINGLETON_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "SINGLETON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731248",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCmFHgIlcUqRZYWVa4lPvhAAV2BBb3CiwzhqNRMgQPhqW8",
+        "Address": "SINGLETON, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.5674209594727,
+        "Longitude": 151.166030883789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.166030883789,
+          -32.5674209594727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3540",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_ALICE SPRINGS_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "ALICE SPRINGS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731255",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQATPSfQdlLhTqH7C7QFTqUGAcorCbcIe85SBx8-GRSefXU",
+        "Address": "ALICE SPRINGS, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -23.7000007629395,
+        "Longitude": 133.883331298828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.883331298828,
+          -23.7000007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3541",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_SINGLETON_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "SINGLETON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731246",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBEiQ14Hws9QovnhBO7YuH4AcS06ZuEDM0bFBxkm8LQUpA",
+        "Address": "SINGLETON, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.5674209594727,
+        "Longitude": 151.166030883789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.166030883789,
+          -32.5674209594727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3542",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_LIVERPOOL_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "LIVERPOOL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731244",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCF7K8tSP2cQomhnqMUSCdvAU1OphqPwCtgerfV9RxfaoU",
+        "Address": "LIVERPOOL, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -33.9129104614258,
+        "Longitude": 150.93701171875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.93701171875,
+          -33.9129104614258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3543",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_JEMBAICUMBENE_200E_1000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "JEMBAICUMBENE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 1000,
+        "Elevation": 0,
+        "ID_PDF": "731241",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAew2iQ3NUfRKTtnmkPkUtmAYjVqC4Z-jjUEeMp9k_2USw",
+        "Address": "JEMBAICUMBENE, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -35.4300003051758,
+        "Longitude": 149.779998779297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.779998779297,
+          -35.4300003051758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3544",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_LITHGOW_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "LITHGOW",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731243",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCUgtDt34BCSIRS2Rn2KwcdAekeCWT1KrW4VEFDsUjwawg",
+        "Address": "LITHGOW, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -33.4824714660645,
+        "Longitude": 150.136306762695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.136306762695,
+          -33.4824714660645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3545",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_DUBBO_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "DUBBO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731237",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDz-wG42CGdRawwUGdjuY1SAZRTCzp35JNnYH8MlQfPr38",
+        "Address": "DUBBO, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.2429504394531,
+        "Longitude": 148.604843139648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.604843139648,
+          -32.2429504394531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3546",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_EATON_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "EATON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731260",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBjiROa6hyvSpoiiJOR2u6ZAa225umtkxSKzmAFO0CbAz4",
+        "Address": "EATON, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -12.4200000762939,
+        "Longitude": 130.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.880004882813,
+          -12.4200000762939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3547",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_JABIRU_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "JABIRU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731261",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDW8906XRTCQ54HSxRFO4iZAZfu0QxpLh4h745Dm-HPM0Q",
+        "Address": "JABIRU, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -12.6700000762939,
+        "Longitude": 132.899993896484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.899993896484,
+          -12.6700000762939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3548",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_DALY WATERS_40E_45000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "DALY WATERS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 45000,
+        "Elevation": 0,
+        "ID_PDF": "731256",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD8_VkqzFXlR77qBIC204nmARK7EyB4j7FA63U_Wi594mY",
+        "Address": "DALY WATERS, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -16.2533302307129,
+        "Longitude": 133.369323730469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.369323730469,
+          -16.2533302307129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3549",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_DUBBO_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "DUBBO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731240",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC41yImjWAnSL3jycHuBmCfAdTgddGTfIhLMJeukT7mwlA",
+        "Address": "DUBBO, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.2429504394531,
+        "Longitude": 148.604843139648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.604843139648,
+          -32.2429504394531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3550",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_SINGLETON_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "SINGLETON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731249",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAj8FR6Q-KFQJMLMaJAn0pnAVR2vCRpuYtkNGtOz1Atk4c",
+        "Address": "SINGLETON, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.5674209594727,
+        "Longitude": 151.166030883789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.166030883789,
+          -32.5674209594727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3551",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_GOULBURN_40E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "GOULBURN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731239",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCp9DeQUMxdSahj-UbxSdtbAYoKcq1bV_CvlO9_K-YwZsM",
+        "Address": "GOULBURN, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -34.75,
+        "Longitude": 149.716659545898
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.716659545898,
+          -34.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3552",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_JABIRU_600-300_10000_20_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "JABIRU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 20,
+        "ID_PDF": "731263",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCJqTDCd2maRr1ATnRBomxDAW7YPAOwI7GN9TIPvj4iCQc",
+        "Address": "JABIRU, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -12.6700000762939,
+        "Longitude": 132.899993896484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.899993896484,
+          -12.6700000762939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3553",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_DUBBO_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "DUBBO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731236",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCpwdVun0lNSaj-9ySFOeeZAZrW4NOxO2nxxMlmkWFKKEQ",
+        "Address": "DUBBO, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.2429504394531,
+        "Longitude": 148.604843139648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.604843139648,
+          -32.2429504394531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3554",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_DUBBO_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "DUBBO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731238",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB_ZX2viLRTTYcvtp9CkSseAdDd4CIhsnASolBTpE-v8Co",
+        "Address": "DUBBO, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.2429504394531,
+        "Longitude": 148.604843139648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.604843139648,
+          -32.2429504394531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3555",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_DOUGLAS RIVER_600-300_5000_10_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "DOUGLAS RIVER",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 10,
+        "ID_PDF": "731257",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDPTiC9u2L9TY8hH6GS9-JGAVRgWmz6uT5xJK1kbtXWalE",
+        "Address": "DOUGLAS RIVER, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -13.7645089,
+        "Longitude": 131.4321659
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.4321659,
+          -13.7645089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3556",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_ALICE SPRINGS_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "ALICE SPRINGS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731253",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCq-vVV1uTNR6T8_v_lRB89AWvfR6AXiUgAEokCOvcV45E",
+        "Address": "ALICE SPRINGS, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -23.7000007629395,
+        "Longitude": 133.883331298828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.883331298828,
+          -23.7000007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3557",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_SINGLETON_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "SINGLETON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731252",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAxlUC2KwVRS6IhvfKXcemSAS9v3hL20zvmLE4L2oIXTTM",
+        "Address": "SINGLETON, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.5674209594727,
+        "Longitude": 151.166030883789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.166030883789,
+          -32.5674209594727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3558",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_SINGLETON_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "SINGLETON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731247",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBikCXtJQ_-SbYuwrgaBvumAWOneQ8TaAajVnBI2XN_Nuw",
+        "Address": "SINGLETON, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -32.5674209594727,
+        "Longitude": 151.166030883789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.166030883789,
+          -32.5674209594727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3559",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_EATON_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "EATON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731259",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA5maaWhOB0SLRjk6qL1626Aco0Wk1mgAFQUq9SiwMvv7M",
+        "Address": "EATON, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -12.4200000762939,
+        "Longitude": 130.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.880004882813,
+          -12.4200000762939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3560",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_LIVERPOOL_600-300_10000_20_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "LIVERPOOL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 20,
+        "ID_PDF": "731245",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDBIeJL_NECQ5HAv2-IDMSRAYrcauRxjFAIKvWvi0xhmGY",
+        "Address": "LIVERPOOL, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -33.9129104614258,
+        "Longitude": 150.93701171875
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.93701171875,
+          -33.9129104614258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3561",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_ALICE SPRINGS_200-100_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "ALICE SPRINGS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731250",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBZA4KR0XBWRq51REP0GUu3AXVWx8KTz59NfpXHUrJyj9c",
+        "Address": "ALICE SPRINGS, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -23.7000007629395,
+        "Longitude": 133.883331298828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.883331298828,
+          -23.7000007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3562",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_ALICE SPRINGS_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "ALICE SPRINGS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731254",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCCpA8-NEpxQp-NQgZrjgdiAacPd97tqPQgu4XoHkswD7Q",
+        "Address": "ALICE SPRINGS, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -23.7000007629395,
+        "Longitude": 133.883331298828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.883331298828,
+          -23.7000007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3563",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_ALICE SPRINGS_40E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "ALICE SPRINGS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731251",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD9gMZwiWNpQqWnTi0hUkgAASpoaptMLLJd0XJYa0Xlu2A",
+        "Address": "ALICE SPRINGS, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -23.7000007629395,
+        "Longitude": 133.883331298828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.883331298828,
+          -23.7000007629395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3564",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_EATON_200-100_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "EATON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731258",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB_WLbEXf6YTr_eD1oSbbTPAWXNr4qH7U5zRU7kmBawRmw",
+        "Address": "EATON, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -12.4200000762939,
+        "Longitude": 130.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.880004882813,
+          -12.4200000762939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3565",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_BROKEN HILL_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "BROKEN HILL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731265",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDWNxGMD7rbRILF7p1S9bkxAc9Fy6P0ikAsrllo-RBR8Xw",
+        "Address": "BROKEN HILL, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -31.9652004241943,
+        "Longitude": 141.451202392578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.451202392578,
+          -31.9652004241943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3566",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_COBAR_200E_20000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "COBAR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 20000,
+        "Elevation": 0,
+        "ID_PDF": "731267",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCtkVmNQ-SSTqHHitIdX4R3ARpxCY8chKNUxjw4J3zNP-o",
+        "Address": "COBAR, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -31.4987297058105,
+        "Longitude": 145.841827392578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.841827392578,
+          -31.4987297058105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3567",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_COWRA_600-300_1000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "COWRA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 1000,
+        "Elevation": 3,
+        "ID_PDF": "731268",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDhEz2tB6hjTpwj6oFSA8AmAc3S8pzJbVYdt-VnwIDOtqY",
+        "Address": "COWRA, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -33.8355407714844,
+        "Longitude": 148.696624755859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.696624755859,
+          -33.8355407714844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3568",
+        "Name_PDF": "AUSTRALIA_NORTHERN TERRITORY_JABIRU_600-300_100000_20_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NORTHERN TERRITORY",
+        "City": "JABIRU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 100000,
+        "Elevation": 20,
+        "ID_PDF": "731264",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCCCCzMulyGR7opgAMZVAoKAS_CbmTVzMCoJO3tIHwi7bY",
+        "Address": "JABIRU, NORTHERN TERRITORY, AUSTRALIA",
+        "Latitude": -12.6700000762939,
+        "Longitude": 132.899993896484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.899993896484,
+          -12.6700000762939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3569",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_COWRA_200E_1000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "COWRA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 1000,
+        "Elevation": 0,
+        "ID_PDF": "731269",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAbcILJvslzSZcKmC5RH1WwAcku9myHW3GdIep61OlePYg",
+        "Address": "COWRA, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -33.8355407714844,
+        "Longitude": 148.696624755859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.696624755859,
+          -33.8355407714844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3570",
+        "Name_PDF": "AUSTRALIA_NEW SOUTH WALES_COBAR_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "NEW SOUTH WALES",
+        "City": "COBAR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731266",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC9HzBVFHG0Tofohvam5lQ7AXi19Uf28LJDnzHgvgK8yvk",
+        "Address": "COBAR, NEW SOUTH WALES, AUSTRALIA",
+        "Latitude": -31.4987297058105,
+        "Longitude": 145.841827392578
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.841827392578,
+          -31.4987297058105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3571",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_200E_200000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 200000,
+        "Elevation": 0,
+        "ID_PDF": "731271",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDqPtlbAHxLQabOyUaDzw7iAdqHSaHywx5xOzMtbU2CrP0",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3572",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_BUNDOORA_40E_50000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "BUNDOORA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 50000,
+        "Elevation": 0,
+        "ID_PDF": "731281",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDSueoLPGRaTpqZnra119rSAdMGmd6rxZQTi6IeRbhUJac",
+        "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
+        "Latitude": -23.0382900238037,
+        "Longitude": 148.344635009766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.344635009766,
+          -23.0382900238037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3573",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GAYNDAH_40E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GAYNDAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731290",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAk9GoPFlz9RLHRDvOKO4-kAepdK7PfmcIQJnBqwoeLdy0",
+        "Address": "GAYNDAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -25.6252193450928,
+        "Longitude": 151.611434936523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.611434936523,
+          -25.6252193450928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3574",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_BUNDOORA_400-200_50000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "BUNDOORA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 50000,
+        "Elevation": 3,
+        "ID_PDF": "731286",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBb4hHbV4gFRZM7V7ou6bIxAZau9Mr9QOC8KoHFJAOTwlA",
+        "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
+        "Latitude": -23.0382900238037,
+        "Longitude": 148.344635009766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.344635009766,
+          -23.0382900238037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3575",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_AMBERLEY_600-300_1000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "AMBERLEY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 1000,
+        "Elevation": 3,
+        "ID_PDF": "731279",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDbeY-6yOLiSIPRxse_iCkcAVjMVcHdwu4A8Fk7jpA-hqc",
+        "Address": "AMBERLEY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -27.6399993896484,
+        "Longitude": 152.710006713867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.710006713867,
+          -27.6399993896484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3576",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731274",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDUnvcsabW6R5T-DDp9iZT9Actxj5MHriyPRfYCLgBfNuw",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3577",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731273",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDEiZoAg9oTRorRgfFYqndNATyAa_zGmeig2AvlZficrZk",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3578",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_AMBERLEY_200-100_2500_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "AMBERLEY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 2500,
+        "Elevation": 3,
+        "ID_PDF": "731278",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDaf0F1nyngQ6rGTXLi8gVwAYqDUbn9DxRPQX3IxTgPdlw",
+        "Address": "AMBERLEY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -27.6399993896484,
+        "Longitude": 152.710006713867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.710006713867,
+          -27.6399993896484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3579",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_200E_1000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 1000,
+        "Elevation": 0,
+        "ID_PDF": "731270",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDumJ-i9TI2Tq9rJDd-Lp3dAddplZQ2NAG_b_s1WaIjkus",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3580",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_BUNDOORA_200E_50000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "BUNDOORA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 50000,
+        "Elevation": 0,
+        "ID_PDF": "731283",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCOyetv8rdkT5nfBXOu2pQ9ATfT6QBPC6FGJg9O2yx0GgM",
+        "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
+        "Latitude": -23.0382900238037,
+        "Longitude": 148.344635009766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.344635009766,
+          -23.0382900238037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3581",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_AMBERLEY_400-200_1000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "AMBERLEY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 1000,
+        "Elevation": 3,
+        "ID_PDF": "731280",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCzPHYKEzVAT5LNrQZJO9ydAb2BZY2-0W3YVjKuaK-2KpQ",
+        "Address": "AMBERLEY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -27.6399993896484,
+        "Longitude": 152.710006713867
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.710006713867,
+          -27.6399993896484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3582",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MILES_600-300_40000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MILES",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 40000,
+        "Elevation": 3,
+        "ID_PDF": "731277",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDYa5-AjV3CQqNbMDUBqot1AXFnwv6jzHYQUUjM71Y2Lac",
+        "Address": "MILES, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.6499996185303,
+        "Longitude": 150.179992675781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.179992675781,
+          -26.6499996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3583",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_BUNDOORA_200-100_50000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "BUNDOORA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 50000,
+        "Elevation": 3,
+        "ID_PDF": "731282",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCf3in-ueFFQa5qZ0T9nLbKARmj01xbofFahT0Hs6GsNZE",
+        "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
+        "Latitude": -23.0382900238037,
+        "Longitude": 148.344635009766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.344635009766,
+          -23.0382900238037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3584",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_CLONCURRY_40E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "CLONCURRY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731288",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC5oqVTZoMSQLrVOLkzJ6ElAYD0OE0-Rw6kk0OwifyO9AY",
+        "Address": "CLONCURRY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -20.7071800231934,
+        "Longitude": 140.513031005859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.513031005859,
+          -20.7071800231934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3585",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MILES_200E_40000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MILES",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 40000,
+        "Elevation": 0,
+        "ID_PDF": "731275",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCFyiPKF7T1Q74U9Z4XL00UAbBlNq9ubTFPSzgKoCkasXA",
+        "Address": "MILES, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.6499996185303,
+        "Longitude": 150.179992675781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.179992675781,
+          -26.6499996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3586",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_600-300_200000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 200000,
+        "Elevation": 3,
+        "ID_PDF": "731276",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDVouODYcSDSKanbxptT_eaARipFbgedyyii98qOWN_wRM",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3587",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GAYNDAH_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GAYNDAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731293",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAm41KMx5IcTbJaPt5ZhEk2AcgFHoCbtuh3W-9IgHFVOkM",
+        "Address": "GAYNDAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -25.6252193450928,
+        "Longitude": 151.611434936523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.611434936523,
+          -25.6252193450928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3588",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GYMPIE_600-300_1000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GYMPIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 1000,
+        "Elevation": 3,
+        "ID_PDF": "731298",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC77OfjO8VdQ6SGlN3U9TqnAaOeEkfPcPjTfU1qDZjym84",
+        "Address": "GYMPIE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.1833305358887,
+        "Longitude": 152.66667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.66667175293,
+          -26.1833305358887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3589",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GLADSTONE_200E_50000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GLADSTONE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 50000,
+        "Elevation": 0,
+        "ID_PDF": "731297",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC1R3DB2oBcSIIcnV2NR2E0AVfuRdYIe0YxBzCQCqzl-lU",
+        "Address": "GLADSTONE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -23.8500003814697,
+        "Longitude": 151.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.25,
+          -23.8500003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3590",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731272",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCiVM8SP7keS67ZMEi9rBynAb795Xkee32YYcvt_EXFlSY",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3591",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_BUNDOORA_600-300_50000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "BUNDOORA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 50000,
+        "Elevation": 3,
+        "ID_PDF": "731284",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDxHGvex4hITb2nocmEq1emAUW0FFUoS0X9puJAuipBLEs",
+        "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
+        "Latitude": -23.0382900238037,
+        "Longitude": 148.344635009766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.344635009766,
+          -23.0382900238037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3592",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_CHARLEVILLE_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "CHARLEVILLE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731285",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDkyY-dOZzeT5pfaLxq4uXSAQUgBWdAnVcCN9fSJntqOaQ",
+        "Address": "CHARLEVILLE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.4054203033447,
+        "Longitude": 146.242736816406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.242736816406,
+          -26.4054203033447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3593",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GAYNDAH_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GAYNDAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731294",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAvp-a6kHvSSZPPPF-8l4xQARYb_VebV4VM0LjvsW00Bvo",
+        "Address": "GAYNDAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -25.6252193450928,
+        "Longitude": 151.611434936523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.611434936523,
+          -25.6252193450928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3594",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_40E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731301",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB10w47D1tMR69y2emws2adAbvyeVNhqyOFEUcWht6o7oE",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3595",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_IMBIL_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "IMBIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731300",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDxHc7EfyPpQKpimChGd_1eATBkl3oLS-YjwGDa-Vw43GI",
+        "Address": "IMBIL, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.1833305358887,
+        "Longitude": 152.66667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.66667175293,
+          -26.1833305358887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3596",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GLADSTONE_40E_50000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GLADSTONE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 50000,
+        "Elevation": 0,
+        "ID_PDF": "731295",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAO0z6fy5CmRLRKrs4UJGlyAVGG5fTEXzUxTSHPMMROFqg",
+        "Address": "GLADSTONE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -23.8500003814697,
+        "Longitude": 151.25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.25,
+          -23.8500003814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3597",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GAYNDAH_200-100_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GAYNDAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731291",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCuEJ0xXd7oT6LjdRtA2LpaATSlyrkA2UNZN96sdQrb58M",
+        "Address": "GAYNDAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -25.6252193450928,
+        "Longitude": 151.611434936523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.611434936523,
+          -25.6252193450928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3598",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_CHARLEVILLE_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "CHARLEVILLE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731289",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAF0QyXM6zCRo9pwKRC9vV7AcdCAoi_YgBhaMFUKtf-VS0",
+        "Address": "CHARLEVILLE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.4054203033447,
+        "Longitude": 146.242736816406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.242736816406,
+          -26.4054203033447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3599",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_200-100_1000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 1000,
+        "Elevation": 3,
+        "ID_PDF": "731302",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAZuh2ZnqFZR7K1pembbHIDAYo_u4scPuasBvkeOMuRhzE",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3600",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_CHARLEVILLE_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "CHARLEVILLE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731287",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBGVsdIGYU0RKVP-kuV_EAAAaxZ9u2t5v7lvPQkg9wQJ7o",
+        "Address": "CHARLEVILLE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.4054203033447,
+        "Longitude": 146.242736816406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.242736816406,
+          -26.4054203033447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3601",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GAYNDAH_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GAYNDAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731292",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBx8pEdN-QpQqsF74wtqBRDARVyfnXQq-LhRN-ua86v-04",
+        "Address": "GAYNDAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -25.6252193450928,
+        "Longitude": 151.611434936523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.611434936523,
+          -25.6252193450928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3602",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_IMBIL_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "IMBIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731299",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA6_I-Z3pi7R63wDAzjRiSCAbALf8NNTqPiAm8LoXDA0SI",
+        "Address": "IMBIL, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.1833305358887,
+        "Longitude": 152.66667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.66667175293,
+          -26.1833305358887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3603",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_200-100_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731304",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBAJ2EoOnh5Q5a19M6x4CWBAfw0vGSoD7ZPVMbf58EOl80",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3604",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MACKAY_200-100_200000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MACKAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 200000,
+        "Elevation": 3,
+        "ID_PDF": "731303",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDCMKWRSNzQRJhNeCTaJf1ZARaQG7mPgysIN0EpE5YGGIk",
+        "Address": "MACKAY, QUEENSLAND, AUSTRALIA",
+        "Latitude": -21.153450012207,
+        "Longitude": 149.165542602539
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.165542602539,
+          -21.153450012207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3605",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_GYMPIE_600-300_1500_5_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "GYMPIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 1500,
+        "Elevation": 5,
+        "ID_PDF": "731296",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA0tePzTkISTYYFwCyzgqOwAY2-HVZHDAeXAfTVa3BnDfY",
+        "Address": "GYMPIE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -26.1833305358887,
+        "Longitude": 152.66667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.66667175293,
+          -26.1833305358887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3606",
+        "Name_PDF": "AUSTRALIA_SOUTH AUSTRALIA_ROXBY DOWNS_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "SOUTH AUSTRALIA",
+        "City": "ROXBY DOWNS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731306",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCpLO1UBtU4SpvStQ6VpLkRAfpjbfxiLFvWar09Lu9nqFA",
+        "Address": "ROXBY DOWNS, SOUTH AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.4899997711182,
+        "Longitude": 136.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.880004882813,
+          -30.4899997711182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3607",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731310",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDRWW8qy7AbTY90n-BgaHTKAT85bf4xEEPCe7bZKV0G0qo",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -22.0016307830811,
+        "Longitude": 148.046600341797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3608",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731309",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB0vAYv62-NRL8HNgRWA04DAV1g1sBqUVUze4rNj-U1cEw",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -22.0016307830811,
+        "Longitude": 148.046600341797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3609",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_400-200_10000_20_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 20,
+        "ID_PDF": "731312",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBaTJ_0wdK9RogcVAOlnYd5ARD_a7iUEdb5bbILQgdYPyk",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -22.0016307830811,
+        "Longitude": 148.046600341797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3610",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_TOWNSVILLE_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "TOWNSVILLE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731322",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBMJoKTNlSsTpnOtty-GUjvAWRxLl8H6Smjq-K7mkReXy4",
+        "Address": "TOWNSVILLE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -19.2663898468018,
+        "Longitude": 146.805694580078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.805694580078,
+          -19.2663898468018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3611",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_TOWNSVILLE_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "TOWNSVILLE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731320",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBBx17IDmWLTqodfxlH0oe7AUSTy5H_lmiidDBoMU05xnc",
+        "Address": "TOWNSVILLE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -19.2663898468018,
+        "Longitude": 146.805694580078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.805694580078,
+          -19.2663898468018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3612",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731314",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBSuCWFYEebRpOrRkpTVu72Ado74FjI5oPMbVAq3Oe1bOI",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -22.0016307830811,
+        "Longitude": 148.046600341797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3613",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731313",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBiW6ORY88UT6gvqeR2rnSvAS-OEDIJeqZfdV1dA6QvtQM",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -22.0016307830811,
+        "Longitude": 148.046600341797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3614",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_TEXAS_400-200_10000_20_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "TEXAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 20,
+        "ID_PDF": "731318",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBTWwRr351ZRblPgKRzzZ3xAVUUqG0X0MNhSkCNcBCQOBE",
+        "Address": "TEXAS, QUEENSLAND, AUSTRALIA",
+        "Latitude": -28.6542491912842,
+        "Longitude": 151.933883666992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.933883666992,
+          -28.6542491912842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3615",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731315",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAFVrKWpHniR7PFmvh_fIffAdo2Q5yeGUZfGDoUDjhX01g",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -22.0016307830811,
+        "Longitude": 148.046600341797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3616",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_TOWNSVILLE_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "TOWNSVILLE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731319",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC5HEAd6laVSr4jjeJ8nA_2AdGNKIO3JIOAgUwa-ku_rxY",
+        "Address": "TOWNSVILLE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -19.2663898468018,
+        "Longitude": 146.805694580078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.805694580078,
+          -19.2663898468018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3617",
+        "Name_PDF": "AUSTRALIA_SOUTH AUSTRALIA_ROXBY DOWNS_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "SOUTH AUSTRALIA",
+        "City": "ROXBY DOWNS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731308",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBlBDyFtPBBRKpDYpCkrVVhAYwQoD0olKquGZmQfwWP-b4",
+        "Address": "ROXBY DOWNS, SOUTH AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.4899997711182,
+        "Longitude": 136.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.880004882813,
+          -30.4899997711182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3618",
+        "Name_PDF": "AUSTRALIA_SOUTH AUSTRALIA_ROXBY DOWNS_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "SOUTH AUSTRALIA",
+        "City": "ROXBY DOWNS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731305",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBQTJ_RWzoLQ4zQuge4pKQ0ARTDx9kHy77NYQc7krJ4grE",
+        "Address": "ROXBY DOWNS, SOUTH AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.4899997711182,
+        "Longitude": 136.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.880004882813,
+          -30.4899997711182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3619",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_TOWNSVILLE_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "TOWNSVILLE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731321",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCM60rf1TKwRp77nsFzGzofAQlj65hCWPEVm8s99rDYwds",
+        "Address": "TOWNSVILLE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -19.2663898468018,
+        "Longitude": 146.805694580078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.805694580078,
+          -19.2663898468018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3620",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_WEIPA_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "WEIPA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731324",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAO2W51wOK8QJJl9JCEKnnZASyV97pGeR2ThSdH2BODc9A",
+        "Address": "WEIPA, QUEENSLAND, AUSTRALIA",
+        "Latitude": -12.6300001144409,
+        "Longitude": 141.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.880004882813,
+          -12.6300001144409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3621",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_TOWNSVILLE_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "TOWNSVILLE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731323",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCpFjZKtWdgRKK9aNO3VLw9Afjf_VS8llUsYi9rcETuOcQ",
+        "Address": "TOWNSVILLE, QUEENSLAND, AUSTRALIA",
+        "Latitude": -19.2663898468018,
+        "Longitude": 146.805694580078
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.805694580078,
+          -19.2663898468018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3622",
+        "Name_PDF": "AUSTRALIA_SOUTH AUSTRALIA_ROXBY DOWNS_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "SOUTH AUSTRALIA",
+        "City": "ROXBY DOWNS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731326",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCe9EKXDdEQQ6DAupbM5WA2ARF7-CcW_QxW34nNpGk6i8U",
+        "Address": "ROXBY DOWNS, SOUTH AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.4899997711182,
+        "Longitude": 136.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.880004882813,
+          -30.4899997711182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3623",
+        "Name_PDF": "AUSTRALIA_SOUTH AUSTRALIA_ROXBY DOWNS_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "SOUTH AUSTRALIA",
+        "City": "ROXBY DOWNS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731307",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBeZxa8FStFS45O8WPyTBQdAQTvTiHMDapwl4zysL74P-I",
+        "Address": "ROXBY DOWNS, SOUTH AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.4899997711182,
+        "Longitude": 136.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.880004882813,
+          -30.4899997711182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3624",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_TEXAS_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "TEXAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731317",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAhwCnDYRpbSLIlGrWx-yLqAZ9hDH8dwtuL2a75j9iLYRE",
+        "Address": "TEXAS, QUEENSLAND, AUSTRALIA",
+        "Latitude": -28.6542491912842,
+        "Longitude": 151.933883666992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.933883666992,
+          -28.6542491912842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3625",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_200-100_10000_20_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 20,
+        "ID_PDF": "731311",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBxQGak_nS2RKerpVr_Ic-MAQ_IHgA-0EcvCmc5wfOrw2w",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -22.0016307830811,
+        "Longitude": 148.046600341797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3626",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_MORANBAH_600-300_10000_20_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "MORANBAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 20,
+        "ID_PDF": "731316",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD0ldRm4Z04SKanFKweTmWgAeGl9vc63dQLvR0Bopfo5E8",
+        "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
+        "Latitude": -22.0016307830811,
+        "Longitude": 148.046600341797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.046600341797,
+          -22.0016307830811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3627",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_WEIPA_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "QUEENSLAND",
+        "City": "WEIPA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731325",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB3jWa2wCV8R68HLTYYALc7AT_iP4JPtnvRmAXCUFUU8rk",
+        "Address": "WEIPA, QUEENSLAND, AUSTRALIA",
+        "Latitude": -12.6300001144409,
+        "Longitude": 141.880004882813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.880004882813,
+          -12.6300001144409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3628",
+        "Name_PDF": "AUSTRALIA_TASMANIA_ROSEBERY_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "ROSEBERY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731332",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCJJzFsyt3tSI1cQDU_WMpQAX9wGfjHmxEu0fNkX7MyzB8",
+        "Address": "ROSEBERY, TASMANIA, AUSTRALIA",
+        "Latitude": -42.0833282470703,
+        "Longitude": 145.550003051758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.550003051758,
+          -42.0833282470703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3629",
+        "Name_PDF": "AUSTRALIA_VICTORIA_MANGALORE_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "VICTORIA",
+        "City": "MANGALORE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731335",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBDMjFIym13TqD_1OUHS-gtAbQVFydbv-qYwk2rejVjEnA",
+        "Address": "MANGALORE, VICTORIA, AUSTRALIA",
+        "Latitude": -36.8800010681152,
+        "Longitude": 145.179992675781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.179992675781,
+          -36.8800010681152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3630",
+        "Name_PDF": "AUSTRALIA_TASMANIA_BURNIE_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "BURNIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731337",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDGZByO7S6zRZZlnAGkYhaKATrXIBDMHzTn0TsEbQOW8BA",
+        "Address": "BURNIE, TASMANIA, AUSTRALIA",
+        "Latitude": -41.0558395385742,
+        "Longitude": 145.903747558594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.903747558594,
+          -41.0558395385742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3631",
+        "Name_PDF": "AUSTRALIA_TASMANIA_BURNIE_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "BURNIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731329",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAnVxILnEvRTYHlnBlQfidmAWSbON3HUl26P0ryQFpfyhg",
+        "Address": "BURNIE, TASMANIA, AUSTRALIA",
+        "Latitude": -41.0558395385742,
+        "Longitude": 145.903747558594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.903747558594,
+          -41.0558395385742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3632",
+        "Name_PDF": "AUSTRALIA_VICTORIA_MANGALORE_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "VICTORIA",
+        "City": "MANGALORE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731331",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCbi1rDFYcNRaVeoBegRg93AeZ13yI1i-v-7mk6gWrbRww",
+        "Address": "MANGALORE, VICTORIA, AUSTRALIA",
+        "Latitude": -36.8800010681152,
+        "Longitude": 145.179992675781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.179992675781,
+          -36.8800010681152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3633",
+        "Name_PDF": "AUSTRALIA_VICTORIA_MANGALORE_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "VICTORIA",
+        "City": "MANGALORE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731333",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBmn9lhgR_XQ5U1_xQhHnXJAR0HIbHQediz7zoIEPfUH74",
+        "Address": "MANGALORE, VICTORIA, AUSTRALIA",
+        "Latitude": -36.8800010681152,
+        "Longitude": 145.179992675781
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.179992675781,
+          -36.8800010681152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3634",
+        "Name_PDF": "AUSTRALIA_TASMANIA_LOW HEAD_600-300_100_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "LOW HEAD",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 100,
+        "Elevation": 3,
+        "ID_PDF": "731328",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBxEfl0egT2SpkfqmDlb2cDAVFdeikK1QF3rW4K28uPF_Q",
+        "Address": "LOW HEAD, TASMANIA, AUSTRALIA",
+        "Latitude": -41.0499992370605,
+        "Longitude": 146.779998779297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.779998779297,
+          -41.0499992370605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3635",
+        "Name_PDF": "AUSTRALIA_TASMANIA_ROSEBERY_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "ROSEBERY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731330",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCvj-RrFlHFTohgNGZ9XtNjAVvgf9yc2TkQnfz0art7NX8",
+        "Address": "ROSEBERY, TASMANIA, AUSTRALIA",
+        "Latitude": -42.0833282470703,
+        "Longitude": 145.550003051758
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.550003051758,
+          -42.0833282470703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3636",
+        "Name_PDF": "AUSTRALIA_TASMANIA_BURNIE_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "BURNIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731334",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBt_KXuuWq2QLnnSrzmE90aAf73qOPQ3DnndHvhyEmOEpQ",
+        "Address": "BURNIE, TASMANIA, AUSTRALIA",
+        "Latitude": -41.0558395385742,
+        "Longitude": 145.903747558594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.903747558594,
+          -41.0558395385742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3637",
+        "Name_PDF": "AUSTRALIA_TASMANIA_BURNIE_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "BURNIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731336",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQABlEau1IlYRYWGCHnNBj8OAaK7tbfIVpdra1VosDUuFRw",
+        "Address": "BURNIE, TASMANIA, AUSTRALIA",
+        "Latitude": -41.0558395385742,
+        "Longitude": 145.903747558594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.903747558594,
+          -41.0558395385742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3638",
+        "Name_PDF": "AUSTRALIA_TASMANIA_LOW HEAD_400-200_100_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "LOW HEAD",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 100,
+        "Elevation": 3,
+        "ID_PDF": "731327",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCVDKzTSnc3QJRSZHVbzUhwAU9vVqsYBnrF1r-noTElqnk",
+        "Address": "LOW HEAD, TASMANIA, AUSTRALIA",
+        "Latitude": -41.0499992370605,
+        "Longitude": 146.779998779297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.779998779297,
+          -41.0499992370605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3639",
+        "Name_PDF": "AUSTRALIA_TASMANIA_BURNIE_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "TASMANIA",
+        "City": "BURNIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731338",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD7cMWjyG2-SJKkIBG6342UAVx1U_Z-caRI31ZxlobQ2V8",
+        "Address": "BURNIE, TASMANIA, AUSTRALIA",
+        "Latitude": -41.0558395385742,
+        "Longitude": 145.903747558594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.903747558594,
+          -41.0558395385742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3640",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731345",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCJ0_0NRgyCRrpTJ5BBXaMiAc1I73ANROh-hDic4toM6RM",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3641",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_NEWMAN_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "NEWMAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731340",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBJvTdF7uPNSZB4txKGoF_TAXgh4lH8Wz6TOC_vGEPnTMM",
+        "Address": "NEWMAN, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -23.3564395904541,
+        "Longitude": 119.735527038574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.735527038574,
+          -23.3564395904541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3642",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_KALGOORLIE_200-100_40000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "KALGOORLIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 40000,
+        "Elevation": 3,
+        "ID_PDF": "731356",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBOx0p6_4QaR7I0vS_x0oBwAW6cJEKsKwlfWWND-DL9Dfk",
+        "Address": "KALGOORLIE, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.75,
+        "Longitude": 121.466667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466667175293,
+          -30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3643",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_NEWMAN_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "NEWMAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731344",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA1DoyTuKYkSKJX-hyKFFYZASX6jTFYmveWFWDTp7aQsmQ",
+        "Address": "NEWMAN, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -23.3564395904541,
+        "Longitude": 119.735527038574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.735527038574,
+          -23.3564395904541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3644",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_KALGOORLIE_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "KALGOORLIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731357",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDkjkIG07XhT7cp0NK_04BTAWLIys2sWWpbjjHl4oWkTcY",
+        "Address": "KALGOORLIE, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.75,
+        "Longitude": 121.466667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466667175293,
+          -30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3645",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_200-100_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731347",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAzARHZgcu5Q4635HdO_sTmAcichdGOGsknGVVmJdiSHWE",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3646",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MOUNT MAGNET_600-300_2000_100_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "MOUNT MAGNET",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 2000,
+        "Elevation": 100,
+        "ID_PDF": "731364",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAuDMcYlDZ7TbqlTKTCrlrCAWHiFu9bVOnnjvo32yj7q7E",
+        "Address": "MOUNT MAGNET, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.064790725708,
+        "Longitude": 117.84903717041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84903717041,
+          -28.064790725708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3647",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MURGOO_600-300_20000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "MURGOO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 20000,
+        "Elevation": 3,
+        "ID_PDF": "731339",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDyIx18d3TDQa8TwaIaZGGdAWu4JcSO48_ghBj5P6yF12g",
+        "Address": "MURGOO, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -27.1163005828857,
+        "Longitude": 117.122711181641
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.122711181641,
+          -27.1163005828857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3648",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_NEWMAN_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "NEWMAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731341",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDoCo6-Q_zJRbPoVvfRR0TOAXBsvt6q-nr3hOx6KenyJaM",
+        "Address": "NEWMAN, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -23.3564395904541,
+        "Longitude": 119.735527038574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.735527038574,
+          -23.3564395904541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3649",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_KALGOORLIE_200-100_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "KALGOORLIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731355",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCREpUWiQ68T7NFfIwIDiqWAdiAWy1csZ0XjdPVcWQ1lDo",
+        "Address": "KALGOORLIE, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.75,
+        "Longitude": 121.466667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466667175293,
+          -30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3650",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_KALGOORLIE_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "KALGOORLIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731359",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB0iV-9I9gnR4EvwJzze6TkAf9KITBO38ch_GrzvDbKwuA",
+        "Address": "KALGOORLIE, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.75,
+        "Longitude": 121.466667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466667175293,
+          -30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3651",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731346",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA7Exje-lycRqIwdaV0GMg-AU-5L2D85kvO8AiTEWZfPmA",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3652",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731352",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDqb8zIFlbERLVOx3RQ2-1VAY-ZpiMLfOsQ2SwGulFJKHk",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3653",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_NEWMAN_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "NEWMAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731342",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD3q40DO3oATKiggSWVz591ASFDp9EksH0Er1WpVcqD6_M",
+        "Address": "NEWMAN, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -23.3564395904541,
+        "Longitude": 119.735527038574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.735527038574,
+          -23.3564395904541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3654",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_400-200_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731351",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBn2oBGQ37GTZnX3yTT5IhxAQsn-15tW22-4qKNAXGLahg",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3655",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_200E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731348",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD4LBtXqVJMQZGljI4aIImyAZRqLC0WSl0p_lxTAACi7DM",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3656",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731350",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBtiWfB3yWcTZNFeQt3_WAuAfjKMxIz9XVNpi04FZGLbtM",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3657",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MOUNT MAGNET_600-300_10000_40_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "MOUNT MAGNET",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 40,
+        "ID_PDF": "731367",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAeEyhSQrBgQrFVVoGVOtZGAT3lC9DCEX95NkJTNgqN6MY",
+        "Address": "MOUNT MAGNET, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.064790725708,
+        "Longitude": 117.84903717041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84903717041,
+          -28.064790725708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3658",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MOUNT MAGNET_600-300_2000_30_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "MOUNT MAGNET",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 2000,
+        "Elevation": 30,
+        "ID_PDF": "731365",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDdA-0JSBq4SoW8SHeeeDn5AQggFocyX53oNpQkspRysy8",
+        "Address": "MOUNT MAGNET, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.064790725708,
+        "Longitude": 117.84903717041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84903717041,
+          -28.064790725708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3659",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_KALGOORLIE_40E_5000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "KALGOORLIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731354",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDDlg1ompfPRaZPFOUvzE8DAfUA6Kw2HWuFBNYcLNQ9Jlg",
+        "Address": "KALGOORLIE, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.75,
+        "Longitude": 121.466667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466667175293,
+          -30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3660",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MEEKATHARRA_200E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "MEEKATHARRA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731361",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDg442r1kHVSbezb9y6MQ2-Aa8BSp6dI-E7UGFdx1KH9sk",
+        "Address": "MEEKATHARRA, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -26.5952396392822,
+        "Longitude": 118.493927001953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.493927001953,
+          -26.5952396392822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3661",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_NEWMAN_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "NEWMAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731343",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB2Fh8Wxko7T4I3Il1seviwAd7TcoJABV61ZeDNqU6yPhg",
+        "Address": "NEWMAN, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -23.3564395904541,
+        "Longitude": 119.735527038574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.735527038574,
+          -23.3564395904541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3662",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MOUNT MAGNET_600-300_10000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "MOUNT MAGNET",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731366",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCvGKcsjQoYRYDjL1tFXG4FARX7vfKviZoOi9SW8Ccbi6o",
+        "Address": "MOUNT MAGNET, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.064790725708,
+        "Longitude": 117.84903717041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84903717041,
+          -28.064790725708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3663",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_600-300_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731353",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD8UPpmmmtzRpUMjw7eVabZAZD1PEFwg24xrcdlK9-M4Fo",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3664",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_KALGOORLIE_600-300_40000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "KALGOORLIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 40000,
+        "Elevation": 3,
+        "ID_PDF": "731360",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCq9PLfzxUHTqdhMcx2zvksAaRORzELySsdPMLXAebQVps",
+        "Address": "KALGOORLIE, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.75,
+        "Longitude": 121.466667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466667175293,
+          -30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3665",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_GERALDTON_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "GERALDTON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731349",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCfB5nqweiuQ5Nt27mJUzN9AdlxG5jZHIhoI1w0bUe17i8",
+        "Address": "GERALDTON, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.7789707183838,
+        "Longitude": 114.614593505859
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.614593505859,
+          -28.7789707183838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3666",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_KALGOORLIE_400-200_5000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "KALGOORLIE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731358",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAfOuiCofmlQ5yGhc-5Jb0BAXmRDqxoHhhUcS7oltSNwRA",
+        "Address": "KALGOORLIE, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -30.75,
+        "Longitude": 121.466667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.466667175293,
+          -30.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3667",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MOUNT MAGNET_600-300_2000_3_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "MOUNT MAGNET",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 2000,
+        "Elevation": 3,
+        "ID_PDF": "731363",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCmQUv_QBjSQKYvK8Uo9VK-AYtve4Zv-KW3Vqc4oy1wQLs",
+        "Address": "MOUNT MAGNET, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -28.064790725708,
+        "Longitude": 117.84903717041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.84903717041,
+          -28.064790725708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3668",
+        "Name_PDF": "AUSTRALIA_WESTERN AUSTRALIA_MEEKATHARRA_40E_10000_0_2023.PDF",
+        "Country": "AUSTRALIA",
+        "State": "WESTERN AUSTRALIA",
+        "City": "MEEKATHARRA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731362",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQACeE0GgLRcSJZay0orIFSjAeY79G5kv_ifWhh_7vRnSLk",
+        "Address": "MEEKATHARRA, WESTERN AUSTRALIA, AUSTRALIA",
+        "Latitude": -26.5952396392822,
+        "Longitude": 118.493927001953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.493927001953,
+          -26.5952396392822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3669",
+        "Name_PDF": "BOLIVIA_LA PAZ_COLQUIRI_600-300_10000_3_2023.PDF",
+        "Country": "BOLIVIA",
+        "State": "LA PAZ",
+        "City": "COLQUIRI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731375",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBcNLrWExXkQ4rhxIJykqesAf2sZ4fL3RCWMLfanfO2bBc",
+        "Address": "COLQUIRI, LA PAZ, BOLIVIA",
+        "Latitude": -17.3891792297363,
+        "Longitude": -67.126708984375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.126708984375,
+          -17.3891792297363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3670",
+        "Name_PDF": "BOLIVIA_LA PAZ_COLQUIRI_40E_10000_0_2023.PDF",
+        "Country": "BOLIVIA",
+        "State": "LA PAZ",
+        "City": "COLQUIRI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731372",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAbD0z2zoZcSYZuVRVc5oZhASRrwYXkTpdMUeGJpT7GmPA",
+        "Address": "COLQUIRI, LA PAZ, BOLIVIA",
+        "Latitude": -17.3891792297363,
+        "Longitude": -67.126708984375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.126708984375,
+          -17.3891792297363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3671",
+        "Name_PDF": "BRAZIL_GOIAS_URUACU_600-300_10000_100_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "GOIAS",
+        "City": "URUACU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 100,
+        "ID_PDF": "731390",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBVJFfGxEJMR7x_mFawZszjAaDystSo41RGXscEEYtyeuI",
+        "Address": "URUACU, GOIAS, BRAZIL",
+        "Latitude": -14.5247201919556,
+        "Longitude": -49.1408309936523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1408309936523,
+          -14.5247201919556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3672",
+        "Name_PDF": "BOLIVIA_LA PAZ_COLQUIRI_200-100_10000_3_2023.PDF",
+        "Country": "BOLIVIA",
+        "State": "LA PAZ",
+        "City": "COLQUIRI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731374",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAC1MfdHKE0RInY_8Y2LiTnAc41yNSwZ3abVcgwcb_zoCU",
+        "Address": "COLQUIRI, LA PAZ, BOLIVIA",
+        "Latitude": -17.3891792297363,
+        "Longitude": -67.126708984375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.126708984375,
+          -17.3891792297363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3673",
+        "Name_PDF": "BOLIVIA_LA PAZ_COLQUIRI_200E_10000_0_2023.PDF",
+        "Country": "BOLIVIA",
+        "State": "LA PAZ",
+        "City": "COLQUIRI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731373",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAsbSJ_m8TmS7GWdOgtXlnTAe3yLFwgBRCSYkG9aTozSFg",
+        "Address": "COLQUIRI, LA PAZ, BOLIVIA",
+        "Latitude": -17.3891792297363,
+        "Longitude": -67.126708984375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.126708984375,
+          -17.3891792297363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3674",
+        "Name_PDF": "BRAZIL_GOIAS_OUVIDOR_600-300_10000_6_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "GOIAS",
+        "City": "OUVIDOR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 6,
+        "ID_PDF": "731388",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCeQYs0r-rvS4xlzSqi1OG2ATSNvMv8_umKYdicEV2Fjr8",
+        "Address": "OUVIDOR, GOIAS, BRAZIL",
+        "Latitude": -18.1658306121826,
+        "Longitude": -47.9463882446289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9463882446289,
+          -18.1658306121826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3675",
+        "Name_PDF": "BRAZIL_GOIAS_OUVIDOR_400-200_10000_6_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "GOIAS",
+        "City": "OUVIDOR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 6,
+        "ID_PDF": "731386",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBXFYYf7B9iQYdmBrRzNKxcAX-JCRC7dUqGqEVWGGG8bWI",
+        "Address": "OUVIDOR, GOIAS, BRAZIL",
+        "Latitude": -18.1658306121826,
+        "Longitude": -47.9463882446289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9463882446289,
+          -18.1658306121826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3676",
+        "Name_PDF": "BRAZIL_MARANHAO_BALSAS_200E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MARANHAO",
+        "City": "BALSAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731369",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAns8blkPaAT67nm3pnrpofATUrTTI2ZHn9M59n0G9z6MQ",
+        "Address": "BALSAS, MARANHAO, BRAZIL",
+        "Latitude": -7.53249979019165,
+        "Longitude": -46.0355606079102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.0355606079102,
+          -7.53249979019165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3677",
+        "Name_PDF": "BOLIVIA_LA PAZ_COLQUIRI_400-200_10000_3_2023.PDF",
+        "Country": "BOLIVIA",
+        "State": "LA PAZ",
+        "City": "COLQUIRI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731376",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCs_xnSLbyEQINeTv5VGJaJAdgtuoueSDJ2_q_3crgUx28",
+        "Address": "COLQUIRI, LA PAZ, BOLIVIA",
+        "Latitude": -17.3891792297363,
+        "Longitude": -67.126708984375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.126708984375,
+          -17.3891792297363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3678",
+        "Name_PDF": "BRAZIL_GOIAS_CRIXAS_600-300_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "GOIAS",
+        "City": "CRIXAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731385",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAp6eNNZsy2RJR8Fo-mhLyHAXOuw6nrOp1fsyaSJUlw_JM",
+        "Address": "CRIXAS, GOIAS, BRAZIL",
+        "Latitude": -14.5488901138306,
+        "Longitude": -49.9691696166992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9691696166992,
+          -14.5488901138306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3679",
+        "Name_PDF": "BRAZIL_ALAGOAS_ARAPIRACA_200E_50000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "ALAGOAS",
+        "City": "ARAPIRACA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 50000,
+        "Elevation": 0,
+        "ID_PDF": "731377",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAA5tgQyFyeS7tkniNwAa7bAYU130b2OxFAV6HsQ-YM15E",
+        "Address": "ARAPIRACA, ALAGOAS, BRAZIL",
+        "Latitude": -9.7524995803833,
+        "Longitude": -36.6611099243164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.6611099243164,
+          -9.7524995803833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3680",
+        "Name_PDF": "BRAZIL_GOIAS_URUACU_600-300_10000_5_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "GOIAS",
+        "City": "URUACU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 5,
+        "ID_PDF": "731387",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCb7OX8XJisS62AHwDCByGmAZ3LMykYdKM8hwQWiLCqH2w",
+        "Address": "URUACU, GOIAS, BRAZIL",
+        "Latitude": -14.5247201919556,
+        "Longitude": -49.1408309936523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1408309936523,
+          -14.5247201919556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3681",
+        "Name_PDF": "BRAZIL_MARANHAO_BALSAS_600-300_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MARANHAO",
+        "City": "BALSAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731371",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBiZ_ctfgbNT7Dh_Svws_-yAb_y55UBzJXvUBbJ0J010-M",
+        "Address": "BALSAS, MARANHAO, BRAZIL",
+        "Latitude": -7.53249979019165,
+        "Longitude": -46.0355606079102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.0355606079102,
+          -7.53249979019165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3682",
+        "Name_PDF": "BRAZIL_MARANHAO_BALSAS_200-100_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MARANHAO",
+        "City": "BALSAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731368",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDjcPDNj7h8TICpV4d3LYomAY0WVrGSmsAKPG07lJpOS0U",
+        "Address": "BALSAS, MARANHAO, BRAZIL",
+        "Latitude": -7.53249979019165,
+        "Longitude": -46.0355606079102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.0355606079102,
+          -7.53249979019165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3683",
+        "Name_PDF": "BRAZIL_ALAGOAS_SATUBA_200E_50000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "ALAGOAS",
+        "City": "SATUBA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 50000,
+        "Elevation": 0,
+        "ID_PDF": "731380",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDE4E9gM4umQp-0I8UNyOxSAfGAdd-Y7Q-ddwqR38fi6zY",
+        "Address": "SATUBA, ALAGOAS, BRAZIL",
+        "Latitude": -9.56332969665527,
+        "Longitude": -35.8244400024414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.8244400024414,
+          -9.56332969665527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3684",
+        "Name_PDF": "BRAZIL_MARANHAO_BALSAS_400-200_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MARANHAO",
+        "City": "BALSAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731370",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAdJDN-6UexQLPok6t-8O6IAe_a9g73z5tEzWw_mU47Y_8",
+        "Address": "BALSAS, MARANHAO, BRAZIL",
+        "Latitude": -7.53249979019165,
+        "Longitude": -46.0355606079102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.0355606079102,
+          -7.53249979019165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3685",
+        "Name_PDF": "BRAZIL_GOIAS_CRIXAS_200E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "GOIAS",
+        "City": "CRIXAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731383",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAp16iNKTSJRaB71Tqj2QwvAQ01cM8gT2K1e2dPENI_CJg",
+        "Address": "CRIXAS, GOIAS, BRAZIL",
+        "Latitude": -14.5488901138306,
+        "Longitude": -49.9691696166992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9691696166992,
+          -14.5488901138306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3686",
+        "Name_PDF": "BRAZIL_GOIAS_CRIXAS_600-300_10000_80_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "GOIAS",
+        "City": "CRIXAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 80,
+        "ID_PDF": "731384",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB2yFfUF1oWQoedYEQUhPpKAWZPCRzNj6ocN8xirPKgtH4",
+        "Address": "CRIXAS, GOIAS, BRAZIL",
+        "Latitude": -14.5488901138306,
+        "Longitude": -49.9691696166992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9691696166992,
+          -14.5488901138306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3687",
+        "Name_PDF": "BRAZIL_MARANHAO_BALSAS_40E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MARANHAO",
+        "City": "BALSAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731391",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAmf2-R_FSET5awEm-EEs3XAc848NSg97-hD0yGamN3lI8",
+        "Address": "BALSAS, MARANHAO, BRAZIL",
+        "Latitude": -7.53249979019165,
+        "Longitude": -46.0355606079102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.0355606079102,
+          -7.53249979019165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3688",
+        "Name_PDF": "BRAZIL_ALAGOAS_SATUBA_40E_50000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "ALAGOAS",
+        "City": "SATUBA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 50000,
+        "Elevation": 0,
+        "ID_PDF": "731378",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAkC-T6P44VSo6-DYzx8KKbAS-hqjPr3qFIgLmVBqxORHY",
+        "Address": "SATUBA, ALAGOAS, BRAZIL",
+        "Latitude": -9.56332969665527,
+        "Longitude": -35.8244400024414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.8244400024414,
+          -9.56332969665527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3689",
+        "Name_PDF": "BRAZIL_ALAGOAS_ARAPIRACA_40E_50000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "ALAGOAS",
+        "City": "ARAPIRACA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 50000,
+        "Elevation": 0,
+        "ID_PDF": "731379",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCv34fJ5UFSTqqATZfram7EAVesoNjBc0lKToEfVO71fpk",
+        "Address": "ARAPIRACA, ALAGOAS, BRAZIL",
+        "Latitude": -9.7524995803833,
+        "Longitude": -36.6611099243164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.6611099243164,
+          -9.7524995803833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3690",
+        "Name_PDF": "BRAZIL_BAHIA_ABAIRA_600-300_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "BAHIA",
+        "City": "ABAIRA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731382",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBojQ4Vus-9RaC8al_tHMItAch67Yrmx-5ZLXrSQdacY_I",
+        "Address": "ABAIRA, BAHIA, BRAZIL",
+        "Latitude": -13.6514501571655,
+        "Longitude": -41.8456382751465
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.8456382751465,
+          -13.6514501571655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3691",
+        "Name_PDF": "BRAZIL_GOIAS_URUACU_600-300_10000_8_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "GOIAS",
+        "City": "URUACU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 8,
+        "ID_PDF": "731389",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDWTutM-omrQqpKjkwxCpusARbQxnyjnO4tEhyY5LNd9dw",
+        "Address": "URUACU, GOIAS, BRAZIL",
+        "Latitude": -14.5247201919556,
+        "Longitude": -49.1408309936523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1408309936523,
+          -14.5247201919556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3692",
+        "Name_PDF": "CANADA_ALBERTA_FORT MCMURRAY_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "ALBERTA",
+        "City": "FORT MCMURRAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731392",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCBJv-qcvP1S7CuMvVUi8bjAbzPv4E6QfAxUEyGFJHAFTI",
+        "Address": "FORT MCMURRAY, ALBERTA, CANADA",
+        "Latitude": 56.7335090637207,
+        "Longitude": -111.385192871094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.385192871094,
+          56.7335090637207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3693",
+        "Name_PDF": "CANADA_ALBERTA_FORT MCMURRAY_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ALBERTA",
+        "City": "FORT MCMURRAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731395",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDxcPa5a28xSLxMzn0X4UgEAYjJY-jlC1lvxmnq2mAifB8",
+        "Address": "FORT MCMURRAY, ALBERTA, CANADA",
+        "Latitude": 56.7335090637207,
+        "Longitude": -111.385192871094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.385192871094,
+          56.7335090637207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3694",
+        "Name_PDF": "BRAZIL_PARA_JURUTI_600-300_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "PARA",
+        "City": "JURUTI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731407",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDc-gavHjFeT7yJNMAXmUowAXxp7PZmvis2wpu2GnL1Gt4",
+        "Address": "JURUTI, PARA, BRAZIL",
+        "Latitude": -2.15222001075745,
+        "Longitude": -56.0922203063965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0922203063965,
+          -2.15222001075745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3695",
+        "Name_PDF": "BRAZIL_SANTA CATARINA_SAO FRANCISCO DO SUL_200-100_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "SANTA CATARINA",
+        "City": "SAO FRANCISCO DO SUL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731408",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCFog_N0dIYSIWyPHdD4EfmAf6hThdWczIK1KQJMtVDAOM",
+        "Address": "SAO FRANCISCO DO SUL, SANTA CATARINA, BRAZIL",
+        "Latitude": -26.2433300018311,
+        "Longitude": -48.6380500793457
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6380500793457,
+          -26.2433300018311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3696",
+        "Name_PDF": "CANADA_ALBERTA_FORT MCMURRAY_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "ALBERTA",
+        "City": "FORT MCMURRAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731397",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAsDP9vV7iMSIS1cu2w4FOqASrOzUeeMu1azNNASAlFPjs",
+        "Address": "FORT MCMURRAY, ALBERTA, CANADA",
+        "Latitude": 56.7335090637207,
+        "Longitude": -111.385192871094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.385192871094,
+          56.7335090637207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3697",
+        "Name_PDF": "BRAZIL_PARA_JURUTI_200E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "PARA",
+        "City": "JURUTI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731405",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD3cnp6tHDeSaOk78IowpxQAXLeRmSoBo2Vjda9sK_Cg1w",
+        "Address": "JURUTI, PARA, BRAZIL",
+        "Latitude": -2.15222001075745,
+        "Longitude": -56.0922203063965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0922203063965,
+          -2.15222001075745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3698",
+        "Name_PDF": "CANADA_ALBERTA_FORT MCMURRAY_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ALBERTA",
+        "City": "FORT MCMURRAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731396",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQASultN5ux5QZfkJNvHnKmNARhmOwGB5x-RM3f1uuP4CNg",
+        "Address": "FORT MCMURRAY, ALBERTA, CANADA",
+        "Latitude": 56.7335090637207,
+        "Longitude": -111.385192871094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.385192871094,
+          56.7335090637207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3699",
+        "Name_PDF": "BRAZIL_MINAS GERAIS_PARACATU_200-100_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MINAS GERAIS",
+        "City": "PARACATU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731398",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBsdsBPqn-oQ6QBv5M_ivIeAah_8PBPrU9azQSOwPg9v9c",
+        "Address": "PARACATU, MINAS GERAIS, BRAZIL",
+        "Latitude": -17.2222194671631,
+        "Longitude": -46.8747215270996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8747215270996,
+          -17.2222194671631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3700",
+        "Name_PDF": "BRAZIL_MINAS GERAIS_PARACATU_200E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MINAS GERAIS",
+        "City": "PARACATU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731400",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCXvNNfv681QIsNb_1qsAv2ASMsPFgmfLWlyNwxRV6mGyI",
+        "Address": "PARACATU, MINAS GERAIS, BRAZIL",
+        "Latitude": -17.2222194671631,
+        "Longitude": -46.8747215270996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8747215270996,
+          -17.2222194671631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3701",
+        "Name_PDF": "BRAZIL_MINAS GERAIS_PARACATU_40E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MINAS GERAIS",
+        "City": "PARACATU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731399",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDBryKY_ElWSLQnF7qxnq5fAReO7s-SBgVgtK2Es5EAEWs",
+        "Address": "PARACATU, MINAS GERAIS, BRAZIL",
+        "Latitude": -17.2222194671631,
+        "Longitude": -46.8747215270996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8747215270996,
+          -17.2222194671631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3702",
+        "Name_PDF": "CANADA_ALBERTA_FORT MCMURRAY_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ALBERTA",
+        "City": "FORT MCMURRAY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731394",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBqiyzOCCE9Tqidnu23a4h8ATXo4Hc2fl2QkN-hEP1IZUA",
+        "Address": "FORT MCMURRAY, ALBERTA, CANADA",
+        "Latitude": 56.7335090637207,
+        "Longitude": -111.385192871094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.385192871094,
+          56.7335090637207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3703",
+        "Name_PDF": "CANADA_ALBERTA_BITUMOUNT_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "ALBERTA",
+        "City": "BITUMOUNT",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731393",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBmHyO-c92XSagvhxvLe1T7AWfdHWNCW9uZ9-bPmC-G1gE",
+        "Address": "BITUMOUNT, ALBERTA, CANADA",
+        "Latitude": 55.2834396362305,
+        "Longitude": -114.76895904541
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.76895904541,
+          55.2834396362305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3704",
+        "Name_PDF": "BRAZIL_SAO PAULO_ANDRADINA_200-100_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "SAO PAULO",
+        "City": "ANDRADINA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731411",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAUH9SXXc1iRayX5cU01GqtARVN5waRWNIfTU2o-OW9Ads",
+        "Address": "ANDRADINA, SAO PAULO, BRAZIL",
+        "Latitude": -20.896110534668,
+        "Longitude": -51.3794403076172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3794403076172,
+          -20.896110534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3705",
+        "Name_PDF": "BRAZIL_SAO PAULO_ANDRADINA_400-200_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "SAO PAULO",
+        "City": "ANDRADINA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731413",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDBLQ21AW5lQ4-lbdlwF8GrAdbbN9M7IEauo1_FYZyHLbg",
+        "Address": "ANDRADINA, SAO PAULO, BRAZIL",
+        "Latitude": -20.896110534668,
+        "Longitude": -51.3794403076172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3794403076172,
+          -20.896110534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3706",
+        "Name_PDF": "BRAZIL_SAO PAULO_ANDRADINA_40E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "SAO PAULO",
+        "City": "ANDRADINA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731410",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCMIOtqGOM8RrUPryzVpQaGATaStPDtPB7wOBJwD2BlChs",
+        "Address": "ANDRADINA, SAO PAULO, BRAZIL",
+        "Latitude": -20.896110534668,
+        "Longitude": -51.3794403076172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3794403076172,
+          -20.896110534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3707",
+        "Name_PDF": "BRAZIL_MINAS GERAIS_PARACATU_600-300_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MINAS GERAIS",
+        "City": "PARACATU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731402",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA0Tet1Tmh3Q4uzFO1bsof8Ae7N_zT7fs2b8ij0ahCEe2g",
+        "Address": "PARACATU, MINAS GERAIS, BRAZIL",
+        "Latitude": -17.2222194671631,
+        "Longitude": -46.8747215270996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8747215270996,
+          -17.2222194671631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3708",
+        "Name_PDF": "BRAZIL_MINAS GERAIS_PARACATU_400-200_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "MINAS GERAIS",
+        "City": "PARACATU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731401",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCAuepMS7IBSK1wn6fk738BAYErBdQeaCsQNr9IQqeCGpQ",
+        "Address": "PARACATU, MINAS GERAIS, BRAZIL",
+        "Latitude": -17.2222194671631,
+        "Longitude": -46.8747215270996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.8747215270996,
+          -17.2222194671631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3709",
+        "Name_PDF": "BRAZIL_SAO PAULO_ANDRADINA_200E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "SAO PAULO",
+        "City": "ANDRADINA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731412",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA5lxkkIqGdSrikXWEJQbbwAc_y3-q5c1Kl_Hu8DXUOagc",
+        "Address": "ANDRADINA, SAO PAULO, BRAZIL",
+        "Latitude": -20.896110534668,
+        "Longitude": -51.3794403076172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3794403076172,
+          -20.896110534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3710",
+        "Name_PDF": "BRAZIL_PARA_JURUTI_40E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "PARA",
+        "City": "JURUTI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731403",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCTCkO1-Ce0QqQtherD9405AbPh_1CIPiuttjJv6IU-DZ0",
+        "Address": "JURUTI, PARA, BRAZIL",
+        "Latitude": -2.15222001075745,
+        "Longitude": -56.0922203063965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0922203063965,
+          -2.15222001075745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3711",
+        "Name_PDF": "BRAZIL_SANTA CATARINA_SAO FRANCISCO DO SUL_200E_10000_0_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "SANTA CATARINA",
+        "City": "SAO FRANCISCO DO SUL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731409",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCvkkVFxKZkTo1nsMBxP6BpAXeQg7UQ94fe37AXfHGbJnc",
+        "Address": "SAO FRANCISCO DO SUL, SANTA CATARINA, BRAZIL",
+        "Latitude": -26.2433300018311,
+        "Longitude": -48.6380500793457
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.6380500793457,
+          -26.2433300018311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3712",
+        "Name_PDF": "BRAZIL_PARA_JURUTI_200-100_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "PARA",
+        "City": "JURUTI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731404",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB0ggssInQjRo9zR1kxLnN3AUclTkaCtgW9gEL5fye_M1s",
+        "Address": "JURUTI, PARA, BRAZIL",
+        "Latitude": -2.15222001075745,
+        "Longitude": -56.0922203063965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0922203063965,
+          -2.15222001075745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3713",
+        "Name_PDF": "BRAZIL_PARA_JURUTI_400-200_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "PARA",
+        "City": "JURUTI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731406",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAJqh9X1xozR5l2XQL4ukz2AXm9nKn2ZJ60TC-raAArttk",
+        "Address": "JURUTI, PARA, BRAZIL",
+        "Latitude": -2.15222001075745,
+        "Longitude": -56.0922203063965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0922203063965,
+          -2.15222001075745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3714",
+        "Name_PDF": "BRAZIL_SAO PAULO_ANDRADINA_600-300_10000_3_2023.PDF",
+        "Country": "BRAZIL",
+        "State": "SAO PAULO",
+        "City": "ANDRADINA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731414",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC4uVUKxU-BQIxoelGfKzVsAaquCBeW1cP95kNmppKn8d4",
+        "Address": "ANDRADINA, SAO PAULO, BRAZIL",
+        "Latitude": -20.896110534668,
+        "Longitude": -51.3794403076172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3794403076172,
+          -20.896110534668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3715",
+        "Name_PDF": "CANADA_NOVA SCOTIA_HALIFAX_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NOVA SCOTIA",
+        "City": "HALIFAX",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731418",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCmzcPbE4V4S6GgVcBJhFlPAbAmOpz2reWzDkEMYbyBijo",
+        "Address": "HALIFAX, NOVA SCOTIA, CANADA",
+        "Latitude": 44.6453285217285,
+        "Longitude": -63.5723915100098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5723915100098,
+          44.6453285217285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3716",
+        "Name_PDF": "CANADA_NUNAVUT_TAVANI_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NUNAVUT",
+        "City": "TAVANI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731422",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCzdl2uVgXvQbJFFD_6pMcoAT-sGw3tpGohIoktphnlb3c",
+        "Address": "TAVANI, NUNAVUT, CANADA",
+        "Latitude": 62.1713790893555,
+        "Longitude": -92.5778121948242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5778121948242,
+          62.1713790893555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3717",
+        "Name_PDF": "CANADA_NOVA SCOTIA_HALIFAX_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NOVA SCOTIA",
+        "City": "HALIFAX",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731417",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCeyNBc0DT2T6OsW6Bs8XlxAbE-ZfzBHk2qNhattNjEpPM",
+        "Address": "HALIFAX, NOVA SCOTIA, CANADA",
+        "Latitude": 44.6453285217285,
+        "Longitude": -63.5723915100098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5723915100098,
+          44.6453285217285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3718",
+        "Name_PDF": "CANADA_NOVA SCOTIA_HALIFAX_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NOVA SCOTIA",
+        "City": "HALIFAX",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731415",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD4u6UyeZO-Q7a-ecBV7GncAV0eT--fkcqpAwfS0dAugpM",
+        "Address": "HALIFAX, NOVA SCOTIA, CANADA",
+        "Latitude": 44.6453285217285,
+        "Longitude": -63.5723915100098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5723915100098,
+          44.6453285217285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3719",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_WILLIAMS LAKE_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "WILLIAMS LAKE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731431",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAGOQc3Ek4WQ7Syca849E7fAe4uiEaJuv5JrQOmdese_cw",
+        "Address": "WILLIAMS LAKE, BRITISH COLUMBIA, CANADA",
+        "Latitude": 52.141529083252,
+        "Longitude": -122.144508361816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144508361816,
+          52.141529083252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3720",
+        "Name_PDF": "CANADA_MANITOBA_THOMPSON_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "THOMPSON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731435",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCOXm14iBIRQbz-HLAzPnrOAbJEHEpkUEL8_pbNN1Q2bwA",
+        "Address": "THOMPSON, MANITOBA, CANADA",
+        "Latitude": 55.7434997558594,
+        "Longitude": -97.8557891845703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8557891845703,
+          55.7434997558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3721",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_KAMLOOPS_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "KAMLOOPS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731427",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBnQYyldICVR6N335H2FSb7AUuJpGfcAOL9oi4TIhdfczw",
+        "Address": "KAMLOOPS, BRITISH COLUMBIA, CANADA",
+        "Latitude": 50.6664810180664,
+        "Longitude": -120.319198608398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.319198608398,
+          50.6664810180664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3722",
+        "Name_PDF": "CANADA_NUNAVUT_TAVANI_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NUNAVUT",
+        "City": "TAVANI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731420",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQATcTUSrK9iSb36_J94cuUHAX_pNIBOfMOosUM91bEFieE",
+        "Address": "TAVANI, NUNAVUT, CANADA",
+        "Latitude": 62.1713790893555,
+        "Longitude": -92.5778121948242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5778121948242,
+          62.1713790893555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3723",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_WILLIAMS LAKE_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "WILLIAMS LAKE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731429",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDT3_VI-BcEQ6GfW2qAHLO6AViohkUMEuflJ6-CQotKygI",
+        "Address": "WILLIAMS LAKE, BRITISH COLUMBIA, CANADA",
+        "Latitude": 52.141529083252,
+        "Longitude": -122.144508361816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144508361816,
+          52.141529083252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3724",
+        "Name_PDF": "CANADA_NOVA SCOTIA_HALIFAX_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "NOVA SCOTIA",
+        "City": "HALIFAX",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731416",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCvQ5ttCi4aR56cpCWmiZJvAVVpFMTnOXEDvroGJGsrTiE",
+        "Address": "HALIFAX, NOVA SCOTIA, CANADA",
+        "Latitude": 44.6453285217285,
+        "Longitude": -63.5723915100098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5723915100098,
+          44.6453285217285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3725",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_KAMLOOPS_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "KAMLOOPS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731424",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDZpC_DFUHrQ6PdNq4sIn2pAVwvO1G9mvfvs77j8sca2LY",
+        "Address": "KAMLOOPS, BRITISH COLUMBIA, CANADA",
+        "Latitude": 50.6664810180664,
+        "Longitude": -120.319198608398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.319198608398,
+          50.6664810180664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3726",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_KAMLOOPS_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "KAMLOOPS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731425",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB2bWInHdRCSpsglvogxrTWAQOYTQO2BxGCXAiA-AL5Hng",
+        "Address": "KAMLOOPS, BRITISH COLUMBIA, CANADA",
+        "Latitude": 50.6664810180664,
+        "Longitude": -120.319198608398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.319198608398,
+          50.6664810180664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3727",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_WILLIAMS LAKE_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "WILLIAMS LAKE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731430",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDbYIoRq32wSKzPJyIBcOXrAeWoHbiUzNhPNzt8JGkkfu0",
+        "Address": "WILLIAMS LAKE, BRITISH COLUMBIA, CANADA",
+        "Latitude": 52.141529083252,
+        "Longitude": -122.144508361816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144508361816,
+          52.141529083252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3728",
+        "Name_PDF": "CANADA_NUNAVUT_TAVANI_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "NUNAVUT",
+        "City": "TAVANI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731421",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDD-mRmuJdQQY5iP1DtpJiJAbd7xDAcppu3BFxIbbCgAgk",
+        "Address": "TAVANI, NUNAVUT, CANADA",
+        "Latitude": 62.1713790893555,
+        "Longitude": -92.5778121948242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5778121948242,
+          62.1713790893555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3729",
+        "Name_PDF": "CANADA_NORTHWEST TERRITORIES_YELLOWKNIFE_40E_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NORTHWEST TERRITORIES",
+        "City": "YELLOWKNIFE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731445",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCEkwadYsL8RKVjNF-VDw4VAQq4qE5JZMWJV8uorEHcy3g",
+        "Address": "YELLOWKNIFE, NORTHWEST TERRITORIES, CANADA",
+        "Latitude": 62.4541091918945,
+        "Longitude": -114.372482299805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.372482299805,
+          62.4541091918945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3730",
+        "Name_PDF": "CANADA_NUNAVUT_TAVANI_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "NUNAVUT",
+        "City": "TAVANI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731419",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCL_SNQN_GjQYV08Yszy4ScAfnjRzFH78RdqXHJUmWtZNI",
+        "Address": "TAVANI, NUNAVUT, CANADA",
+        "Latitude": 62.1713790893555,
+        "Longitude": -92.5778121948242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5778121948242,
+          62.1713790893555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3731",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_KAMLOOPS_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "KAMLOOPS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731426",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBMDvCAPccERI2TU2jEP9YOAR8x9hOuqrtvun2jTxd0Zek",
+        "Address": "KAMLOOPS, BRITISH COLUMBIA, CANADA",
+        "Latitude": 50.6664810180664,
+        "Longitude": -120.319198608398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.319198608398,
+          50.6664810180664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3732",
+        "Name_PDF": "CANADA_NUNAVUT_TAVANI_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NUNAVUT",
+        "City": "TAVANI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731423",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBc-dtfDbl5SpAWIfF_ODsyAbdPRDiIC8w9ta06G2JVhkg",
+        "Address": "TAVANI, NUNAVUT, CANADA",
+        "Latitude": 62.1713790893555,
+        "Longitude": -92.5778121948242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5778121948242,
+          62.1713790893555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3733",
+        "Name_PDF": "CANADA_NORTHWEST TERRITORIES_YELLOWKNIFE_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NORTHWEST TERRITORIES",
+        "City": "YELLOWKNIFE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731447",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBhpkgkH_fARJLGSWBhlCmBAZhRzCkMrEU-XhhRnfwNxjs",
+        "Address": "YELLOWKNIFE, NORTHWEST TERRITORIES, CANADA",
+        "Latitude": 62.4541091918945,
+        "Longitude": -114.372482299805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.372482299805,
+          62.4541091918945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3734",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_WILLIAMS LAKE_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "WILLIAMS LAKE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731432",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCDOA_XeVaqR7n9jyRWEq9uAaJy0KQOwJ_5ANxRfr19ugg",
+        "Address": "WILLIAMS LAKE, BRITISH COLUMBIA, CANADA",
+        "Latitude": 52.141529083252,
+        "Longitude": -122.144508361816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144508361816,
+          52.141529083252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3735",
+        "Name_PDF": "CANADA_MANITOBA_THOMPSON_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "THOMPSON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731437",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBWhUsgZUhnS4oX5dYU8OC0AaJ9KsXoCS3mTOSuShTdijs",
+        "Address": "THOMPSON, MANITOBA, CANADA",
+        "Latitude": 55.7434997558594,
+        "Longitude": -97.8557891845703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8557891845703,
+          55.7434997558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3736",
+        "Name_PDF": "CANADA_MANITOBA_THOMPSON_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "THOMPSON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731438",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC122LpyzmPTILUWmZGZrFaAXJDaSkcM6KYIOZFHA9f_RU",
+        "Address": "THOMPSON, MANITOBA, CANADA",
+        "Latitude": 55.7434997558594,
+        "Longitude": -97.8557891845703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8557891845703,
+          55.7434997558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3737",
+        "Name_PDF": "CANADA_NOVA SCOTIA_HALIFAX_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "NOVA SCOTIA",
+        "City": "HALIFAX",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731449",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDZAOkxy4ICS64pD93pP8pVAU0B5-hDXlV3e2urbAMm9Cs",
+        "Address": "HALIFAX, NOVA SCOTIA, CANADA",
+        "Latitude": 44.6453285217285,
+        "Longitude": -63.5723915100098
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5723915100098,
+          44.6453285217285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3738",
+        "Name_PDF": "CANADA_NORTHWEST TERRITORIES_YELLOWKNIFE_200E_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NORTHWEST TERRITORIES",
+        "City": "YELLOWKNIFE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731446",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD4O3wFnq4qQ4lFeA7r7lm6AWDOV8Sa2KFujpJp36mxUfE",
+        "Address": "YELLOWKNIFE, NORTHWEST TERRITORIES, CANADA",
+        "Latitude": 62.4541091918945,
+        "Longitude": -114.372482299805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.372482299805,
+          62.4541091918945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3739",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_WILLIAMS LAKE_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "WILLIAMS LAKE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731433",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDJ2Q2GPnwTRLCnufoVmIr_AdAOWYp7vqrbMPg1XDFtfF4",
+        "Address": "WILLIAMS LAKE, BRITISH COLUMBIA, CANADA",
+        "Latitude": 52.141529083252,
+        "Longitude": -122.144508361816
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.144508361816,
+          52.141529083252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3740",
+        "Name_PDF": "CANADA_NORTHWEST TERRITORIES_YELLOWKNIFE_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NORTHWEST TERRITORIES",
+        "City": "YELLOWKNIFE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731448",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAoGxqqTbv3SYbNockaDJq_ATqDYp2ECRUWuyGB0Jq60Bc",
+        "Address": "YELLOWKNIFE, NORTHWEST TERRITORIES, CANADA",
+        "Latitude": 62.4541091918945,
+        "Longitude": -114.372482299805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.372482299805,
+          62.4541091918945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3741",
+        "Name_PDF": "CANADA_MANITOBA_WINNIPEG_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "WINNIPEG",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731442",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCeMrq0J3NeQK25Tt0i1VROAcoiWeiX51uZcwOKUPeSpL4",
+        "Address": "WINNIPEG, MANITOBA, CANADA",
+        "Latitude": 49.8843994140625,
+        "Longitude": -97.1470413208008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1470413208008,
+          49.8843994140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3742",
+        "Name_PDF": "CANADA_MANITOBA_THOMPSON_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "THOMPSON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731434",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCffiefRu-TTIZnollS3hdHATzXxHos6zU2cZ6AsLvv2fs",
+        "Address": "THOMPSON, MANITOBA, CANADA",
+        "Latitude": 55.7434997558594,
+        "Longitude": -97.8557891845703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8557891845703,
+          55.7434997558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3743",
+        "Name_PDF": "CANADA_MANITOBA_WINNIPEG_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "WINNIPEG",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731441",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAUiA81x8P4TZGJcRRZB6-jAa4Z5TwVQxtdmnlAfggBHEk",
+        "Address": "WINNIPEG, MANITOBA, CANADA",
+        "Latitude": 49.8843994140625,
+        "Longitude": -97.1470413208008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1470413208008,
+          49.8843994140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3744",
+        "Name_PDF": "CANADA_MANITOBA_WINNIPEG_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "WINNIPEG",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731439",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAZ1hyyxlMNQ6W_kJKOz5OnAY7FFxRY9PeXBqj8V25esx8",
+        "Address": "WINNIPEG, MANITOBA, CANADA",
+        "Latitude": 49.8843994140625,
+        "Longitude": -97.1470413208008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1470413208008,
+          49.8843994140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3745",
+        "Name_PDF": "CANADA_BRITISH COLUMBIA_KAMLOOPS_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "BRITISH COLUMBIA",
+        "City": "KAMLOOPS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731428",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB8QEezGV31TJq3y65BfmqOAa_zndwR4-wlItIMCUuvUdM",
+        "Address": "KAMLOOPS, BRITISH COLUMBIA, CANADA",
+        "Latitude": 50.6664810180664,
+        "Longitude": -120.319198608398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.319198608398,
+          50.6664810180664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3746",
+        "Name_PDF": "CANADA_MANITOBA_THOMPSON_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "THOMPSON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731436",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAr_ApEENQJTZhmdHAYOXTEAYyMHQYzDFQ_TGOZe-GMCD4",
+        "Address": "THOMPSON, MANITOBA, CANADA",
+        "Latitude": 55.7434997558594,
+        "Longitude": -97.8557891845703
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8557891845703,
+          55.7434997558594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3747",
+        "Name_PDF": "CANADA_MANITOBA_WINNIPEG_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "WINNIPEG",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731443",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDsnKC3zzMXRLPbev4yw2VuAdxpSgeatpKfo2eHuifG2xU",
+        "Address": "WINNIPEG, MANITOBA, CANADA",
+        "Latitude": 49.8843994140625,
+        "Longitude": -97.1470413208008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1470413208008,
+          49.8843994140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3748",
+        "Name_PDF": "CANADA_NORTHWEST TERRITORIES_YELLOWKNIFE_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "NORTHWEST TERRITORIES",
+        "City": "YELLOWKNIFE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731444",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCv6WbgZ9uSSovXh7aNaJOKAWXjhWml-AKHpWBj7j4gmSk",
+        "Address": "YELLOWKNIFE, NORTHWEST TERRITORIES, CANADA",
+        "Latitude": 62.4541091918945,
+        "Longitude": -114.372482299805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.372482299805,
+          62.4541091918945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3749",
+        "Name_PDF": "CANADA_MANITOBA_WINNIPEG_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "MANITOBA",
+        "City": "WINNIPEG",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731440",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCzOsSat3mjSoMN-ZppVlL8ASM64bWR9QkUR9al35InFTo",
+        "Address": "WINNIPEG, MANITOBA, CANADA",
+        "Latitude": 49.8843994140625,
+        "Longitude": -97.1470413208008
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1470413208008,
+          49.8843994140625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3750",
+        "Name_PDF": "CANADA_SASKATCHEWAN_SASKATOON_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "SASKATOON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731458",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAzneamfYcWQpufiipih5qSAWffsvfttdU5Ob3PhH-Nbs4",
+        "Address": "SASKATOON, SASKATCHEWAN, CANADA",
+        "Latitude": 52.132381439209,
+        "Longitude": -106.668922424316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.668922424316,
+          52.132381439209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3751",
+        "Name_PDF": "CANADA_SASKATCHEWAN_SASKATOON_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "SASKATOON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731457",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBOBhsL5T5zSYuiEVag045dAdaAOFoX5EOFcXjLLQsvCAk",
+        "Address": "SASKATOON, SASKATCHEWAN, CANADA",
+        "Latitude": 52.132381439209,
+        "Longitude": -106.668922424316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.668922424316,
+          52.132381439209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3752",
+        "Name_PDF": "CANADA_SASKATCHEWAN_ESTEVAN_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "ESTEVAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731450",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA4uUSn7L06SpJPA3P_QYJIAcgvJDh4Mjy-u-_6QPnapv8",
+        "Address": "ESTEVAN, SASKATCHEWAN, CANADA",
+        "Latitude": 49.1333694458008,
+        "Longitude": -102.98420715332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98420715332,
+          49.1333694458008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3753",
+        "Name_PDF": "CANADA_SASKATCHEWAN_SASKATOON_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "SASKATOON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731456",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBDP3dI-xqjRJIlgwrE_SHZAdu16i8E7ruG56fTjHn0DTM",
+        "Address": "SASKATOON, SASKATCHEWAN, CANADA",
+        "Latitude": 52.132381439209,
+        "Longitude": -106.668922424316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.668922424316,
+          52.132381439209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3754",
+        "Name_PDF": "CANADA_SASKATCHEWAN_ESTEVAN_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "ESTEVAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731451",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCJfVaRe_P9Spz_GwJ2E6vdAexSlAyvDFfNF0QCfqBHsiY",
+        "Address": "ESTEVAN, SASKATCHEWAN, CANADA",
+        "Latitude": 49.1333694458008,
+        "Longitude": -102.98420715332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98420715332,
+          49.1333694458008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3755",
+        "Name_PDF": "CANADA_ONTARIO_KLEINBURG_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "KLEINBURG",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731459",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAnsT-JqqWUQLtPNou-c-FlAXeKiLY78Mu0jsFb1HRXIwQ",
+        "Address": "KLEINBURG, ONTARIO, CANADA",
+        "Latitude": 49.8180999755859,
+        "Longitude": -86.3409881591797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3409881591797,
+          49.8180999755859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3756",
+        "Name_PDF": "CANADA_ONTARIO_SUDBURY_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "SUDBURY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731463",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAAQoJJzLNTTpiYZmil6Kz-ASpMO0BH9lw2iQ32yVmP69k",
+        "Address": "SUDBURY, ONTARIO, CANADA",
+        "Latitude": 46.4900016784668,
+        "Longitude": -80.9900131225586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9900131225586,
+          46.4900016784668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3757",
+        "Name_PDF": "CANADA_ONTARIO_SUDBURY_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "SUDBURY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731464",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCVFoWXHrxwT5Tn6ddLENCPAXZ8zjJyKU5Nx6eHAIbxyZQ",
+        "Address": "SUDBURY, ONTARIO, CANADA",
+        "Latitude": 46.4900016784668,
+        "Longitude": -80.9900131225586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9900131225586,
+          46.4900016784668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3758",
+        "Name_PDF": "CANADA_ONTARIO_TEMISKAMING SHORES_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "TEMISKAMING SHORES",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731465",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCmO3n9ZxVdTbAF5CmS23x9AcGNg085ZxjWGHfpRx6F_Iw",
+        "Address": "TEMISKAMING SHORES, ONTARIO, CANADA",
+        "Latitude": 47.4001502990723,
+        "Longitude": -79.6829833984375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6829833984375,
+          47.4001502990723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3759",
+        "Name_PDF": "CANADA_ONTARIO_SUDBURY_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "SUDBURY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731461",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDn-VmggxgFQbhCvOKPXQ8dAbKBx5AyfG9wIy-tWmqT3XA",
+        "Address": "SUDBURY, ONTARIO, CANADA",
+        "Latitude": 46.4900016784668,
+        "Longitude": -80.9900131225586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9900131225586,
+          46.4900016784668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3760",
+        "Name_PDF": "CANADA_ONTARIO_TIMMINS_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "TIMMINS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731466",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAIofwnOUQtQoGO36Wx-NAeAfQyRWl51ico2IUbZ5Ptqxs",
+        "Address": "TIMMINS, ONTARIO, CANADA",
+        "Latitude": 48.4668617248535,
+        "Longitude": -81.333122253418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.333122253418,
+          48.4668617248535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3761",
+        "Name_PDF": "CANADA_QUEBEC_CHIBOUGAMAU_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "CHIBOUGAMAU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731470",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDdzJ6AB3-2RaiYptCpl00zAb5pBXFh9BEPywgTGSbI7ZM",
+        "Address": "CHIBOUGAMAU, QUEBEC, CANADA",
+        "Latitude": 49.9168395996094,
+        "Longitude": -74.3658676147461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3658676147461,
+          49.9168395996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3762",
+        "Name_PDF": "CANADA_SASKATCHEWAN_ESTEVAN_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "ESTEVAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731478",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQByzWM0CmYoRZ573wFBUnmrAalysLb1igv4FN2n_uIac1w",
+        "Address": "ESTEVAN, SASKATCHEWAN, CANADA",
+        "Latitude": 49.1333694458008,
+        "Longitude": -102.98420715332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98420715332,
+          49.1333694458008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3763",
+        "Name_PDF": "CANADA_SASKATCHEWAN_SASKATOON_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "SASKATOON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731454",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD9Cn7pjxD5R6E05ypEA2ROAZ3N6DD8SEw-M2QI3xfLMm0",
+        "Address": "SASKATOON, SASKATCHEWAN, CANADA",
+        "Latitude": 52.132381439209,
+        "Longitude": -106.668922424316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.668922424316,
+          52.132381439209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3764",
+        "Name_PDF": "CANADA_SASKATCHEWAN_SASKATOON_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "SASKATOON",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731455",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBacSxnVmCtQZAL3_kDZoDYAYKeMGZXZiP8qhJis-MkYzQ",
+        "Address": "SASKATOON, SASKATCHEWAN, CANADA",
+        "Latitude": 52.132381439209,
+        "Longitude": -106.668922424316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.668922424316,
+          52.132381439209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3765",
+        "Name_PDF": "CANADA_ONTARIO_SUDBURY_200E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "SUDBURY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731462",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDWUsADVyhURKIzA_oNns_VAWShzfG0zEpNYnD0BnL0_Q4",
+        "Address": "SUDBURY, ONTARIO, CANADA",
+        "Latitude": 46.4900016784668,
+        "Longitude": -80.9900131225586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9900131225586,
+          46.4900016784668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3766",
+        "Name_PDF": "CANADA_ONTARIO_SUDBURY_40E_10000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "SUDBURY",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731460",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAD8F7ViRDpRLVea2CgCSQTARstjkji09qKLQnVe7pvCt8",
+        "Address": "SUDBURY, ONTARIO, CANADA",
+        "Latitude": 46.4900016784668,
+        "Longitude": -80.9900131225586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9900131225586,
+          46.4900016784668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3767",
+        "Name_PDF": "CANADA_SASKATCHEWAN_ESTEVAN_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "ESTEVAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731452",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCDbB5BTFF5TYL2Twc2Bvy1AZg_MWv5sCnW4DfgniiEKx4",
+        "Address": "ESTEVAN, SASKATCHEWAN, CANADA",
+        "Latitude": 49.1333694458008,
+        "Longitude": -102.98420715332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98420715332,
+          49.1333694458008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3768",
+        "Name_PDF": "CANADA_QUEBEC_JONQUIERE_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "JONQUIERE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731472",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAeQNDO1WYZR7HKevyEEIgKARmEpKqsWTcjMEb3uioOQoc",
+        "Address": "JONQUIERE, QUEBEC, CANADA",
+        "Latitude": 48.405959,
+        "Longitude": -71.069183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069183,
+          48.405959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3769",
+        "Name_PDF": "CANADA_QUEBEC_CHIBOUGAMAU_200-100_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "CHIBOUGAMAU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731468",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCi_2MoLhtLTpAigBZaSAvcAWRIc6mzty9_uq1cLH40xSI",
+        "Address": "CHIBOUGAMAU, QUEBEC, CANADA",
+        "Latitude": 49.9168395996094,
+        "Longitude": -74.3658676147461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3658676147461,
+          49.9168395996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3770",
+        "Name_PDF": "CANADA_SASKATCHEWAN_ESTEVAN_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "SASKATCHEWAN",
+        "City": "ESTEVAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731453",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBU4bwkUJZRR6R3458G8DYuAddG6EKvowIoL_xj4HzHg3A",
+        "Address": "ESTEVAN, SASKATCHEWAN, CANADA",
+        "Latitude": 49.1333694458008,
+        "Longitude": -102.98420715332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.98420715332,
+          49.1333694458008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3771",
+        "Name_PDF": "CANADA_QUEBEC_JONQUIERE_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "JONQUIERE",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731471",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCX10Z4znGOSZVeZjIoqnoOAToAy4ohuxfhytlQcua-nug",
+        "Address": "JONQUIERE, QUEBEC, CANADA",
+        "Latitude": 48.405959,
+        "Longitude": -71.069183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069183,
+          48.405959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3772",
+        "Name_PDF": "CANADA_QUEBEC_VAL D'OR_200E_5000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "VAL D'OR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731475",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDrueEbX5-wT5Ar2F6Tbl1UAVSvsjkJpTV5mowWVDhQWN8",
+        "Address": "VAL D'OR, QUEBEC, CANADA",
+        "Latitude": 48.0974006652832,
+        "Longitude": -77.7973709106445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7973709106445,
+          48.0974006652832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3773",
+        "Name_PDF": "CANADA_QUEBEC_VAL D'OR_200-100_5000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "VAL D'OR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731474",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDAI9KQz0FQTIvCElLhEdXrAYzZZUMTewUAPJ01QbcQKoM",
+        "Address": "VAL D'OR, QUEBEC, CANADA",
+        "Latitude": 48.0974006652832,
+        "Longitude": -77.7973709106445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7973709106445,
+          48.0974006652832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3774",
+        "Name_PDF": "CANADA_ONTARIO_TIMMINS_600-300_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "ONTARIO",
+        "City": "TIMMINS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731467",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC7PtvkqpYaRKXBpyj2pKFmAYcpCfb97WA78boWmCIhDls",
+        "Address": "TIMMINS, ONTARIO, CANADA",
+        "Latitude": 48.4668617248535,
+        "Longitude": -81.333122253418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.333122253418,
+          48.4668617248535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3775",
+        "Name_PDF": "CANADA_QUEBEC_VAL D'OR_40E_5000_0_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "VAL D'OR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731473",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB1V1Tbq0z0Spfs1oIflUkoATdeF1pz6zyl_YZD24wbZL8",
+        "Address": "VAL D'OR, QUEBEC, CANADA",
+        "Latitude": 48.0974006652832,
+        "Longitude": -77.7973709106445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7973709106445,
+          48.0974006652832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3776",
+        "Name_PDF": "CANADA_QUEBEC_VAL D'OR_600-300_5000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "VAL D'OR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731477",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCNPwdIUffJTZgEnjnwR5B_ARIQNQ64HkF5d6KFaPbH8W4",
+        "Address": "VAL D'OR, QUEBEC, CANADA",
+        "Latitude": 48.0974006652832,
+        "Longitude": -77.7973709106445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7973709106445,
+          48.0974006652832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3777",
+        "Name_PDF": "CANADA_QUEBEC_VAL D'OR_400-200_5000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "VAL D'OR",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731476",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDvxd7JgrmqRYW5b3YzBw-MAUJpbjd7bA65rrCfbFhtfDk",
+        "Address": "VAL D'OR, QUEBEC, CANADA",
+        "Latitude": 48.0974006652832,
+        "Longitude": -77.7973709106445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7973709106445,
+          48.0974006652832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3778",
+        "Name_PDF": "CANADA_QUEBEC_CHIBOUGAMAU_400-200_10000_3_2023.PDF",
+        "Country": "CANADA",
+        "State": "QUEBEC",
+        "City": "CHIBOUGAMAU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731469",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD6UBu1itdiQYFVT7WZgzmJAST14JhCkJQI69oBvGzEn2o",
+        "Address": "CHIBOUGAMAU, QUEBEC, CANADA",
+        "Latitude": 49.9168395996094,
+        "Longitude": -74.3658676147461
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3658676147461,
+          49.9168395996094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3779",
+        "Name_PDF": "DOMINICAN REPUBLIC_OZAMA_SANTO DOMINGO_400-200_10000_3_2023.PDF",
+        "Country": "DOMINICAN REPUBLIC",
+        "State": "OZAMA",
+        "City": "SANTO DOMINGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731484",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB24id17ZyoRL4XioaSQKcIAZREhtBi6TJzC4vgfrcTpGs",
+        "Address": "SANTO DOMINGO, OZAMA, DOMINICAN REPUBLIC",
+        "Latitude": 18.4833297729492,
+        "Longitude": -69.9499969482422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9499969482422,
+          18.4833297729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3780",
+        "Name_PDF": "DOMINICAN REPUBLIC_OZAMA_SANTO DOMINGO_200E_10000_0_2023.PDF",
+        "Country": "DOMINICAN REPUBLIC",
+        "State": "OZAMA",
+        "City": "SANTO DOMINGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731479",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQATqVOueN10TbAJVes_dTkwAQY9AFT_Flp5AF23XiAWwv4",
+        "Address": "SANTO DOMINGO, OZAMA, DOMINICAN REPUBLIC",
+        "Latitude": 18.4833297729492,
+        "Longitude": -69.9499969482422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9499969482422,
+          18.4833297729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3781",
+        "Name_PDF": "CONGO_HAUT-KATANGA_LUBUMBASHI_200-100_10000_3_2023.PDF",
+        "Country": "CONGO",
+        "State": "HAUT-KATANGA",
+        "City": "LUBUMBASHI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731502",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAZEn8CrVzOT7CEugLmOt9WAd9GTZYeODAggHS_8-MnrBc",
+        "Address": "LUBUMBASHI, HAUT-KATANGA, CONGO",
+        "Latitude": -11.6608896255493,
+        "Longitude": 27.4793796539307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4793796539307,
+          -11.6608896255493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3782",
+        "Name_PDF": "CONGO_HAUT-KATANGA_LUBUMBASHI_200E_10000_0_2023.PDF",
+        "Country": "CONGO",
+        "State": "HAUT-KATANGA",
+        "City": "LUBUMBASHI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731503",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDnKO3C-cfrS6tf90AckuV6AZ6IHh13ohwy8emT2CU8tow",
+        "Address": "LUBUMBASHI, HAUT-KATANGA, CONGO",
+        "Latitude": -11.6608896255493,
+        "Longitude": 27.4793796539307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4793796539307,
+          -11.6608896255493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3783",
+        "Name_PDF": "COTEDIVOIRE_ABIDJAN_ABIDJAN_200-100_10000_3_2023.PDF",
+        "Country": "COTEDIVOIRE",
+        "State": "ABIDJAN",
+        "City": "ABIDJAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731507",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBdaYpzNigcRLREcB7EYXajAWhVbDMI1vhCfmhuGnj4_Os",
+        "Address": "ABIDJAN, ABIDJAN, COTEDIVOIRE",
+        "Latitude": 5.30965995788574,
+        "Longitude": -4.01266002655029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01266002655029,
+          5.30965995788574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3784",
+        "Name_PDF": "CHILE_SANTIAGO METROPOLITAN_SANTIAGO_40E_10000_0_2023.PDF",
+        "Country": "CHILE",
+        "State": "SANTIAGO METROPOLITAN",
+        "City": "SANTIAGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731489",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBwzz_qZlT6RrYfap0dhykSAfRsgOg9xOqLL_Q6l8apozQ",
+        "Address": "SANTIAGO, SANTIAGO METROPOLITAN, CHILE",
+        "Latitude": -33.4569396972656,
+        "Longitude": -70.6482696533203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6482696533203,
+          -33.4569396972656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3785",
+        "Name_PDF": "DOMINICAN REPUBLIC_OZAMA_SANTO DOMINGO_40E_10000_0_2023.PDF",
+        "Country": "DOMINICAN REPUBLIC",
+        "State": "OZAMA",
+        "City": "SANTO DOMINGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731480",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCrC7k6ZwVFQ7vp_m_wrwz4ASBPnkXvhxuXLpOMpfAuWKI",
+        "Address": "SANTO DOMINGO, OZAMA, DOMINICAN REPUBLIC",
+        "Latitude": 18.4833297729492,
+        "Longitude": -69.9499969482422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9499969482422,
+          18.4833297729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3786",
+        "Name_PDF": "CHILE_SANTIAGO METROPOLITAN_SANTIAGO_200E_10000_0_2023.PDF",
+        "Country": "CHILE",
+        "State": "SANTIAGO METROPOLITAN",
+        "City": "SANTIAGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731491",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAchvzbEQgpRqzcYC5wVEplAQscDP5TVcqbwukTA2Ozwr0",
+        "Address": "SANTIAGO, SANTIAGO METROPOLITAN, CHILE",
+        "Latitude": -33.4569396972656,
+        "Longitude": -70.6482696533203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6482696533203,
+          -33.4569396972656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3787",
+        "Name_PDF": "CHILE_ANTOFAGASTA_ANTOFAGASTA_600-300_10000_3_2023.PDF",
+        "Country": "CHILE",
+        "State": "ANTOFAGASTA",
+        "City": "ANTOFAGASTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731488",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCMUwPP1W1XR51m0JK5rJa8AaVhlC8nnkrMyos6KsrDR8E",
+        "Address": "ANTOFAGASTA, ANTOFAGASTA, CHILE",
+        "Latitude": -23.6499996185303,
+        "Longitude": -70.4000015258789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4000015258789,
+          -23.6499996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3788",
+        "Name_PDF": "DOMINICAN REPUBLIC_OZAMA_SANTO DOMINGO_600-300_10000_3_2023.PDF",
+        "Country": "DOMINICAN REPUBLIC",
+        "State": "OZAMA",
+        "City": "SANTO DOMINGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731482",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDrn8IkjrRLRZ-TRtrVBAuaARiLtAqzfybbBxW4h01lfDc",
+        "Address": "SANTO DOMINGO, OZAMA, DOMINICAN REPUBLIC",
+        "Latitude": 18.4833297729492,
+        "Longitude": -69.9499969482422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9499969482422,
+          18.4833297729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3789",
+        "Name_PDF": "COLOMBIA_CUNDINAMARCA_BOGOTA_200-100_10000_3_2023.PDF",
+        "Country": "COLOMBIA",
+        "State": "CUNDINAMARCA",
+        "City": "BOGOTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731497",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBAUp0bXsjtQ7Iv4o_gtrJKAWcvYoiPEjEtsc8lkVZU5Dc",
+        "Address": "BOGOTA, CUNDINAMARCA, COLOMBIA",
+        "Latitude": 4.66666984558105,
+        "Longitude": -74.0999984741211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0999984741211,
+          4.66666984558105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3790",
+        "Name_PDF": "CHILE_ANTOFAGASTA_ANTOFAGASTA_200-100_10000_3_2023.PDF",
+        "Country": "CHILE",
+        "State": "ANTOFAGASTA",
+        "City": "ANTOFAGASTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731486",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCC-dIP4tsARKmCAEUQncc1AWl0HMP3jpAGLiSh8v7XazE",
+        "Address": "ANTOFAGASTA, ANTOFAGASTA, CHILE",
+        "Latitude": -23.6499996185303,
+        "Longitude": -70.4000015258789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4000015258789,
+          -23.6499996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3791",
+        "Name_PDF": "CHILE_SANTIAGO METROPOLITAN_SANTIAGO_200-100_10000_3_2023.PDF",
+        "Country": "CHILE",
+        "State": "SANTIAGO METROPOLITAN",
+        "City": "SANTIAGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731490",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDmlz9BPZlDSb9PAHrFJz7GAf30ssniKj53TB_vAookiv4",
+        "Address": "SANTIAGO, SANTIAGO METROPOLITAN, CHILE",
+        "Latitude": -33.4569396972656,
+        "Longitude": -70.6482696533203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6482696533203,
+          -33.4569396972656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3792",
+        "Name_PDF": "COLOMBIA_CUNDINAMARCA_BOGOTA_40E_10000_0_2023.PDF",
+        "Country": "COLOMBIA",
+        "State": "CUNDINAMARCA",
+        "City": "BOGOTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731495",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCpemS4nCX8RJPvwluBS1CcAVCkOrtTVG09SzKBTPLwh3Y",
+        "Address": "BOGOTA, CUNDINAMARCA, COLOMBIA",
+        "Latitude": 4.66666984558105,
+        "Longitude": -74.0999984741211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0999984741211,
+          4.66666984558105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3793",
+        "Name_PDF": "CHILE_TARAPACA_QUEBRADA BLANCA_600-300_40000_3_2023.PDF",
+        "Country": "CHILE",
+        "State": "TARAPACA",
+        "City": "QUEBRADA BLANCA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 40000,
+        "Elevation": 3,
+        "ID_PDF": "731494",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBfTVvtvSCJRqmB44lAdpINAS7SdNguqSbP7c4QBitEEGs",
+        "Address": "QUEBRADA BLANCA, TARAPACA, CHILE",
+        "Latitude": -21.2245006561279,
+        "Longitude": -68.2532806396484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2532806396484,
+          -21.2245006561279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3794",
+        "Name_PDF": "CHILE_ANTOFAGASTA_ANTOFAGASTA_400-200_10000_3_2023.PDF",
+        "Country": "CHILE",
+        "State": "ANTOFAGASTA",
+        "City": "ANTOFAGASTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731485",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD_PAtN-agSRZ67vlmDM7m8AS5ooKptDXYlNvBy4jbR4ZU",
+        "Address": "ANTOFAGASTA, ANTOFAGASTA, CHILE",
+        "Latitude": -23.6499996185303,
+        "Longitude": -70.4000015258789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4000015258789,
+          -23.6499996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3795",
+        "Name_PDF": "CHILE_SANTIAGO METROPOLITAN_SANTIAGO_600-300_10000_3_2023.PDF",
+        "Country": "CHILE",
+        "State": "SANTIAGO METROPOLITAN",
+        "City": "SANTIAGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731493",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB1b2qGlULmRpQl2UiPQgPbAVGxgBeclrBt25Rz7JkxjtQ",
+        "Address": "SANTIAGO, SANTIAGO METROPOLITAN, CHILE",
+        "Latitude": -33.4569396972656,
+        "Longitude": -70.6482696533203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6482696533203,
+          -33.4569396972656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3796",
+        "Name_PDF": "CHILE_ANTOFAGASTA_ANTOFAGASTA_40E_10000_0_2023.PDF",
+        "Country": "CHILE",
+        "State": "ANTOFAGASTA",
+        "City": "ANTOFAGASTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731483",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAVk1-ytLeIQb0Q9RM1UGSqAUnh76xfOYfGm-fS9BKW9yQ",
+        "Address": "ANTOFAGASTA, ANTOFAGASTA, CHILE",
+        "Latitude": -23.6499996185303,
+        "Longitude": -70.4000015258789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4000015258789,
+          -23.6499996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3797",
+        "Name_PDF": "CONGO_HAUT-KATANGA_LUBUMBASHI_400-200_10000_3_2023.PDF",
+        "Country": "CONGO",
+        "State": "HAUT-KATANGA",
+        "City": "LUBUMBASHI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731504",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDwRpPxEUnGQ4Knnyhyb-IAAYxfrWUcaL58veJS81pV6Jk",
+        "Address": "LUBUMBASHI, HAUT-KATANGA, CONGO",
+        "Latitude": -11.6608896255493,
+        "Longitude": 27.4793796539307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4793796539307,
+          -11.6608896255493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3798",
+        "Name_PDF": "CONGO_HAUT-KATANGA_LUBUMBASHI_600-300_10000_3_2023.PDF",
+        "Country": "CONGO",
+        "State": "HAUT-KATANGA",
+        "City": "LUBUMBASHI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731505",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB7ut885cDyS7Q90f7PnA63AePdc1dYE1AhD0siafU7T4Q",
+        "Address": "LUBUMBASHI, HAUT-KATANGA, CONGO",
+        "Latitude": -11.6608896255493,
+        "Longitude": 27.4793796539307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4793796539307,
+          -11.6608896255493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3799",
+        "Name_PDF": "CONGO_HAUT-KATANGA_LUBUMBASHI_40E_10000_0_2023.PDF",
+        "Country": "CONGO",
+        "State": "HAUT-KATANGA",
+        "City": "LUBUMBASHI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731500",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCsJ0KPt0XFSI7QK60Ei12kAfNbjem6rk1B9V5EvMFXQ1Y",
+        "Address": "LUBUMBASHI, HAUT-KATANGA, CONGO",
+        "Latitude": -11.6608896255493,
+        "Longitude": 27.4793796539307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4793796539307,
+          -11.6608896255493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3800",
+        "Name_PDF": "COLOMBIA_CUNDINAMARCA_BOGOTA_200E_10000_0_2023.PDF",
+        "Country": "COLOMBIA",
+        "State": "CUNDINAMARCA",
+        "City": "BOGOTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731498",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCEFoWGUpImSKrGtKkh-2HRAcxR_A18zQ4gmB9z3Xe9iqM",
+        "Address": "BOGOTA, CUNDINAMARCA, COLOMBIA",
+        "Latitude": 4.66666984558105,
+        "Longitude": -74.0999984741211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0999984741211,
+          4.66666984558105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3801",
+        "Name_PDF": "COLOMBIA_CUNDINAMARCA_BOGOTA_600-300_10000_3_2023.PDF",
+        "Country": "COLOMBIA",
+        "State": "CUNDINAMARCA",
+        "City": "BOGOTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731501",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAEOyBj77iBRpcMrRNoxP2iAa2HuloCM8XTFR8VZ1RTQxw",
+        "Address": "BOGOTA, CUNDINAMARCA, COLOMBIA",
+        "Latitude": 4.66666984558105,
+        "Longitude": -74.0999984741211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0999984741211,
+          4.66666984558105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3802",
+        "Name_PDF": "COTEDIVOIRE_ABIDJAN_ABIDJAN_600-300_10000_3_2023.PDF",
+        "Country": "COTEDIVOIRE",
+        "State": "ABIDJAN",
+        "City": "ABIDJAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731510",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCt4J7PFHkUT6nPG8IZt05UAYJtfrENmP_Q5JJvcwZgZi4",
+        "Address": "ABIDJAN, ABIDJAN, COTEDIVOIRE",
+        "Latitude": 5.30965995788574,
+        "Longitude": -4.01266002655029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01266002655029,
+          5.30965995788574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3803",
+        "Name_PDF": "COTEDIVOIRE_ABIDJAN_ABIDJAN_200E_10000_0_2023.PDF",
+        "Country": "COTEDIVOIRE",
+        "State": "ABIDJAN",
+        "City": "ABIDJAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731508",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBijsdKJD4LRJG92caiz3doARKyaMtog7k9J05kWI4wbgA",
+        "Address": "ABIDJAN, ABIDJAN, COTEDIVOIRE",
+        "Latitude": 5.30965995788574,
+        "Longitude": -4.01266002655029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01266002655029,
+          5.30965995788574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3804",
+        "Name_PDF": "COTEDIVOIRE_ABIDJAN_ABIDJAN_40E_10000_0_2023.PDF",
+        "Country": "COTEDIVOIRE",
+        "State": "ABIDJAN",
+        "City": "ABIDJAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731506",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAnq3A-zLsCTouE2L96a4q7AbnNzi83jqA3NlmAUQ7qX0Y",
+        "Address": "ABIDJAN, ABIDJAN, COTEDIVOIRE",
+        "Latitude": 5.30965995788574,
+        "Longitude": -4.01266002655029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01266002655029,
+          5.30965995788574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3805",
+        "Name_PDF": "CHILE_TARAPACA_QUEBRADA BLANCA_400-200_40000_3_2023.PDF",
+        "Country": "CHILE",
+        "State": "TARAPACA",
+        "City": "QUEBRADA BLANCA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 40000,
+        "Elevation": 3,
+        "ID_PDF": "731496",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCCW2SKYalaQK7KLdGDSaEMAXSLw5E6H4EUQ606n2u_qHg",
+        "Address": "QUEBRADA BLANCA, TARAPACA, CHILE",
+        "Latitude": -21.2245006561279,
+        "Longitude": -68.2532806396484
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2532806396484,
+          -21.2245006561279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3806",
+        "Name_PDF": "COLOMBIA_CUNDINAMARCA_BOGOTA_400-200_10000_3_2023.PDF",
+        "Country": "COLOMBIA",
+        "State": "CUNDINAMARCA",
+        "City": "BOGOTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731499",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBaghG7WLXTTKRbAW8GOTFVAWCWUoJ3XnY3wefFYDAanO0",
+        "Address": "BOGOTA, CUNDINAMARCA, COLOMBIA",
+        "Latitude": 4.66666984558105,
+        "Longitude": -74.0999984741211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0999984741211,
+          4.66666984558105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3807",
+        "Name_PDF": "COTEDIVOIRE_ABIDJAN_ABIDJAN_400-200_10000_3_2023.PDF",
+        "Country": "COTEDIVOIRE",
+        "State": "ABIDJAN",
+        "City": "ABIDJAN",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731509",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAWhvc4SKxgRIG1fq2dWYXPAVLpLKw5UxyVWB_ryF1RMT8",
+        "Address": "ABIDJAN, ABIDJAN, COTEDIVOIRE",
+        "Latitude": 5.30965995788574,
+        "Longitude": -4.01266002655029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01266002655029,
+          5.30965995788574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3808",
+        "Name_PDF": "CHILE_SANTIAGO METROPOLITAN_SANTIAGO_400-200_10000_3_2023.PDF",
+        "Country": "CHILE",
+        "State": "SANTIAGO METROPOLITAN",
+        "City": "SANTIAGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731492",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAnhA2BY3XESqBP3SQaBxC4AWZLGPgRHvBOLjX0ORRGEHI",
+        "Address": "SANTIAGO, SANTIAGO METROPOLITAN, CHILE",
+        "Latitude": -33.4569396972656,
+        "Longitude": -70.6482696533203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6482696533203,
+          -33.4569396972656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3809",
+        "Name_PDF": "DOMINICAN REPUBLIC_OZAMA_SANTO DOMINGO_200-100_10000_3_2023.PDF",
+        "Country": "DOMINICAN REPUBLIC",
+        "State": "OZAMA",
+        "City": "SANTO DOMINGO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731481",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDb6lissYgrQopP19RB-V8BAQp0oNeBhkS-iZHGhQpjmLM",
+        "Address": "SANTO DOMINGO, OZAMA, DOMINICAN REPUBLIC",
+        "Latitude": 18.4833297729492,
+        "Longitude": -69.9499969482422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9499969482422,
+          18.4833297729492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3810",
+        "Name_PDF": "CHILE_ANTOFAGASTA_ANTOFAGASTA_200E_10000_0_2023.PDF",
+        "Country": "CHILE",
+        "State": "ANTOFAGASTA",
+        "City": "ANTOFAGASTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731487",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA_mr01JS9iSbAFOq_a5hngAcFsB44HUgMU4p4uLY8OVvU",
+        "Address": "ANTOFAGASTA, ANTOFAGASTA, CHILE",
+        "Latitude": -23.6499996185303,
+        "Longitude": -70.4000015258789
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4000015258789,
+          -23.6499996185303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3811",
+        "Name_PDF": "GREECE_CENTRAL MACEDONIA_THESSALONIKI_200-100_10000_3_2023.PDF",
+        "Country": "GREECE",
+        "State": "CENTRAL MACEDONIA",
+        "City": "THESSALONIKI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731512",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCRflJqH4kMTq4rJXFp-rX4AcEv9Zzdb7i5A0faGM2sEGo",
+        "Address": "THESSALONIKI, CENTRAL MACEDONIA, GREECE",
+        "Latitude": 40.6436080932617,
+        "Longitude": 22.9308605194092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9308605194092,
+          40.6436080932617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3812",
+        "Name_PDF": "ECUADOR_ORELLANA_JOYA DE LOS SACHAS_40E_25000_0_2023.PDF",
+        "Country": "ECUADOR",
+        "State": "ORELLANA",
+        "City": "JOYA DE LOS SACHAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 25000,
+        "Elevation": 0,
+        "ID_PDF": "731521",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDJ3J996mipRaYq53EcteghAdcnyxJhk192RCemouYC_is",
+        "Address": "JOYA DE LOS SACHAS, ORELLANA, ECUADOR",
+        "Latitude": -0.46000000834465,
+        "Longitude": -76.9899978637695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899978637695,
+          -0.46000000834465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3813",
+        "Name_PDF": "ECUADOR_ORELLANA_JOYA DE LOS SACHAS_200E_25000_0_2023.PDF",
+        "Country": "ECUADOR",
+        "State": "ORELLANA",
+        "City": "JOYA DE LOS SACHAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 25000,
+        "Elevation": 0,
+        "ID_PDF": "731524",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBmq7eIn7iLQY19ME4xn6ScAfbik2Trp-N2VZzNb-WfFzw",
+        "Address": "JOYA DE LOS SACHAS, ORELLANA, ECUADOR",
+        "Latitude": -0.46000000834465,
+        "Longitude": -76.9899978637695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899978637695,
+          -0.46000000834465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3814",
+        "Name_PDF": "EGYPT_CAIRO_CAIRO_200E_10000_0_2023.PDF",
+        "Country": "EGYPT",
+        "State": "CAIRO",
+        "City": "CAIRO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731527",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCMGwVlcjlySLUaFLb1ZQNzAWOz3iGH2SNK6c2ycvqSArM",
+        "Address": "CAIRO, CAIRO, EGYPT",
+        "Latitude": 30.0445804595947,
+        "Longitude": 31.23996925354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.23996925354,
+          30.0445804595947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3815",
+        "Name_PDF": "GREECE_CENTRAL MACEDONIA_THESSALONIKI_40E_10000_0_2023.PDF",
+        "Country": "GREECE",
+        "State": "CENTRAL MACEDONIA",
+        "City": "THESSALONIKI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731513",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDbklvy49jtQo4VIllJBkm_AWy6vu5xcgLImFspxNZdedw",
+        "Address": "THESSALONIKI, CENTRAL MACEDONIA, GREECE",
+        "Latitude": 40.6436080932617,
+        "Longitude": 22.9308605194092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9308605194092,
+          40.6436080932617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3816",
+        "Name_PDF": "ECUADOR_GUAYAS_GUAYAQUIL_400-200_10000_3_2023.PDF",
+        "Country": "ECUADOR",
+        "State": "GUAYAS",
+        "City": "GUAYAQUIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731518",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBtAgLDX3uhSLYVRICxtewXAUJyUdqFUGiZkWjWYhETFOY",
+        "Address": "GUAYAQUIL, GUAYAS, ECUADOR",
+        "Latitude": -2.20584011077881,
+        "Longitude": -79.9079513549805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9079513549805,
+          -2.20584011077881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3817",
+        "Name_PDF": "EGYPT_CAIRO_CAIRO_200-100_10000_3_2023.PDF",
+        "Country": "EGYPT",
+        "State": "CAIRO",
+        "City": "CAIRO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731526",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAaVvzW2mQsSKkZjKIMP2wwAe7uZAbe-dVvGLguGSDF-c4",
+        "Address": "CAIRO, CAIRO, EGYPT",
+        "Latitude": 30.0445804595947,
+        "Longitude": 31.23996925354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.23996925354,
+          30.0445804595947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3818",
+        "Name_PDF": "ECUADOR_ORELLANA_JOYA DE LOS SACHAS_200-100_25000_3_2023.PDF",
+        "Country": "ECUADOR",
+        "State": "ORELLANA",
+        "City": "JOYA DE LOS SACHAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 25000,
+        "Elevation": 3,
+        "ID_PDF": "731522",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAgBOVmZSEeRqcVl21KcVp_AfSUrPrmRp0Xi__2DDEkgys",
+        "Address": "JOYA DE LOS SACHAS, ORELLANA, ECUADOR",
+        "Latitude": -0.46000000834465,
+        "Longitude": -76.9899978637695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899978637695,
+          -0.46000000834465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3819",
+        "Name_PDF": "FINLAND_NORTH SAVO_KUOPIO_40E_10000_0_2023.PDF",
+        "Country": "FINLAND",
+        "State": "NORTH SAVO",
+        "City": "KUOPIO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731530",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDyVPlT-UUERZaJNwExow5UATabSBRWilNLnteQ6e8sQGU",
+        "Address": "KUOPIO, NORTH SAVO, FINLAND",
+        "Latitude": 62.9000015258789,
+        "Longitude": 27.6833305358887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6833305358887,
+          62.9000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3820",
+        "Name_PDF": "GREECE_CENTRAL MACEDONIA_THESSALONIKI_400-200_10000_3_2023.PDF",
+        "Country": "GREECE",
+        "State": "CENTRAL MACEDONIA",
+        "City": "THESSALONIKI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731516",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB322I5XlX7RJOwPQL-Aq_bASGoxO-OvFAb9uZzUwcvhw8",
+        "Address": "THESSALONIKI, CENTRAL MACEDONIA, GREECE",
+        "Latitude": 40.6436080932617,
+        "Longitude": 22.9308605194092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9308605194092,
+          40.6436080932617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3821",
+        "Name_PDF": "ECUADOR_ORELLANA_JOYA DE LOS SACHAS_40E_16200_0_2023.PDF",
+        "Country": "ECUADOR",
+        "State": "ORELLANA",
+        "City": "JOYA DE LOS SACHAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 16200,
+        "Elevation": 0,
+        "ID_PDF": "731520",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCCMofBNLQOSo_aJQ3S8NOlAbJg4hnu5LvDj6wLBOk1Cq8",
+        "Address": "JOYA DE LOS SACHAS, ORELLANA, ECUADOR",
+        "Latitude": -0.46000000834465,
+        "Longitude": -76.9899978637695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899978637695,
+          -0.46000000834465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3822",
+        "Name_PDF": "GERMANY_BAVARIA_MUNICH_400-200_10000_3_2023.PDF",
+        "Country": "GERMANY",
+        "State": "BAVARIA",
+        "City": "MUNICH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731538",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCKZPNMem5nSKJQm1v_6s_3AeJ0W0g8enRTuRg8XKthax8",
+        "Address": "MUNICH, BAVARIA, GERMANY",
+        "Latitude": 48.1376800537109,
+        "Longitude": 11.5743503570557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5743503570557,
+          48.1376800537109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3823",
+        "Name_PDF": "GREECE_CENTRAL MACEDONIA_THESSALONIKI_600-300_10000_3_2023.PDF",
+        "Country": "GREECE",
+        "State": "CENTRAL MACEDONIA",
+        "City": "THESSALONIKI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731514",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAmkXNrNcdeQ7ycWeVC7C5LAbboqbEJNCa-TNDpe733q4s",
+        "Address": "THESSALONIKI, CENTRAL MACEDONIA, GREECE",
+        "Latitude": 40.6436080932617,
+        "Longitude": 22.9308605194092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9308605194092,
+          40.6436080932617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3824",
+        "Name_PDF": "GERMANY_BAVARIA_MUNICH_200E_10000_0_2023.PDF",
+        "Country": "GERMANY",
+        "State": "BAVARIA",
+        "City": "MUNICH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731537",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAX89ZYHpQuRIWqX32BEtjpASaaEorSkS7JN1kcQIrMrkQ",
+        "Address": "MUNICH, BAVARIA, GERMANY",
+        "Latitude": 48.1376800537109,
+        "Longitude": 11.5743503570557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5743503570557,
+          48.1376800537109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3825",
+        "Name_PDF": "ECUADOR_ORELLANA_JOYA DE LOS SACHAS_200E_16200_0_2023.PDF",
+        "Country": "ECUADOR",
+        "State": "ORELLANA",
+        "City": "JOYA DE LOS SACHAS",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 16200,
+        "Elevation": 0,
+        "ID_PDF": "731523",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDrXhIBU8v5Tp9ejlKSl4biAYw3sVFVZ5jg3hqdWf4j8uc",
+        "Address": "JOYA DE LOS SACHAS, ORELLANA, ECUADOR",
+        "Latitude": -0.46000000834465,
+        "Longitude": -76.9899978637695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9899978637695,
+          -0.46000000834465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3826",
+        "Name_PDF": "GHANA_BONO EAST_BODOM_600-300_10000_3_2023.PDF",
+        "Country": "GHANA",
+        "State": "BONO EAST",
+        "City": "BODOM",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731511",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDQVM0RUTfoRrybU8hlicLqASbetVKAHHa7lVSxwAKzDHY",
+        "Address": "BODOM, BONO EAST, GHANA",
+        "Latitude": 7.58333015441895,
+        "Longitude": -1.93333005905151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93333005905151,
+          7.58333015441895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3827",
+        "Name_PDF": "ECUADOR_GUAYAS_GUAYAQUIL_600-300_10000_3_2023.PDF",
+        "Country": "ECUADOR",
+        "State": "GUAYAS",
+        "City": "GUAYAQUIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731519",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBO5WI3P6iBQKCBZvxhG87zAT1Vz5b6iKrisJp3qGolKaA",
+        "Address": "GUAYAQUIL, GUAYAS, ECUADOR",
+        "Latitude": -2.20584011077881,
+        "Longitude": -79.9079513549805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9079513549805,
+          -2.20584011077881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3828",
+        "Name_PDF": "GREECE_CENTRAL MACEDONIA_THESSALONIKI_200E_10000_0_2023.PDF",
+        "Country": "GREECE",
+        "State": "CENTRAL MACEDONIA",
+        "City": "THESSALONIKI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731515",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDj3VUwC654S7LdziyrS_EqAb_i4ykAR3kdEWtwCwv-kAc",
+        "Address": "THESSALONIKI, CENTRAL MACEDONIA, GREECE",
+        "Latitude": 40.6436080932617,
+        "Longitude": 22.9308605194092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9308605194092,
+          40.6436080932617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3829",
+        "Name_PDF": "EGYPT_CAIRO_CAIRO_600-300_10000_3_2023.PDF",
+        "Country": "EGYPT",
+        "State": "CAIRO",
+        "City": "CAIRO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731529",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDzwpVcMuJpRJYjk6F5xdnWAUyOrLs3Q2zaFKRofPvVEQQ",
+        "Address": "CAIRO, CAIRO, EGYPT",
+        "Latitude": 30.0445804595947,
+        "Longitude": 31.23996925354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.23996925354,
+          30.0445804595947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3830",
+        "Name_PDF": "FINLAND_NORTH SAVO_KUOPIO_200E_10000_0_2023.PDF",
+        "Country": "FINLAND",
+        "State": "NORTH SAVO",
+        "City": "KUOPIO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731532",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD1ncR8yC-DTq6nuu-Zm1GvASiYYbxivapfSl4QielonkE",
+        "Address": "KUOPIO, NORTH SAVO, FINLAND",
+        "Latitude": 62.9000015258789,
+        "Longitude": 27.6833305358887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6833305358887,
+          62.9000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3831",
+        "Name_PDF": "GHANA_BONO EAST_BODOM_40E_10000_0_2023.PDF",
+        "Country": "GHANA",
+        "State": "BONO EAST",
+        "City": "BODOM",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731540",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDhOR2PkVOnQ6yhnyKyb4m3AT6k6AfpM-atYvbRlYlyHOA",
+        "Address": "BODOM, BONO EAST, GHANA",
+        "Latitude": 7.58333015441895,
+        "Longitude": -1.93333005905151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93333005905151,
+          7.58333015441895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3832",
+        "Name_PDF": "EGYPT_CAIRO_CAIRO_400-200_10000_3_2023.PDF",
+        "Country": "EGYPT",
+        "State": "CAIRO",
+        "City": "CAIRO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731528",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB4Wvo1AOj7S6tnU4SbxMOVAaRLLTOpnDuUeqqa1x62FeE",
+        "Address": "CAIRO, CAIRO, EGYPT",
+        "Latitude": 30.0445804595947,
+        "Longitude": 31.23996925354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.23996925354,
+          30.0445804595947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3833",
+        "Name_PDF": "FINLAND_NORTH SAVO_KUOPIO_400-200_10000_3_2023.PDF",
+        "Country": "FINLAND",
+        "State": "NORTH SAVO",
+        "City": "KUOPIO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731533",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDvW2AFQXdcQpGm7NjOf8UeAePm56v-i0eNYVRfHxeJCNQ",
+        "Address": "KUOPIO, NORTH SAVO, FINLAND",
+        "Latitude": 62.9000015258789,
+        "Longitude": 27.6833305358887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6833305358887,
+          62.9000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3834",
+        "Name_PDF": "FINLAND_NORTH SAVO_KUOPIO_600-300_10000_3_2023.PDF",
+        "Country": "FINLAND",
+        "State": "NORTH SAVO",
+        "City": "KUOPIO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731534",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDXYAOe2Tb8RqtjNUSObyudAdgKx9GUw78wAyPKmlyUnTI",
+        "Address": "KUOPIO, NORTH SAVO, FINLAND",
+        "Latitude": 62.9000015258789,
+        "Longitude": 27.6833305358887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6833305358887,
+          62.9000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3835",
+        "Name_PDF": "EGYPT_CAIRO_CAIRO_40E_10000_0_2023.PDF",
+        "Country": "EGYPT",
+        "State": "CAIRO",
+        "City": "CAIRO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731525",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAy4x4yveeVT7WtWDFhm9O1Aee_fSN3JrqYa9UwmQfNP_E",
+        "Address": "CAIRO, CAIRO, EGYPT",
+        "Latitude": 30.0445804595947,
+        "Longitude": 31.23996925354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.23996925354,
+          30.0445804595947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3836",
+        "Name_PDF": "FINLAND_NORTH SAVO_KUOPIO_200-100_10000_3_2023.PDF",
+        "Country": "FINLAND",
+        "State": "NORTH SAVO",
+        "City": "KUOPIO",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731531",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD3qodZHxo7QouBJ_dox-jjAZzsc2cchSgK-TUfXrcKaz8",
+        "Address": "KUOPIO, NORTH SAVO, FINLAND",
+        "Latitude": 62.9000015258789,
+        "Longitude": 27.6833305358887
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6833305358887,
+          62.9000015258789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3837",
+        "Name_PDF": "GHANA_BONO EAST_BODOM_200-100_10000_3_2023.PDF",
+        "Country": "GHANA",
+        "State": "BONO EAST",
+        "City": "BODOM",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731541",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBvCoqAnauGS7sXvXoj0zzaAQrhA8nVAnkSKPiK0BP0ge0",
+        "Address": "BODOM, BONO EAST, GHANA",
+        "Latitude": 7.58333015441895,
+        "Longitude": -1.93333005905151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93333005905151,
+          7.58333015441895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3838",
+        "Name_PDF": "GERMANY_BAVARIA_MUNICH_200-100_10000_3_2023.PDF",
+        "Country": "GERMANY",
+        "State": "BAVARIA",
+        "City": "MUNICH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731536",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBdPGHkyMyGT6dk1quqztcfAR_xwb2DFINlIBcIipSlIfg",
+        "Address": "MUNICH, BAVARIA, GERMANY",
+        "Latitude": 48.1376800537109,
+        "Longitude": 11.5743503570557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5743503570557,
+          48.1376800537109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3839",
+        "Name_PDF": "GHANA_BONO EAST_BODOM_200E_10000_0_2023.PDF",
+        "Country": "GHANA",
+        "State": "BONO EAST",
+        "City": "BODOM",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731542",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAmRVAx5QK5R4F0MT4gA2vlAXO4dnkjdzgPtwAP4s1qm94",
+        "Address": "BODOM, BONO EAST, GHANA",
+        "Latitude": 7.58333015441895,
+        "Longitude": -1.93333005905151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93333005905151,
+          7.58333015441895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3840",
+        "Name_PDF": "GERMANY_BAVARIA_MUNICH_600-300_10000_3_2023.PDF",
+        "Country": "GERMANY",
+        "State": "BAVARIA",
+        "City": "MUNICH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731539",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBUnV-icWUtQ718gdfvTbRbAYOqha-ri1ZRO1CzigBu3mc",
+        "Address": "MUNICH, BAVARIA, GERMANY",
+        "Latitude": 48.1376800537109,
+        "Longitude": 11.5743503570557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5743503570557,
+          48.1376800537109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3841",
+        "Name_PDF": "GHANA_BONO EAST_BODOM_400-200_10000_3_2023.PDF",
+        "Country": "GHANA",
+        "State": "BONO EAST",
+        "City": "BODOM",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731543",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAj_Xgdgyu4SbDMObqz9LjuAb0Jak2bq0VPYaeM5tMEz6Y",
+        "Address": "BODOM, BONO EAST, GHANA",
+        "Latitude": 7.58333015441895,
+        "Longitude": -1.93333005905151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93333005905151,
+          7.58333015441895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3842",
+        "Name_PDF": "ECUADOR_GUAYAS_GUAYAQUIL_200E_10000_0_2023.PDF",
+        "Country": "ECUADOR",
+        "State": "GUAYAS",
+        "City": "GUAYAQUIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731517",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC2zWj7BLlbRY52T3ebvdoLAVaI1oJD0utLqqa6x6NbEn8",
+        "Address": "GUAYAQUIL, GUAYAS, ECUADOR",
+        "Latitude": -2.20584011077881,
+        "Longitude": -79.9079513549805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9079513549805,
+          -2.20584011077881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3843",
+        "Name_PDF": "GERMANY_BAVARIA_MUNICH_40E_10000_0_2023.PDF",
+        "Country": "GERMANY",
+        "State": "BAVARIA",
+        "City": "MUNICH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731535",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC7sJdkJ1XSQJ3L4GMGIsbeATqLUuky7H3UgT7IeCJhwy8",
+        "Address": "MUNICH, BAVARIA, GERMANY",
+        "Latitude": 48.1376800537109,
+        "Longitude": 11.5743503570557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5743503570557,
+          48.1376800537109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3844",
+        "Name_PDF": "JAMAICA_MIDDLESEX_LINSTEAD_400-200_10000_3_2023.PDF",
+        "Country": "JAMAICA",
+        "State": "MIDDLESEX",
+        "City": "LINSTEAD",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731551",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCzVafyzMywR4srw4v4klU3AQXfmlqveNGjAro-Yysv-0o",
+        "Address": "LINSTEAD, MIDDLESEX, JAMAICA",
+        "Latitude": 18.1368293762207,
+        "Longitude": -77.0317230224609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0317230224609,
+          18.1368293762207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3845",
+        "Name_PDF": "JAMAICA_MIDDLESEX_LINSTEAD_200-100_10000_3_2023.PDF",
+        "Country": "JAMAICA",
+        "State": "MIDDLESEX",
+        "City": "LINSTEAD",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731549",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDIExjf-IdvR7ZWkktT0d_hAXJ-Sb6DVyCkfYNtqwZFgQo",
+        "Address": "LINSTEAD, MIDDLESEX, JAMAICA",
+        "Latitude": 18.1368293762207,
+        "Longitude": -77.0317230224609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0317230224609,
+          18.1368293762207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3846",
+        "Name_PDF": "JAMAICA_MIDDLESEX_LINSTEAD_600-300_10000_3_2023.PDF",
+        "Country": "JAMAICA",
+        "State": "MIDDLESEX",
+        "City": "LINSTEAD",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731552",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA6NADjq0SqSKOhqX_N7pLDARchjwoXysrpcY8f52j-qfY",
+        "Address": "LINSTEAD, MIDDLESEX, JAMAICA",
+        "Latitude": 18.1368293762207,
+        "Longitude": -77.0317230224609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0317230224609,
+          18.1368293762207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3847",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_BE ER SHEVA_400-200_5000_3_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "BE ER SHEVA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731545",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA6Mxd4vH6iQ6MUZ0_Zo73OAVPB4AjYVJqnLwWmLS3Yk3Y",
+        "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3848",
+        "Name_PDF": "KAZAKHSTAN_KARAGANDA_KARAGANDA_200E_10000_0_2023.PDF",
+        "Country": "KAZAKHSTAN",
+        "State": "KARAGANDA",
+        "City": "KARAGANDA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731556",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBCFljOc83bR4oC_obu7JwOATuEQgWDGyp1xOyNysyVAQs",
+        "Address": "KARAGANDA, KARAGANDA, KAZAKHSTAN",
+        "Latitude": 49.7988891601563,
+        "Longitude": 73.0994415283203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0994415283203,
+          49.7988891601563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3849",
+        "Name_PDF": "JAMAICA_MIDDLESEX_LINSTEAD_200E_10000_0_2023.PDF",
+        "Country": "JAMAICA",
+        "State": "MIDDLESEX",
+        "City": "LINSTEAD",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731550",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD0vTAfzxNjRqrBO87dagHrAbaHWRNXkxxbRz9qg0aP2Ec",
+        "Address": "LINSTEAD, MIDDLESEX, JAMAICA",
+        "Latitude": 18.1368293762207,
+        "Longitude": -77.0317230224609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0317230224609,
+          18.1368293762207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3850",
+        "Name_PDF": "GUINEA_MAMOU REGION_PENOU_400-200_10000_3_2023.PDF",
+        "Country": "GUINEA",
+        "State": "MAMOU REGION",
+        "City": "PENOU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731561",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB__k_kZMHEQqWoIrslTtUCAVnJjo9vAEOM7PgTh0TtKRU",
+        "Address": "PENOU, MAMOU REGION, GUINEA",
+        "Latitude": 10.6944398880005,
+        "Longitude": -12.2944402694702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2944402694702,
+          10.6944398880005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3851",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_BE ER SHEVA_600-300_5000_3_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "BE ER SHEVA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731544",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBt4aSSSFwmTJTnWmUpxWw3AaFB6iiiAX0_5Dwa-M-A1yk",
+        "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3852",
+        "Name_PDF": "GUINEA_MAMOU REGION_PENOU_200E_10000_0_2023.PDF",
+        "Country": "GUINEA",
+        "State": "MAMOU REGION",
+        "City": "PENOU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731560",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBse2yZnSpHRJlAcRyy9THDAXWLjX6L4wJp_g2C1_cpfzg",
+        "Address": "PENOU, MAMOU REGION, GUINEA",
+        "Latitude": 10.6944398880005,
+        "Longitude": -12.2944402694702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2944402694702,
+          10.6944398880005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3853",
+        "Name_PDF": "GUINEA_MAMOU REGION_PENOU_600-300_10000_3_2023.PDF",
+        "Country": "GUINEA",
+        "State": "MAMOU REGION",
+        "City": "PENOU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731562",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBga9itbsevS7RlOCz866S1AW9nhTkhy6iK3bIyI3hWEl4",
+        "Address": "PENOU, MAMOU REGION, GUINEA",
+        "Latitude": 10.6944398880005,
+        "Longitude": -12.2944402694702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2944402694702,
+          10.6944398880005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3854",
+        "Name_PDF": "GUINEA_MAMOU REGION_PENOU_200-100_10000_3_2023.PDF",
+        "Country": "GUINEA",
+        "State": "MAMOU REGION",
+        "City": "PENOU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731559",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA1dcqs90HvR6cCyfjlKqR0AdB-NdABjTLgPLYWo54AxHo",
+        "Address": "PENOU, MAMOU REGION, GUINEA",
+        "Latitude": 10.6944398880005,
+        "Longitude": -12.2944402694702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2944402694702,
+          10.6944398880005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3855",
+        "Name_PDF": "GUINEA_MAMOU REGION_PENOU_40E_10000_0_2023.PDF",
+        "Country": "GUINEA",
+        "State": "MAMOU REGION",
+        "City": "PENOU",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731558",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDSxDn6u0BBTJKWCHiaMXJSAbyns3r2rwjJ86Z1yDP3bX8",
+        "Address": "PENOU, MAMOU REGION, GUINEA",
+        "Latitude": 10.6944398880005,
+        "Longitude": -12.2944402694702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.2944402694702,
+          10.6944398880005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3856",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_MISHOR ROTEM_200E_10000_0_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "MISHOR ROTEM",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731546",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCl-o5Yj0svQYkGvOgli-DJARQ1W8Xo6tHI6PH8WRbv7zY",
+        "Address": "MISHOR ROTEM, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3857",
+        "Name_PDF": "INDONESIA_EAST JAVA_MAGERSARI_200-100_5000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "EAST JAVA",
+        "City": "MAGERSARI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731568",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDXOmXfMMooSoBiW8LYoPHhAemXG893ZR83v5-M3G77Rpw",
+        "Address": "MAGERSARI, EAST JAVA, INDONESIA",
+        "Latitude": -7.46667003631592,
+        "Longitude": 112.433326721191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.433326721191,
+          -7.46667003631592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3858",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_MISHOR ROTEM_600-300_10000_3_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "MISHOR ROTEM",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731547",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDyx8nX8V9SSr6sHjfvrGYnARy87cG1Pap29K2oDqBrXWw",
+        "Address": "MISHOR ROTEM, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3859",
+        "Name_PDF": "JAMAICA_MIDDLESEX_LINSTEAD_40E_10000_0_2023.PDF",
+        "Country": "JAMAICA",
+        "State": "MIDDLESEX",
+        "City": "LINSTEAD",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731548",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDRfZWswF-cRraONzkDLqvyAQfPV_hJrX1ofurClWnt51g",
+        "Address": "LINSTEAD, MIDDLESEX, JAMAICA",
+        "Latitude": 18.1368293762207,
+        "Longitude": -77.0317230224609
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0317230224609,
+          18.1368293762207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3860",
+        "Name_PDF": "KAZAKHSTAN_KARAGANDA_KARAGANDA_200-100_10000_3_2023.PDF",
+        "Country": "KAZAKHSTAN",
+        "State": "KARAGANDA",
+        "City": "KARAGANDA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731554",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD6VTFnWBKwTo49DyDRD9XTAWzxeJcIbUAqCFaM1l_iXVM",
+        "Address": "KARAGANDA, KARAGANDA, KAZAKHSTAN",
+        "Latitude": 49.7988891601563,
+        "Longitude": 73.0994415283203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0994415283203,
+          49.7988891601563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3861",
+        "Name_PDF": "INDONESIA_CENTRAL KALIMANTAN_PALANGKA RAYA_200-100_10000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "CENTRAL KALIMANTAN",
+        "City": "PALANGKA RAYA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731564",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBtijYFtgM-Tqphu34DLMRnASZXoVp45-3--AVOwpT2jSY",
+        "Address": "PALANGKA RAYA, CENTRAL KALIMANTAN, INDONESIA",
+        "Latitude": -2.20832991600037,
+        "Longitude": 113.91667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91667175293,
+          -2.20832991600037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3862",
+        "Name_PDF": "INDONESIA_EAST JAVA_MAGERSARI_40E_5000_0_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "EAST JAVA",
+        "City": "MAGERSARI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731569",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCJQfC33jdDTp8UHrTfmmoyARNK5tlBF5wwVMvcNCg2jFQ",
+        "Address": "MAGERSARI, EAST JAVA, INDONESIA",
+        "Latitude": -7.46667003631592,
+        "Longitude": 112.433326721191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.433326721191,
+          -7.46667003631592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3863",
+        "Name_PDF": "KAZAKHSTAN_KARAGANDA_KARAGANDA_600-300_10000_3_2023.PDF",
+        "Country": "KAZAKHSTAN",
+        "State": "KARAGANDA",
+        "City": "KARAGANDA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731557",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAwGhYy-UXXRrIDfaUGOzDaAUoKBG-bSVAsvJyn2OTSE10",
+        "Address": "KARAGANDA, KARAGANDA, KAZAKHSTAN",
+        "Latitude": 49.7988891601563,
+        "Longitude": 73.0994415283203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0994415283203,
+          49.7988891601563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3864",
+        "Name_PDF": "KAZAKHSTAN_KARAGANDA_KARAGANDA_400-200_10000_3_2023.PDF",
+        "Country": "KAZAKHSTAN",
+        "State": "KARAGANDA",
+        "City": "KARAGANDA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731555",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB_SesKhaAeTLlXHGfgeHS8AU11LycgPIPP-VfE_-oUB7Q",
+        "Address": "KARAGANDA, KARAGANDA, KAZAKHSTAN",
+        "Latitude": 49.7988891601563,
+        "Longitude": 73.0994415283203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0994415283203,
+          49.7988891601563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3865",
+        "Name_PDF": "INDONESIA_EAST JAVA_MAGERSARI_600-300_5000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "EAST JAVA",
+        "City": "MAGERSARI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731571",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAHWNXbWguNQb_7QwhtH0i2AfUgQl8Y84OP0g_ul4wQ9n4",
+        "Address": "MAGERSARI, EAST JAVA, INDONESIA",
+        "Latitude": -7.46667003631592,
+        "Longitude": 112.433326721191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.433326721191,
+          -7.46667003631592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3866",
+        "Name_PDF": "INDONESIA_CENTRAL KALIMANTAN_PALANGKA RAYA_400-200_10000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "CENTRAL KALIMANTAN",
+        "City": "PALANGKA RAYA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731566",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBJ91fygx7rSrRlZJIv3q7RASyfWlWgRHwIBFUjzM4oSqE",
+        "Address": "PALANGKA RAYA, CENTRAL KALIMANTAN, INDONESIA",
+        "Latitude": -2.20832991600037,
+        "Longitude": 113.91667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91667175293,
+          -2.20832991600037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3867",
+        "Name_PDF": "INDONESIA_CENTRAL KALIMANTAN_PALANGKA RAYA_200E_10000_0_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "CENTRAL KALIMANTAN",
+        "City": "PALANGKA RAYA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731565",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBqPCQNAXivSpw7sfOngL3fAWTD5IwlLnYzxMRnB32q4GE",
+        "Address": "PALANGKA RAYA, CENTRAL KALIMANTAN, INDONESIA",
+        "Latitude": -2.20832991600037,
+        "Longitude": 113.91667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91667175293,
+          -2.20832991600037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3868",
+        "Name_PDF": "KAZAKHSTAN_KARAGANDA_KARAGANDA_40E_10000_0_2023.PDF",
+        "Country": "KAZAKHSTAN",
+        "State": "KARAGANDA",
+        "City": "KARAGANDA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731553",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAZA7i2-xv0TJSMd6MUKwUyAVjJwWHOa_D87HG2gY8ZTk4",
+        "Address": "KARAGANDA, KARAGANDA, KAZAKHSTAN",
+        "Latitude": 49.7988891601563,
+        "Longitude": 73.0994415283203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0994415283203,
+          49.7988891601563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3869",
+        "Name_PDF": "IRAQ_KURDISTAN_ERBIL_200-100_10000_3_2023.PDF",
+        "Country": "IRAQ",
+        "State": "KURDISTAN",
+        "City": "ERBIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731581",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDrmkLCAM0HQaCSAyDGrBYMAZvwAeUotlQqwLKEqMxie1I",
+        "Address": "ERBIL, KURDISTAN, IRAQ",
+        "Latitude": 36.189998626709,
+        "Longitude": 44.0088882446289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0088882446289,
+          36.189998626709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3870",
+        "Name_PDF": "IRAQ_AL BASRAH_AL BASRAH_200E_150000_0_2023.PDF",
+        "Country": "IRAQ",
+        "State": "AL BASRAH",
+        "City": "AL BASRAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 150000,
+        "Elevation": 0,
+        "ID_PDF": "731578",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBRtHXlR8BKTq5xvDKXU1BfAZ-5dRW3ciSGOpkvl8H9yzM",
+        "Address": "AL BASRAH, AL BASRAH, IRAQ",
+        "Latitude": 30.4955596923828,
+        "Longitude": 47.8175010681152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8175010681152,
+          30.4955596923828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3871",
+        "Name_PDF": "IRAQ_KURDISTAN_ERBIL_400-200_10000_3_2023.PDF",
+        "Country": "IRAQ",
+        "State": "KURDISTAN",
+        "City": "ERBIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731583",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCEUKKuNZPESJ2uASttjU5GARKPTBisZ4HfK9_kMISo_eM",
+        "Address": "ERBIL, KURDISTAN, IRAQ",
+        "Latitude": 36.189998626709,
+        "Longitude": 44.0088882446289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0088882446289,
+          36.189998626709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3872",
+        "Name_PDF": "INDONESIA_JAKARTA_JAKARTA_600-300_10000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "JAKARTA",
+        "City": "JAKARTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731577",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQADV5IIx0O8TImWfGq_evn0AR8bHnEGHOjai0a5NSLa1U8",
+        "Address": "JAKARTA, JAKARTA, INDONESIA",
+        "Latitude": -6.17999982833862,
+        "Longitude": 106.830001831055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830001831055,
+          -6.17999982833862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3873",
+        "Name_PDF": "INDONESIA_CENTRAL KALIMANTAN_PALANGKA RAYA_40E_10000_0_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "CENTRAL KALIMANTAN",
+        "City": "PALANGKA RAYA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731563",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQASv10cS8K4SK7_ockME50uAUluzfMuz6qmugFIGzpqGj4",
+        "Address": "PALANGKA RAYA, CENTRAL KALIMANTAN, INDONESIA",
+        "Latitude": -2.20832991600037,
+        "Longitude": 113.91667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91667175293,
+          -2.20832991600037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3874",
+        "Name_PDF": "IRAQ_AL BASRAH_AL BASRAH_600-300_150000_3_2023.PDF",
+        "Country": "IRAQ",
+        "State": "AL BASRAH",
+        "City": "AL BASRAH",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 150000,
+        "Elevation": 3,
+        "ID_PDF": "731579",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDThwTdxLrkQ4f5dLYFj3xXAfuk1aFvaEx67fgrbz53FKU",
+        "Address": "AL BASRAH, AL BASRAH, IRAQ",
+        "Latitude": 30.4955596923828,
+        "Longitude": 47.8175010681152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.8175010681152,
+          30.4955596923828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3875",
+        "Name_PDF": "INDONESIA_JAKARTA_JAKARTA_200-100_10000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "JAKARTA",
+        "City": "JAKARTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731574",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBMXW9gERolTaxfJ1DvrMEsAS2C8Rb_poFdmVcr-6shoxE",
+        "Address": "JAKARTA, JAKARTA, INDONESIA",
+        "Latitude": -6.17999982833862,
+        "Longitude": 106.830001831055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830001831055,
+          -6.17999982833862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3876",
+        "Name_PDF": "IRAQ_KURDISTAN_ERBIL_200E_10000_0_2023.PDF",
+        "Country": "IRAQ",
+        "State": "KURDISTAN",
+        "City": "ERBIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731582",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBkXGNMQX2ISJJs6wazMdMrAUHLRrO5cFu6IQKTcbZtw3U",
+        "Address": "ERBIL, KURDISTAN, IRAQ",
+        "Latitude": 36.189998626709,
+        "Longitude": 44.0088882446289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0088882446289,
+          36.189998626709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3877",
+        "Name_PDF": "INDONESIA_EAST JAVA_MAGERSARI_400-200_5000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "EAST JAVA",
+        "City": "MAGERSARI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731572",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAIAa6eUn9GSKMit4i-RW64AT2PogsO6XQ6Ar-OwnuPVPI",
+        "Address": "MAGERSARI, EAST JAVA, INDONESIA",
+        "Latitude": -7.46667003631592,
+        "Longitude": 112.433326721191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.433326721191,
+          -7.46667003631592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3878",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_BE ER SHEVA_40E_5000_0_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "BE ER SHEVA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731585",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCP8IcklakQTZn_ikaUoU2pAW1tX3T9VXriiCamVQ66bSI",
+        "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3879",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_BE ER SHEVA_200E_5000_0_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "BE ER SHEVA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731587",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA3rDATAIsPTrbFpV_fFZV6AWCH1DLIhWQyPv_FyMgtLyc",
+        "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3880",
+        "Name_PDF": "INDONESIA_JAKARTA_JAKARTA_40E_10000_0_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "JAKARTA",
+        "City": "JAKARTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731573",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDgnYAU20UPS77LIWMVLmTSAb01luNI4HmIe1_V_uixdM0",
+        "Address": "JAKARTA, JAKARTA, INDONESIA",
+        "Latitude": -6.17999982833862,
+        "Longitude": 106.830001831055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830001831055,
+          -6.17999982833862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3881",
+        "Name_PDF": "IRAQ_KURDISTAN_ERBIL_40E_10000_0_2023.PDF",
+        "Country": "IRAQ",
+        "State": "KURDISTAN",
+        "City": "ERBIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "40E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731580",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA9xzVNi9QoRomByoiR3hukAfW5b-Jc9_dzagoEjn3L5Gk",
+        "Address": "ERBIL, KURDISTAN, IRAQ",
+        "Latitude": 36.189998626709,
+        "Longitude": 44.0088882446289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0088882446289,
+          36.189998626709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3882",
+        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_BE ER SHEVA_200-100_5000_3_2023.PDF",
+        "Country": "ISRAEL",
+        "State": "SOUTHERN DISTRICT",
+        "City": "BE ER SHEVA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200-100",
+        "TDS": 5000,
+        "Elevation": 3,
+        "ID_PDF": "731586",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB_HuTTDGbSQqAXjY_P1zwGAXr1i9zat1Wd9T3e2JVL_ac",
+        "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
+        "Latitude": 31.2518100738525,
+        "Longitude": 34.7913017272949
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913017272949,
+          31.2518100738525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3883",
+        "Name_PDF": "INDONESIA_JAKARTA_JAKARTA_200E_10000_0_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "JAKARTA",
+        "City": "JAKARTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 10000,
+        "Elevation": 0,
+        "ID_PDF": "731575",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD_GERnKFx8RIA5WrrRBfKLAVvopSr_ktIpOLB9_L2RvQQ",
+        "Address": "JAKARTA, JAKARTA, INDONESIA",
+        "Latitude": -6.17999982833862,
+        "Longitude": 106.830001831055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830001831055,
+          -6.17999982833862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3884",
+        "Name_PDF": "INDONESIA_EAST JAVA_MAGERSARI_200E_5000_0_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "EAST JAVA",
+        "City": "MAGERSARI",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "200E",
+        "TDS": 5000,
+        "Elevation": 0,
+        "ID_PDF": "731570",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD3Culg5SwWR6Y7qoxta2OMAaIjjd8ev843xdJM09sJ9B0",
+        "Address": "MAGERSARI, EAST JAVA, INDONESIA",
+        "Latitude": -7.46667003631592,
+        "Longitude": 112.433326721191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.433326721191,
+          -7.46667003631592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3885",
+        "Name_PDF": "INDONESIA_JAKARTA_JAKARTA_400-200_10000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "JAKARTA",
+        "City": "JAKARTA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "400-200",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731576",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCi1cr49Ir9Tbz22bqzNz7vAetM8gzJKSK4q_vm-pSUV50",
+        "Address": "JAKARTA, JAKARTA, INDONESIA",
+        "Latitude": -6.17999982833862,
+        "Longitude": 106.830001831055
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830001831055,
+          -6.17999982833862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3886",
+        "Name_PDF": "IRAQ_KURDISTAN_ERBIL_600-300_10000_3_2023.PDF",
+        "Country": "IRAQ",
+        "State": "KURDISTAN",
+        "City": "ERBIL",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731584",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDzWHNa2rs_R6NdBBto_TJcAWwD2BCDGIaCwObZg83_uzk",
+        "Address": "ERBIL, KURDISTAN, IRAQ",
+        "Latitude": 36.189998626709,
+        "Longitude": 44.0088882446289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0088882446289,
+          36.189998626709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "3887",
+        "Name_PDF": "INDONESIA_CENTRAL KALIMANTAN_PALANGKA RAYA_600-300_10000_3_2023.PDF",
+        "Country": "INDONESIA",
+        "State": "CENTRAL KALIMANTAN",
+        "City": "PALANGKA RAYA",
+        "Year": "2023",
+        "Customer": "O",
+        "Temperature": "C",
+        "Model": "600-300",
+        "TDS": 10000,
+        "Elevation": 3,
+        "ID_PDF": "731567",
+        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
+        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAmQiON9PAMSo43je_Ah_IvAVkYwY5dZAydahKEWYbBLFE",
+        "Address": "PALANGKA RAYA, CENTRAL KALIMANTAN, INDONESIA",
+        "Latitude": -2.20832991600037,
+        "Longitude": 113.91667175293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.91667175293,
+          -2.20832991600037
+        ]
+      }
     }
   ]
 };
