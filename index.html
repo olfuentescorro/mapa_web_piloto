@@ -261,9 +261,9 @@
             
             // Verificamos tanto la etiqueta limpia como el valor crudo original por seguridad
             if (feature.properties['Customer'] === 'Previous customer' || feature.properties['Customer'] === 'X') {
-                colorFondo = '#ffffff'; // Blanco
-            } else if (feature.properties['Customer'] === 'Standard studies' || feature.properties['Customer'] === 'O') {
                 colorFondo = '#0098ff'; // Azul
+            } else if (feature.properties['Customer'] === 'Standard studies' || feature.properties['Customer'] === 'O') {
+                colorFondo = '#ffffff'; // Blanco
             }
 
             return {
