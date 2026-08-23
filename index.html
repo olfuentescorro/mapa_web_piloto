@@ -177,8 +177,8 @@
         if (typeof json_Evaporation_Studies_1 !== 'undefined') {
             json_Evaporation_Studies_1.features.forEach(function(f) {
                 // Traducción del campo Customer
-                if (f.properties['Customer'] === 'X') f.properties['Customer'] = 'Previous customer';
-                else if (f.properties['Customer'] === 'O') f.properties['Customer'] = 'Standard studies';
+                if (f.properties['Customer'] === 'X') f.properties['Customer'] = 'PREVIOUS CUSTOMER';
+                else if (f.properties['Customer'] === 'O') f.properties['Customer'] = 'STANDARD STUDIES';
                 
                 // Traducción del campo Temperature
                 if (f.properties['Temperature'] === 'C') f.properties['Temperature'] = 'CELSIUS';
@@ -257,12 +257,12 @@
 
         function style_Evaporation_Studies_1_0(feature) {
             // Lógica para definir el color según la categoría Customer
-            var colorFondo = '#ffffff'; // Color por defecto (Standard studies)
+            var colorFondo = '#ffffff'; // Color por defecto (STANDARD STUDIES)
             
             // Verificamos tanto la etiqueta limpia como el valor crudo original por seguridad
-            if (feature.properties['Customer'] === 'Previous customer' || feature.properties['Customer'] === 'X') {
+            if (feature.properties['Customer'] === 'PREVIOUS CUSTOMER' || feature.properties['Customer'] === 'X') {
                 colorFondo = '#0098ff'; // Azul
-            } else if (feature.properties['Customer'] === 'Standard studies' || feature.properties['Customer'] === 'O') {
+            } else if (feature.properties['Customer'] === 'STANDARD STUDIES' || feature.properties['Customer'] === 'O') {
                 colorFondo = '#ffffff'; // Blanco
             }
 
@@ -361,8 +361,8 @@
         // -- INICIO: LEYENDA CATEGORIZADA --
         var legendHtml = '<b>Evaporation Studies</b><br>' +
             '<table style="margin-top: 3px;">' +
-            '<tr><td><div style="background-color: #0098ff; border: 1px solid #232323; border-radius: 50%; width: 12px; height: 12px; margin-right: 5px;"></div></td><td style="font-size: 12px;">Previous customer</td></tr>' +
-            '<tr><td><div style="background-color: #ffffff; border: 1px solid #232323; border-radius: 50%; width: 12px; height: 12px; margin-right: 5px;"></div></td><td style="font-size: 12px;">Standard studies</td></tr>' +
+            '<tr><td><div style="background-color: #0098ff; border: 1px solid #232323; border-radius: 50%; width: 12px; height: 12px; margin-right: 5px;"></div></td><td style="font-size: 12px;">PREVIOUS CUSTOMER</td></tr>' +
+            '<tr><td><div style="background-color: #ffffff; border: 1px solid #232323; border-radius: 50%; width: 12px; height: 12px; margin-right: 5px;"></div></td><td style="font-size: 12px;">STANDARD STUDIES</td></tr>' +
             '</table>';
 
         var overlaysTree = [
