@@ -160,19 +160,19 @@
         var bounds_group = new L.featureGroup([]);
         function setBounds() {
         }
-        map.createPane('pane_ESRIGraylight_0');
-        map.getPane('pane_ESRIGraylight_0').style.zIndex = 400;
-        var layer_ESRIGraylight_0 = L.tileLayer('https://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
-            pane: 'pane_ESRIGraylight_0',
+        map.createPane('pane_MapaTopografico_0');
+        map.getPane('pane_MapaTopografico_0').style.zIndex = 400;
+        var layer_MapaTopografico_0 = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
+            pane: 'pane_MapaTopografico_0',
             opacity: 1.0,
-            attribution: '',
+            attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community',
             minZoom: 1,
             maxZoom: 28,
             minNativeZoom: 0,
             maxNativeZoom: 20
         });
-        layer_ESRIGraylight_0;
-        map.addLayer(layer_ESRIGraylight_0);
+        layer_MapaTopografico_0;
+        map.addLayer(layer_MapaTopografico_0);
         // -- INICIO: TRADUCCIÓN DE VALORES RAW A ETIQUETAS --
         if (typeof json_Evaporation_Studies_1 !== 'undefined') {
             json_Evaporation_Studies_1.features.forEach(function(f) {
