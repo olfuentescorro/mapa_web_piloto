@@ -20,14 +20,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCGfwK1ruXmSJ74Az59xaNeAfsOFdfL6vfecwWjvSnqkZE",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -78,14 +78,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDhFgeIZdz_TJZYXp9Zivk9AYhU7oc8N6frifROajQPUJU",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -136,14 +136,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC6u74S3BNRS5LbUdOmWjkZAQbdIdDhBvN14gOEtxb7410",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -12026,14 +12026,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB-KZsve_QcQpkBp-nUaIkMAXqNUpe1YrSHcU1zl84kaDM",
         "Address": "LITHGOW, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.481536,
+        "Longitude": 150.1564887
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          150.1564887,
+          -33.481536
         ]
       }
     },
@@ -12200,14 +12200,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCUgtDt34BCSIRS2Rn2KwcdAekeCWT1KrW4VEFDsUjwawg",
         "Address": "LITHGOW, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.481536,
+        "Longitude": 150.1564887
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          150.1564887,
+          -33.481536
         ]
       }
     },
@@ -12258,14 +12258,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBjiROa6hyvSpoiiJOR2u6ZAa225umtkxSKzmAFO0CbAz4",
         "Address": "EATON, NORTHERN TERRITORY, AUSTRALIA",
-        "Latitude": -12.4200000762939,
-        "Longitude": 130.880004882813
+        "Latitude": -12.414596,
+        "Longitude": 130.8822985
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.880004882813,
-          -12.4200000762939
+          130.8822985,
+          -12.414596
         ]
       }
     },
@@ -12635,14 +12635,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA5maaWhOB0SLRjk6qL1626Aco0Wk1mgAFQUq9SiwMvv7M",
         "Address": "EATON, NORTHERN TERRITORY, AUSTRALIA",
-        "Latitude": -12.4200000762939,
-        "Longitude": 130.880004882813
+        "Latitude": -12.414596,
+        "Longitude": 130.8822985
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.880004882813,
-          -12.4200000762939
+          130.8822985,
+          -12.414596
         ]
       }
     },
@@ -12780,14 +12780,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB_WLbEXf6YTr_eD1oSbbTPAWXNr4qH7U5zRU7kmBawRmw",
         "Address": "EATON, NORTHERN TERRITORY, AUSTRALIA",
-        "Latitude": -12.4200000762939,
-        "Longitude": 130.880004882813
+        "Latitude": -12.414596,
+        "Longitude": 130.8822985
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.880004882813,
-          -12.4200000762939
+          130.8822985,
+          -12.414596
         ]
       }
     },
@@ -13012,14 +13012,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDSueoLPGRaTpqZnra119rSAdMGmd6rxZQTi6IeRbhUJac",
         "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -23.0382900238037,
-        "Longitude": 148.344635009766
+        "Latitude": -22.9736105,
+        "Longitude": 148.4427676
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.344635009766,
-          -23.0382900238037
+          148.4427676,
+          -22.9736105
         ]
       }
     },
@@ -13070,14 +13070,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBb4hHbV4gFRZM7V7ou6bIxAZau9Mr9QOC8KoHFJAOTwlA",
         "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -23.0382900238037,
-        "Longitude": 148.344635009766
+        "Latitude": -22.9736105,
+        "Longitude": 148.4427676
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.344635009766,
-          -23.0382900238037
+          148.4427676,
+          -22.9736105
         ]
       }
     },
@@ -13244,14 +13244,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCOyetv8rdkT5nfBXOu2pQ9ATfT6QBPC6FGJg9O2yx0GgM",
         "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -23.0382900238037,
-        "Longitude": 148.344635009766
+        "Latitude": -22.9736105,
+        "Longitude": 148.4427676
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.344635009766,
-          -23.0382900238037
+          148.4427676,
+          -22.9736105
         ]
       }
     },
@@ -13331,14 +13331,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCf3in-ueFFQa5qZ0T9nLbKARmj01xbofFahT0Hs6GsNZE",
         "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -23.0382900238037,
-        "Longitude": 148.344635009766
+        "Latitude": -22.9736105,
+        "Longitude": 148.4427676
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.344635009766,
-          -23.0382900238037
+          148.4427676,
+          -22.9736105
         ]
       }
     },
@@ -13476,14 +13476,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC77OfjO8VdQ6SGlN3U9TqnAaOeEkfPcPjTfU1qDZjym84",
         "Address": "GYMPIE, QUEENSLAND, AUSTRALIA",
-        "Latitude": -26.1833305358887,
-        "Longitude": 152.66667175293
+        "Latitude": -26.1900447,
+        "Longitude": 152.6600256
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.66667175293,
-          -26.1833305358887
+          152.6600256,
+          -26.1900447
         ]
       }
     },
@@ -13563,14 +13563,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDxHGvex4hITb2nocmEq1emAUW0FFUoS0X9puJAuipBLEs",
         "Address": "BUNDOORA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -23.0382900238037,
-        "Longitude": 148.344635009766
+        "Latitude": -22.9736105,
+        "Longitude": 148.4427676
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.344635009766,
-          -23.0382900238037
+          148.4427676,
+          -22.9736105
         ]
       }
     },
@@ -13679,14 +13679,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDxHc7EfyPpQKpimChGd_1eATBkl3oLS-YjwGDa-Vw43GI",
         "Address": "IMBIL, QUEENSLAND, AUSTRALIA",
-        "Latitude": -26.1833305358887,
-        "Longitude": 152.66667175293
+        "Latitude": -26.4604871,
+        "Longitude": 152.6763063
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.66667175293,
-          -26.1833305358887
+          152.6763063,
+          -26.4604871
         ]
       }
     },
@@ -13882,14 +13882,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA6_I-Z3pi7R63wDAzjRiSCAbALf8NNTqPiAm8LoXDA0SI",
         "Address": "IMBIL, QUEENSLAND, AUSTRALIA",
-        "Latitude": -26.1833305358887,
-        "Longitude": 152.66667175293
+        "Latitude": -26.4604871,
+        "Longitude": 152.6763063
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.66667175293,
-          -26.1833305358887
+          152.6763063,
+          -26.4604871
         ]
       }
     },
@@ -13969,14 +13969,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA0tePzTkISTYYFwCyzgqOwAY2-HVZHDAeXAfTVa3BnDfY",
         "Address": "GYMPIE, QUEENSLAND, AUSTRALIA",
-        "Latitude": -26.1833305358887,
-        "Longitude": 152.66667175293
+        "Latitude": -26.1900447,
+        "Longitude": 152.6600256
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.66667175293,
-          -26.1833305358887
+          152.6600256,
+          -26.1900447
         ]
       }
     },
@@ -14027,14 +14027,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDRWW8qy7AbTY90n-BgaHTKAT85bf4xEEPCe7bZKV0G0qo",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -14056,14 +14056,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB0vAYv62-NRL8HNgRWA04DAV1g1sBqUVUze4rNj-U1cEw",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -14085,14 +14085,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBaTJ_0wdK9RogcVAOlnYd5ARD_a7iUEdb5bbILQgdYPyk",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -14172,14 +14172,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBSuCWFYEebRpOrRkpTVu72Ado74FjI5oPMbVAq3Oe1bOI",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -14201,14 +14201,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBiW6ORY88UT6gvqeR2rnSvAS-OEDIJeqZfdV1dA6QvtQM",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -14259,14 +14259,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAFVrKWpHniR7PFmvh_fIffAdo2Q5yeGUZfGDoUDjhX01g",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -14549,14 +14549,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBxQGak_nS2RKerpVr_Ic-MAQ_IHgA-0EcvCmc5wfOrw2w",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -14578,14 +14578,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD0ldRm4Z04SKanFKweTmWgAeGl9vc63dQLvR0Bopfo5E8",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -15970,14 +15970,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCeQYs0r-rvS4xlzSqi1OG2ATSNvMv8_umKYdicEV2Fjr8",
         "Address": "OUVIDOR, GOIAS, BRAZIL",
-        "Latitude": -18.1658306121826,
-        "Longitude": -47.9463882446289
+        "Latitude": -18.2296167,
+        "Longitude": -47.8351544
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.9463882446289,
-          -18.1658306121826
+          -47.8351544,
+          -18.2296167
         ]
       }
     },
@@ -15999,14 +15999,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBXFYYf7B9iQYdmBrRzNKxcAX-JCRC7dUqGqEVWGGG8bWI",
         "Address": "OUVIDOR, GOIAS, BRAZIL",
-        "Latitude": -18.1658306121826,
-        "Longitude": -47.9463882446289
+        "Latitude": -18.2296167,
+        "Longitude": -47.8351544
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.9463882446289,
-          -18.1658306121826
+          -47.8351544,
+          -18.2296167
         ]
       }
     },
@@ -20987,14 +20987,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA6Mxd4vH6iQ6MUZ0_Zo73OAVPB4AjYVJqnLwWmLS3Yk3Y",
         "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
-        "Latitude": 31.2518100738525,
-        "Longitude": 34.7913017272949
+        "Latitude": 31.2457442,
+        "Longitude": 34.7925181
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.7913017272949,
-          31.2518100738525
+          34.7925181,
+          31.2457442
         ]
       }
     },
@@ -21103,14 +21103,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBt4aSSSFwmTJTnWmUpxWw3AaFB6iiiAX0_5Dwa-M-A1yk",
         "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
-        "Latitude": 31.2518100738525,
-        "Longitude": 34.7913017272949
+        "Latitude": 31.2457442,
+        "Longitude": 34.7925181
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.7913017272949,
-          31.2518100738525
+          34.7925181,
+          31.2457442
         ]
       }
     },
@@ -21233,35 +21233,6 @@ json_Evaporation_Studies_1 = {
     {
       "type": "Feature",
       "properties": {
-        "id": "3856",
-        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_MISHOR ROTEM_200E_10000_0_2023.PDF",
-        "Country": "ISRAEL",
-        "State": "SOUTHERN DISTRICT",
-        "City": "MISHOR ROTEM",
-        "Year": "2023",
-        "Customer": "O",
-        "Temperature": "C",
-        "Model": "200E",
-        "TDS": 10000,
-        "Elevation": 0,
-        "ID_PDF": "731546",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCl-o5Yj0svQYkGvOgli-DJARQ1W8Xo6tHI6PH8WRbv7zY",
-        "Address": "MISHOR ROTEM, SOUTHERN DISTRICT, ISRAEL",
-        "Latitude": 31.2518100738525,
-        "Longitude": 34.7913017272949
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.7913017272949,
-          31.2518100738525
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "3857",
         "Name_PDF": "INDONESIA_EAST JAVA_MAGERSARI_200-100_5000_3_2023.PDF",
         "Country": "INDONESIA",
@@ -21285,35 +21256,6 @@ json_Evaporation_Studies_1 = {
         "coordinates": [
           112.433326721191,
           -7.46667003631592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "3858",
-        "Name_PDF": "ISRAEL_SOUTHERN DISTRICT_MISHOR ROTEM_600-300_10000_3_2023.PDF",
-        "Country": "ISRAEL",
-        "State": "SOUTHERN DISTRICT",
-        "City": "MISHOR ROTEM",
-        "Year": "2023",
-        "Customer": "O",
-        "Temperature": "C",
-        "Model": "600-300",
-        "TDS": 10000,
-        "Elevation": 3,
-        "ID_PDF": "731547",
-        "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
-        "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDyx8nX8V9SSr6sHjfvrGYnARy87cG1Pap29K2oDqBrXWw",
-        "Address": "MISHOR ROTEM, SOUTHERN DISTRICT, ISRAEL",
-        "Latitude": 31.2518100738525,
-        "Longitude": 34.7913017272949
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.7913017272949,
-          31.2518100738525
         ]
       }
     },
@@ -21886,14 +21828,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCP8IcklakQTZn_ikaUoU2pAW1tX3T9VXriiCamVQ66bSI",
         "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
-        "Latitude": 31.2518100738525,
-        "Longitude": 34.7913017272949
+        "Latitude": 31.2457442,
+        "Longitude": 34.7925181
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.7913017272949,
-          31.2518100738525
+          34.7925181,
+          31.2457442
         ]
       }
     },
@@ -21915,14 +21857,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA3rDATAIsPTrbFpV_fFZV6AWCH1DLIhWQyPv_FyMgtLyc",
         "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
-        "Latitude": 31.2518100738525,
-        "Longitude": 34.7913017272949
+        "Latitude": 31.2457442,
+        "Longitude": 34.7925181
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.7913017272949,
-          31.2518100738525
+          34.7925181,
+          31.2457442
         ]
       }
     },
@@ -22002,14 +21944,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/Standard Evaporation Report Locations/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB_HuTTDGbSQqAXjY_P1zwGAXr1i9zat1Wd9T3e2JVL_ac",
         "Address": "BE ER SHEVA, SOUTHERN DISTRICT, ISRAEL",
-        "Latitude": 31.2518100738525,
-        "Longitude": 34.7913017272949
+        "Latitude": 31.2457442,
+        "Longitude": 34.7925181
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.7913017272949,
-          31.2518100738525
+          34.7925181,
+          31.2457442
         ]
       }
     },
@@ -22205,14 +22147,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBDSpweuO-LTr7GCL3dAGopAYkrI7hCjtoCSdefchhr6g4",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -22292,14 +22234,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAS1W-M1yFvSLA6mh-wiRCsAdXUw-vsdtnHaak22tLMNUQ",
         "Address": "LILYVALE, QUEENSLAND, AUSTRALIA",
-        "Latitude": -23.0382900238037,
-        "Longitude": 148.344635009766
+        "Latitude": -27.42694,
+        "Longitude": 151.875
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.344635009766,
-          -23.0382900238037
+          151.875,
+          -27.42694
         ]
       }
     },
@@ -22321,14 +22263,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQB6aOFyaOd1Tr5zlxhdOrLaAVitFn1zCamiOGwmxYiZOfs",
         "Address": "MORANBAH, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -22.0030414,
+        "Longitude": 148.0432658
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.0432658,
+          -22.0030414
         ]
       }
     },
@@ -22408,14 +22350,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCo8XoNPRAjS5KCJocpwRXIAX_FGcOUG0QhCnW8RMNU_UU",
         "Address": "LILYVALE, QUEENSLAND, AUSTRALIA",
-        "Latitude": -23.0382900238037,
-        "Longitude": 148.344635009766
+        "Latitude": -27.42694,
+        "Longitude": 151.875
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.344635009766,
-          -23.0382900238037
+          151.875,
+          -27.42694
         ]
       }
     },
@@ -22437,14 +22379,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBx-CW-Q8_TSZUU2ZBTHT3OAdzK9VlOdqnhAS7PXgmfjPM",
         "Address": "LIDSDALE, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.389538,
+        "Longitude": 150.0853774
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          150.0853774,
+          -33.389538
         ]
       }
     },
@@ -22553,14 +22495,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCNGOoYeJ9ISKInTn_ELxfQAXKWkQ0KkX-4UITecOxHQHU",
         "Address": "LITHGOW, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.481536,
+        "Longitude": 150.1564887
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          150.1564887,
+          -33.481536
         ]
       }
     },
@@ -22640,14 +22582,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQACrUjIA2FsRqOCDz2vgoRTAV-aVvObLPDN-7SdoSwQxcA",
         "Address": "PORTLAND, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.3483333,
+        "Longitude": 149.9844444
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          149.9844444,
+          -33.3483333
         ]
       }
     },
@@ -22785,14 +22727,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBQCwST7xMuTZ3La_Pjgzs0AchUZDHRHmQaHRGYAKR_6Xs",
         "Address": "KARAMA, NORTHERN TERRITORY, AUSTRALIA",
-        "Latitude": -12.4200000762939,
-        "Longitude": 130.880004882813
+        "Latitude": -12.3991045,
+        "Longitude": 130.9155177
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          130.880004882813,
-          -12.4200000762939
+          130.9155177,
+          -12.3991045
         ]
       }
     },
@@ -22843,14 +22785,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCo5aIlF1hyTbprGGXBzsXEARWU3ymYXlZFm6jQFK3wmfo",
         "Address": "LITHGOW, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.481536,
+        "Longitude": 150.1564887
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          150.1564887,
+          -33.481536
         ]
       }
     },
@@ -22930,14 +22872,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCdorc92MjoQL74vKiUm6mLAdVT_J7cUkW8cQK4Y9BCmg4",
         "Address": "COPPABELLA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -21.952204,
+        "Longitude": 148.318418
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.318418,
+          -21.952204
         ]
       }
     },
@@ -22988,14 +22930,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAvyigYCXjdS6bo0E-8uGPLARTX4dbmr7Rx1iBsXQzCXm8",
         "Address": "LIDSDALE, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.389538,
+        "Longitude": 150.0853774
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          150.0853774,
+          -33.389538
         ]
       }
     },
@@ -25352,9 +25294,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4001",
-        "Name_PDF": "RUSSIA_VOLGOGRAD REGION_KOTELNIKOVO_600-300_200000_1_X_2025_C.PDF",
+        "Name_PDF": "RUSSIA_VOLGOGRAD_KOTELNIKOVO_600-300_200000_1_X_2025_C.PDF",
         "Country": "RUSSIA",
-        "State": "VOLGOGRAD REGION",
+        "State": "VOLGOGRAD",
         "City": "KOTELNIKOVO",
         "Year": "2025",
         "Customer": "X",
@@ -25365,7 +25307,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "731759",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCs1epa6-zlSZePNsp4sL9KAdbRP6N1mCvMn3hbalFR5P0",
-        "Address": "KOTELNIKOVO, VOLGOGRAD REGION, RUSSIA",
+        "Address": "KOTELNIKOVO, VOLGOGRAD, RUSSIA",
         "Latitude": 47.6300888061523,
         "Longitude": 43.1406784057617
       },
@@ -25903,10 +25845,10 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4020",
-        "Name_PDF": "USA_FLORIDA_LIVE OAKS_200-100_10000_3_X_2026_F.PDF",
+        "Name_PDF": "USA_FLORIDA_LIVE OAK_200-100_10000_3_X_2026_F.PDF",
         "Country": "USA",
         "State": "FLORIDA",
-        "City": "LIVE OAKS",
+        "City": "LIVE OAK",
         "Year": "2026",
         "Customer": "X",
         "Temperature": "F",
@@ -25916,15 +25858,15 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "731787",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCKdtKwjIOTTbYbloZgHkQHAeHBurXpuvBJTsLmr4f5LlA",
-        "Address": "LIVE OAKS, FLORIDA, USA",
-        "Latitude": 26.9423294067383,
-        "Longitude": -80.1206665039063
+        "Address": "LIVE OAK, FLORIDA, USA",
+        "Latitude": 30.2949409484863,
+        "Longitude": -82.984016418457
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1206665039063,
-          26.9423294067383
+          -82.984016418457,
+          30.2949409484863
         ]
       }
     },
@@ -26048,10 +25990,10 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4025",
-        "Name_PDF": "USA_FLORIDA_LIVE OAKS_600-300_10000_3_X_2026_F.PDF",
+        "Name_PDF": "USA_FLORIDA_LIVE OAK_600-300_10000_3_X_2026_F.PDF",
         "Country": "USA",
         "State": "FLORIDA",
-        "City": "LIVE OAKS",
+        "City": "LIVE OAK",
         "Year": "2026",
         "Customer": "X",
         "Temperature": "F",
@@ -26061,15 +26003,15 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "731790",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD-FJEQNb5qTJtUp9-6c4CnAbVKC0vzUfVfwtL64_crTlk",
-        "Address": "LIVE OAKS, FLORIDA, USA",
-        "Latitude": 26.9423294067383,
-        "Longitude": -80.1206665039063
+        "Address": "LIVE OAK, FLORIDA, USA",
+        "Latitude": 30.2949409484863,
+        "Longitude": -82.984016418457
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1206665039063,
-          26.9423294067383
+          -82.984016418457,
+          30.2949409484863
         ]
       }
     },
@@ -26367,10 +26309,10 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4036",
-        "Name_PDF": "USA_FLORIDA_LIVE OAKS_200E_10000_0_X_2026_F.PDF",
+        "Name_PDF": "USA_FLORIDA_LIVE OAK_200E_10000_0_X_2026_F.PDF",
         "Country": "USA",
         "State": "FLORIDA",
-        "City": "LIVE OAKS",
+        "City": "LIVE OAK",
         "Year": "2026",
         "Customer": "X",
         "Temperature": "F",
@@ -26380,15 +26322,15 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "731789",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2025/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAfTJ9hw6ZxQo6tpwNnw9N2AWRIVwKj_s7v2siXgwGTuMo",
-        "Address": "LIVE OAKS, FLORIDA, USA",
-        "Latitude": 26.9423294067383,
-        "Longitude": -80.1206665039063
+        "Address": "LIVE OAK, FLORIDA, USA",
+        "Latitude": 30.2949409484863,
+        "Longitude": -82.984016418457
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.1206665039063,
-          26.9423294067383
+          -82.984016418457,
+          30.2949409484863
         ]
       }
     },
@@ -26894,7 +26836,7 @@ json_Evaporation_Studies_1 = {
         "State": "QUEBEC",
         "City": "MALARTIC",
         "Year": "2026",
-        "Customer": "P",
+        "Customer": "X",
         "Temperature": "C",
         "Model": "600-300",
         "TDS": 10000,
@@ -26923,7 +26865,7 @@ json_Evaporation_Studies_1 = {
         "State": "NORTHERN TERRITORY",
         "City": "PAPUNYA",
         "Year": "2026",
-        "Customer": "P",
+        "Customer": "X",
         "Temperature": "C",
         "Model": "200-100",
         "TDS": 10000,
@@ -26952,7 +26894,7 @@ json_Evaporation_Studies_1 = {
         "State": "SASKATCHEWAN",
         "City": "CIGAR LAKE",
         "Year": "2026",
-        "Customer": "P",
+        "Customer": "X",
         "Temperature": "C",
         "Model": "600-300",
         "TDS": 10000,
@@ -26976,13 +26918,13 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4059",
-        "Name_PDF": "USA_KANSAS_DODGE CITY_600-300_300000_3_X_2026_C.pdf",
+        "Name_PDF": "USA_KANSAS_DODGE CITY_600-300_300000_3_X_2026_F.pdf",
         "Country": "USA",
         "State": "KANSAS",
         "City": "DODGE CITY",
         "Year": "2026",
-        "Customer": "P",
-        "Temperature": "C",
+        "Customer": "X",
+        "Temperature": "F",
         "Model": "600-300",
         "TDS": 300000,
         "Elevation": 3,
@@ -27005,20 +26947,20 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4060",
-        "Name_PDF": "USA_PENSYLVANIA_WAYNESBURG_200E_10000_0_X_2026_C.pdf",
+        "Name_PDF": "USA_PENNSYLVANIA_WAYNESBURG_200E_10000_0_X_2026_F.pdf",
         "Country": "USA",
-        "State": "PENSYLVANIA",
+        "State": "PENNSYLVANIA",
         "City": "WAYNESBURG",
         "Year": "2026",
-        "Customer": "P",
-        "Temperature": "C",
+        "Customer": "X",
+        "Temperature": "F",
         "Model": "200E",
         "TDS": 10000,
         "Elevation": 0,
         "ID_PDF": "731835",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDArlEw0VMdT4cXpiNgjqGlAZQ730CME6YBw7akDQMZziU",
-        "Address": "WAYNESBURG, PENSYLVANIA, USA",
+        "Address": "WAYNESBURG, PENNSYLVANIA, USA",
         "Latitude": 39.8964691162109,
         "Longitude": -80.1792297363281
       },
@@ -27034,12 +26976,12 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4061",
-        "Name_PDF": "AUSTRALIA_QLD_CLONCURRY_200-100_10000_10_X_2026_C.pdf",
+        "Name_PDF": "AUSTRALIA_QUEENSLAND_CLONCURRY_200-100_10000_10_X_2026_C.pdf",
         "Country": "AUSTRALIA",
-        "State": "QLD",
+        "State": "QUEENSLAND",
         "City": "CLONCURRY",
         "Year": "2026",
-        "Customer": "P",
+        "Customer": "X",
         "Temperature": "C",
         "Model": "200-100",
         "TDS": 10000,
@@ -27047,7 +26989,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "731837",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDEFdmWm0AmSK3MT9Oz8hF8AUni9DmrAkIeBBZJoPXgXNA",
-        "Address": "CLONCURRY, QLD, AUSTRALIA",
+        "Address": "CLONCURRY, QUEENSLAND, AUSTRALIA",
         "Latitude": -20.7071800231934,
         "Longitude": 140.513031005859
       },
@@ -27063,20 +27005,20 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4062",
-        "Name_PDF": "USA_PENSYLVANIA_WAYNESBURG_600-300_10000_30_X_2026_C.pdf",
+        "Name_PDF": "USA_PENNSYLVANIA_WAYNESBURG_600-300_10000_30_X_2026_F.pdf",
         "Country": "USA",
-        "State": "PENSYLVANIA",
+        "State": "PENNSYLVANIA",
         "City": "WAYNESBURG",
         "Year": "2026",
-        "Customer": "P",
-        "Temperature": "C",
+        "Customer": "X",
+        "Temperature": "F",
         "Model": "600-300",
         "TDS": 10000,
         "Elevation": 30,
         "ID_PDF": "731836",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2026/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDW1QF-C3tLRaMJW8FJQTTaAS8k2FiLdqL2Nk82gxaacJs",
-        "Address": "WAYNESBURG, PENSYLVANIA, USA",
+        "Address": "WAYNESBURG, PENNSYLVANIA, USA",
         "Latitude": 39.8964691162109,
         "Longitude": -80.1792297363281
       },
@@ -27338,14 +27280,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDdlxIqFm6TTYN9HkEo5-lFARk6Rb3m_Ehz1T-g7n9ZM40",
         "Address": "LIDSDALE, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.389538,
+        "Longitude": 150.0853774
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          150.0853774,
+          -33.389538
         ]
       }
     },
@@ -27425,14 +27367,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBTP6ZIpF0HTo_6YQZDF6n5AeDoT35ip69xhIopjN5R8Qk",
         "Address": "OBERON, NEW SOUTH WALES, AUSTRALIA",
-        "Latitude": -33.4824714660645,
-        "Longitude": 150.136306762695
+        "Latitude": -33.8455931,
+        "Longitude": 149.8326162
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.136306762695,
-          -33.4824714660645
+          149.8326162,
+          -33.8455931
         ]
       }
     },
@@ -27860,14 +27802,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCOjOI7sqOQSI8h9nXKfh_ZAfL6c4cmdy0tnwQqBi99y0k",
         "Address": "KIANGA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -24.3958892822266,
-        "Longitude": 150.515045166016
+        "Latitude": -24.68736,
+        "Longitude": 150.0180727
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.515045166016,
-          -24.3958892822266
+          150.0180727,
+          -24.68736
         ]
       }
     },
@@ -28005,14 +27947,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBasnmI3CCAQYkhd3Tl9k7zAU8U2fB9ca4gQtyv1nxxQnc",
         "Address": "IMBIL, QUEENSLAND, AUSTRALIA",
-        "Latitude": -26.1833305358887,
-        "Longitude": 152.66667175293
+        "Latitude": -26.4604871,
+        "Longitude": 152.6763063
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.66667175293,
-          -26.1833305358887
+          152.6763063,
+          -26.4604871
         ]
       }
     },
@@ -28092,14 +28034,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDMZa1be1TSTK1LW_-oKvSNAaZVywmswZ-iICsPsP9BxF8",
         "Address": "GLENDEN, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -21.347402,
+        "Longitude": 148.1189553
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.1189553,
+          -21.347402
         ]
       }
     },
@@ -28121,14 +28063,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDIgMfmLhzhSYvHdnCaB2o2AYqUu_wLzQ8CF8Nc54M5Kkk",
         "Address": "IMBIL, QUEENSLAND, AUSTRALIA",
-        "Latitude": -26.1833305358887,
-        "Longitude": 152.66667175293
+        "Latitude": -26.4604871,
+        "Longitude": 152.6763063
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.66667175293,
-          -26.1833305358887
+          152.6763063,
+          -26.4604871
         ]
       }
     },
@@ -28208,14 +28150,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA7cqNQ--ImR6Rmz2AzIe6lAeVO2fmTxjZSFp1h-Wzj-sI",
         "Address": "GYMPIE, QUEENSLAND, AUSTRALIA",
-        "Latitude": -26.1833305358887,
-        "Longitude": 152.66667175293
+        "Latitude": -26.1900447,
+        "Longitude": 152.6600256
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.66667175293,
-          -26.1833305358887
+          152.6600256,
+          -26.1900447
         ]
       }
     },
@@ -28237,14 +28179,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBep2ViC38nQ6BIerI8rJnBATxsrwKk5i6JgNOrZtDZD8o",
         "Address": "KIANGA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -24.3958892822266,
-        "Longitude": 150.515045166016
+        "Latitude": -24.68736,
+        "Longitude": 150.0180727
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.515045166016,
-          -24.3958892822266
+          150.0180727,
+          -24.68736
         ]
       }
     },
@@ -28411,14 +28353,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAvmlfXKkM8QJWSh7cOBoJDAQQ3UJY1Frqj0veeAbEvFYI",
         "Address": "GYMPIE, QUEENSLAND, AUSTRALIA",
-        "Latitude": -26.1833305358887,
-        "Longitude": 152.66667175293
+        "Latitude": -26.1900447,
+        "Longitude": 152.6600256
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.66667175293,
-          -26.1833305358887
+          152.6600256,
+          -26.1900447
         ]
       }
     },
@@ -28556,14 +28498,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBweFwwIsPARJE38nJSCenyATT7vf5gGgeIUfQ8HGVHsnA",
         "Address": "GLENDEN, QUEENSLAND, AUSTRALIA",
-        "Latitude": -22.0016307830811,
-        "Longitude": 148.046600341797
+        "Latitude": -21.347402,
+        "Longitude": 148.1189553
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.046600341797,
-          -22.0016307830811
+          148.1189553,
+          -21.347402
         ]
       }
     },
@@ -28585,14 +28527,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBwrcblBalpRYnK8Qx-hfJqAR3hquCBw4WyRoMFav1zbtY",
         "Address": "BILOELA, QUEENSLAND, AUSTRALIA",
-        "Latitude": -24.3958892822266,
-        "Longitude": 150.515045166016
+        "Latitude": -24.3997711,
+        "Longitude": 150.5141867
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.515045166016,
-          -24.3958892822266
+          150.5141867,
+          -24.3997711
         ]
       }
     },
@@ -28672,14 +28614,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQA1QDqCZErKT5Sc-czXb7rpAYp67cZvOSImlpHSQNr0RqE",
         "Address": "CHARTERS TOWERS, QUEENSLAND, AUSTRALIA",
-        "Latitude": -20.0767097473145,
-        "Longitude": 146.263534545898
+        "Latitude": -20.0714089,
+        "Longitude": 146.2709824
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.263534545898,
-          -20.0767097473145
+          146.2709824,
+          -20.0714089
         ]
       }
     },
@@ -28817,14 +28759,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCgIRwNGhcQRbYf9P7K-KiYAdqGOZTJ7T1l-IX5KwJ8hL0",
         "Address": "RAVENSWOOD, QUEENSLAND, AUSTRALIA",
-        "Latitude": -20.0767097473145,
-        "Longitude": 146.263534545898
+        "Latitude": -20.2182355,
+        "Longitude": 146.9091053
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.263534545898,
-          -20.0767097473145
+          146.9091053,
+          -20.2182355
         ]
       }
     },
@@ -29078,14 +29020,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAVwNKlnLlBQp9sd6bFCK3TAfajW2utuFCL0jYzbn4KtTw",
         "Address": "RAVENSWOOD, QUEENSLAND, AUSTRALIA",
-        "Latitude": -20.0767097473145,
-        "Longitude": 146.263534545898
+        "Latitude": -20.2182355,
+        "Longitude": 146.9091053
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          146.263534545898,
-          -20.0767097473145
+          146.9091053,
+          -20.2182355
         ]
       }
     },
@@ -29832,14 +29774,14 @@ json_Evaporation_Studies_1 = {
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQC9tTd3XFM_QII0uJdxemOPAZP-Ddcg2yNFpC9kCIyfODI",
         "Address": "CATALAO, GOIAS, BRAZIL",
-        "Latitude": -18.1658306121826,
-        "Longitude": -47.9463882446289
+        "Latitude": -18.1702546,
+        "Longitude": -47.9447082
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.9463882446289,
-          -18.1658306121826
+          -47.9447082,
+          -18.1702546
         ]
       }
     },
@@ -31732,9 +31674,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4227",
-        "Name_PDF": "OMAN_AL BATINAH_GHUZAYN_600-300_10000_3_X_2024_C.PDF",
+        "Name_PDF": "OMAN_AL BATINAH NORTH_GHUZAYN_600-300_10000_3_X_2024_C.PDF",
         "Country": "OMAN",
-        "State": "AL BATINAH",
+        "State": "AL BATINAH NORTH",
         "City": "GHUZAYN",
         "Year": "2024",
         "Customer": "X",
@@ -31745,7 +31687,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732041",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDO6J6XfOA1SJAYx97liqnMAbsNo3uNKjSc4ZkQEnNTlOk",
-        "Address": "GHUZAYN, AL BATINAH, OMAN",
+        "Address": "GHUZAYN, AL BATINAH NORTH, OMAN",
         "Latitude": 23.988639831543,
         "Longitude": 57.0983810424805
       },
@@ -32370,10 +32312,10 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4249",
-        "Name_PDF": "SAUDI ARABIA_EASTERN_JUBAIL_200E_113000_0_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_EASTERN PROVINCE_AL JUBAIL_200E_113000_0_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "EASTERN",
-        "City": "JUBAIL",
+        "State": "EASTERN PROVINCE",
+        "City": "AL JUBAIL",
         "Year": "2024",
         "Customer": "X",
         "Temperature": "C",
@@ -32383,15 +32325,15 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732065",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQAEan04JMeGRIY9UFuKz7GsAThBHqSlGqbWrnSMldzL6Os",
-        "Address": "JUBAIL, EASTERN, SAUDI ARABIA",
-        "Latitude": 27.0047206878662,
-        "Longitude": 49.6613883972168
+        "Address": "AL JUBAIL, EASTERN PROVINCE, SAUDI ARABIA",
+        "Latitude": 25.3588905334473,
+        "Longitude": 49.7219390869141
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6613883972168,
-          27.0047206878662
+          49.7219390869141,
+          25.3588905334473
         ]
       }
     },
@@ -32399,9 +32341,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4250",
-        "Name_PDF": "SAUDI ARABIA_EASTERN_DAMMAM_40E_113000_0_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_EASTERN PROVINCE_DAMMAM_40E_113000_0_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "EASTERN",
+        "State": "EASTERN PROVINCE",
         "City": "DAMMAM",
         "Year": "2024",
         "Customer": "X",
@@ -32412,7 +32354,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732059",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDkggqX440NRb8jeNQDSh24AWeVK6-CvkfEuvakgBs4upA",
-        "Address": "DAMMAM, EASTERN, SAUDI ARABIA",
+        "Address": "DAMMAM, EASTERN PROVINCE, SAUDI ARABIA",
         "Latitude": 26.434419631958,
         "Longitude": 50.1032600402832
       },
@@ -32486,10 +32428,10 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4253",
-        "Name_PDF": "SAUDI ARABIA_EASTERN_JUBAIL_200-100_113000_3_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_EASTERN PROVINCE_AL JUBAIL_200-100_113000_3_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "EASTERN",
-        "City": "JUBAIL",
+        "State": "EASTERN PROVINCE",
+        "City": "AL JUBAIL",
         "Year": "2024",
         "Customer": "X",
         "Temperature": "C",
@@ -32499,15 +32441,15 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732063",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDRN6G7ZJtYTrilHkIgx8jbATTYc7GbqrODo3MF1tU4DEk",
-        "Address": "JUBAIL, EASTERN, SAUDI ARABIA",
-        "Latitude": 27.0047206878662,
-        "Longitude": 49.6613883972168
+        "Address": "AL JUBAIL, EASTERN PROVINCE, SAUDI ARABIA",
+        "Latitude": 25.3588905334473,
+        "Longitude": 49.7219390869141
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6613883972168,
-          27.0047206878662
+          49.7219390869141,
+          25.3588905334473
         ]
       }
     },
@@ -32515,9 +32457,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4254",
-        "Name_PDF": "SAUDI ARABIA_EASTERN_DAMMAM_200-100_113000_3_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_EASTERN PROVINCE_DAMMAM_200-100_113000_3_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "EASTERN",
+        "State": "EASTERN PROVINCE",
         "City": "DAMMAM",
         "Year": "2024",
         "Customer": "X",
@@ -32528,7 +32470,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732060",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDQeixd2UGXT7cvvkjdiHfSAaSuONYGQ6fiLvX368YZz-I",
-        "Address": "DAMMAM, EASTERN, SAUDI ARABIA",
+        "Address": "DAMMAM, EASTERN PROVINCE, SAUDI ARABIA",
         "Latitude": 26.434419631958,
         "Longitude": 50.1032600402832
       },
@@ -32602,10 +32544,10 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4257",
-        "Name_PDF": "SAUDI ARABIA_EASTERN_JUBAIL_40E_113000_0_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_EASTERN PROVINCE_AL JUBAIL_40E_113000_0_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "EASTERN",
-        "City": "JUBAIL",
+        "State": "EASTERN PROVINCE",
+        "City": "AL JUBAIL",
         "Year": "2024",
         "Customer": "X",
         "Temperature": "C",
@@ -32615,15 +32557,15 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732062",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQD7g8ZlHOowRrg792SxoDtpAaq8Er3yP7g73bwQED9uMIU",
-        "Address": "JUBAIL, EASTERN, SAUDI ARABIA",
-        "Latitude": 27.0047206878662,
-        "Longitude": 49.6613883972168
+        "Address": "AL JUBAIL, EASTERN PROVINCE, SAUDI ARABIA",
+        "Latitude": 25.3588905334473,
+        "Longitude": 49.7219390869141
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6613883972168,
-          27.0047206878662
+          49.7219390869141,
+          25.3588905334473
         ]
       }
     },
@@ -32631,10 +32573,10 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4258",
-        "Name_PDF": "SAUDI ARABIA_EASTERN_JUBAIL_200E_50000_0_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_EASTERN PROVINCE_AL JUBAIL_200E_50000_0_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "EASTERN",
-        "City": "JUBAIL",
+        "State": "EASTERN PROVINCE",
+        "City": "AL JUBAIL",
         "Year": "2024",
         "Customer": "X",
         "Temperature": "C",
@@ -32644,15 +32586,15 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732064",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBPSEcJmQKVQZYUND9XOQuHAUghshKzBLvnebCSsinvwp8",
-        "Address": "JUBAIL, EASTERN, SAUDI ARABIA",
-        "Latitude": 27.0047206878662,
-        "Longitude": 49.6613883972168
+        "Address": "AL JUBAIL, EASTERN PROVINCE, SAUDI ARABIA",
+        "Latitude": 25.3588905334473,
+        "Longitude": 49.7219390869141
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.6613883972168,
-          27.0047206878662
+          49.7219390869141,
+          25.3588905334473
         ]
       }
     },
@@ -32689,9 +32631,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4260",
-        "Name_PDF": "SAUDI ARABIA_MEDINA_YANBU_200E_113000_0_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_AL MADINAH_YANBU_200E_113000_0_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "MEDINA",
+        "State": "AL MADINAH",
         "City": "YANBU",
         "Year": "2024",
         "Customer": "X",
@@ -32702,7 +32644,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732070",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDh8vHszXmoRo7ys2l93yfgAYsExPLVhf8Ts1g_SKTTrYQ",
-        "Address": "YANBU, MEDINA, SAUDI ARABIA",
+        "Address": "YANBU, AL MADINAH, SAUDI ARABIA",
         "Latitude": 24.0891208648682,
         "Longitude": 38.0637397766113
       },
@@ -32718,9 +32660,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4261",
-        "Name_PDF": "SAUDI ARABIA_EASTERN_DAMMAM_200E_113000_0_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_EASTERN PROVINCE_DAMMAM_200E_113000_0_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "EASTERN",
+        "State": "EASTERN PROVINCE",
         "City": "DAMMAM",
         "Year": "2024",
         "Customer": "X",
@@ -32731,7 +32673,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732061",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCfaFAhghMuRLb01q38QUf0AZ5VGmSAuIEw_A62edJ6v4k",
-        "Address": "DAMMAM, EASTERN, SAUDI ARABIA",
+        "Address": "DAMMAM, EASTERN PROVINCE, SAUDI ARABIA",
         "Latitude": 26.434419631958,
         "Longitude": 50.1032600402832
       },
@@ -32747,9 +32689,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4262",
-        "Name_PDF": "SAUDI ARABIA_MEDINA_YANBU_40E_113000_0_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_AL MADINAH_YANBU_40E_113000_0_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "MEDINA",
+        "State": "AL MADINAH",
         "City": "YANBU",
         "Year": "2024",
         "Customer": "X",
@@ -32760,7 +32702,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732071",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBVvKdlgyOTSK7w9dqXBA_bAb5U9v-RHilWpt6wQtOX--0",
-        "Address": "YANBU, MEDINA, SAUDI ARABIA",
+        "Address": "YANBU, AL MADINAH, SAUDI ARABIA",
         "Latitude": 24.0891208648682,
         "Longitude": 38.0637397766113
       },
@@ -32834,9 +32776,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4265",
-        "Name_PDF": "SAUDI ARABIA_MEDINA_YANBU_200-100_113000_3_X_2024_C.PDF",
+        "Name_PDF": "SAUDI ARABIA_AL MADINAH_YANBU_200-100_113000_3_X_2024_C.PDF",
         "Country": "SAUDI ARABIA",
-        "State": "MEDINA",
+        "State": "AL MADINAH",
         "City": "YANBU",
         "Year": "2024",
         "Customer": "X",
@@ -32847,7 +32789,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732069",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQCbmbd2s1yPRrAcixSqlufSAZxZcg2IRR-NtzPWLXM2k1E",
-        "Address": "YANBU, MEDINA, SAUDI ARABIA",
+        "Address": "YANBU, AL MADINAH, SAUDI ARABIA",
         "Latitude": 24.0891208648682,
         "Longitude": 38.0637397766113
       },
@@ -33849,9 +33791,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4300",
-        "Name_PDF": "USA_WEST VIRGINA_MULLENS_600-300_10000_3_X_2024_F.PDF",
+        "Name_PDF": "USA_WEST VIRGINIA_MULLENS_600-300_10000_3_X_2024_F.PDF",
         "Country": "USA",
-        "State": "WEST VIRGINA",
+        "State": "WEST VIRGINIA",
         "City": "MULLENS",
         "Year": "2024",
         "Customer": "X",
@@ -33862,7 +33804,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732115",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBDo4Aix14MTY7hccyGEUs3AZneF0bdECik5puAHq6mRyU",
-        "Address": "MULLENS, WEST VIRGINA, USA",
+        "Address": "MULLENS, WEST VIRGINIA, USA",
         "Latitude": 37.5831718444824,
         "Longitude": -81.3803787231445
       },
@@ -33994,10 +33936,10 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4305",
-        "Name_PDF": "USA_TEXAS_RICHLAND SPIRNGS_200E_10000_0_X_2024_C.PDF",
+        "Name_PDF": "USA_TEXAS_RICHLAND SPRINGS_200E_10000_0_X_2024_C.PDF",
         "Country": "USA",
         "State": "TEXAS",
-        "City": "RICHLAND SPIRNGS",
+        "City": "RICHLAND SPRINGS",
         "Year": "2024",
         "Customer": "X",
         "Temperature": "C",
@@ -34007,7 +33949,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732109",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQBlwMaygf-nTaT97n-ntrM3AU6i1LXJpG-2ib0Xx0CDU9Q",
-        "Address": "RICHLAND SPIRNGS, TEXAS, USA",
+        "Address": "RICHLAND SPRINGS, TEXAS, USA",
         "Latitude": 31.2696094512939,
         "Longitude": -98.9450531005859
       },
@@ -34255,9 +34197,9 @@ json_Evaporation_Studies_1 = {
       "type": "Feature",
       "properties": {
         "id": "4314",
-        "Name_PDF": "USA_WEST VIRGINA_ESKDALE_400-200_10000_3_X_2024_C.PDF",
+        "Name_PDF": "USA_WEST VIRGINIA_ESKDALE_400-200_10000_3_X_2024_C.PDF",
         "Country": "USA",
-        "State": "WEST VIRGINA",
+        "State": "WEST VIRGINIA",
         "City": "ESKDALE",
         "Year": "2024",
         "Customer": "X",
@@ -34268,7 +34210,7 @@ json_Evaporation_Studies_1 = {
         "ID_PDF": "732114",
         "Folder_PDF": "Shared Documents/4.0 Water/4.3 Evaporation Sales Studies/2024/",
         "URL": "https://minetek.sharepoint.com/:b:/s/Engineering/IQDhbM9g8irESIN8pR1frBwSARbWXrdsw_p4Ubs-jPwxxuk",
-        "Address": "ESKDALE, WEST VIRGINA, USA",
+        "Address": "ESKDALE, WEST VIRGINIA, USA",
         "Latitude": 38.0989990234375,
         "Longitude": -81.3239974975586
       },
