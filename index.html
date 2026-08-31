@@ -31,6 +31,29 @@
         .leaflet-popup-content td {
             word-break: break-all;
         }
+		/* MODIFICACIONES DE LA BARRA DE ESCALA */
+        .leaflet-control-scale-line {
+            /* 1. Línea negra fina con ticks (bordes laterales y fondo) */
+            border: 1px solid black !important;
+            border-top: none !important;
+            height: 8px !important; 
+            
+            /* 2. Sin fondo (transparente) */
+            background: transparent !important;
+            box-shadow: none !important;
+            
+            /* 3. Etiqueta al costado derecho */
+            overflow: visible !important;
+            text-indent: calc(100% + 8px) !important;
+            white-space: nowrap !important;
+            
+            /* Alineación y tipografía */
+            color: black !important;
+            font-weight: 600 !important;
+            font-size: 11px !important;
+            line-height: 8px !important;
+            padding: 0 !important;
+        }
         </style>
         <title>Evaporation Studies</title>
     </head>
@@ -165,7 +188,7 @@
         var layer_MapaTopografico_0 = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}', {
             pane: 'pane_MapaTopografico_0',
             opacity: 1.0,
-            attribution: 'Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ, TomTom, Intermap, iPC, USGS, FAO, NPS, NRCAN, GeoBase, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China (Hong Kong), and the GIS User Community',
+            attribution: '&copy; Esri & contributors',
             minZoom: 1,
             maxZoom: 28,
             minNativeZoom: 0,
@@ -367,7 +390,7 @@
 
         var overlaysTree = [
             {label: legendHtml, layer: cluster_Evaporation_Studies_1},
-            {label: "Mapa Topográfico", layer: layer_MapaTopografico_0, radioGroup: 'bm' },]
+            {label: "ESRI Topo", layer: layer_MapaTopografico_0, radioGroup: 'bm' },]
         // -- FIN: LEYENDA CATEGORIZADA --
         var lay = L.control.layers.tree(null, overlaysTree,{
             //namedToggle: true,
