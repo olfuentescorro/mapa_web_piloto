@@ -863,6 +863,15 @@
             zoomToLayerControl.addTo(map);
             // -- FIN: BOTÓN ZOOM TO LAYER --
 			
+			// -- INICIO: BARRA DE ESCALA DINÁMICA --
+        L.control.scale({
+            position: 'bottomleft', // Puedes cambiarlo a 'bottomright' si choca con el logo
+            metric: true,           // Muestra kilómetros/metros
+            imperial: false,        // Oculta millas/pies para mantenerlo limpio
+            maxWidth: 200           // Ancho máximo de la barra en píxeles
+        }).addTo(map);
+        // -- FIN: BARRA DE ESCALA DINÁMICA --
+			
 			// -- INICIO: LOGO MINETEK CON ENLACE A SHAREPOINT --
             var minetekLogoControl = L.control({position: 'bottomleft'});
             minetekLogoControl.onAdd = function (map) {
