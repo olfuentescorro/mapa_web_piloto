@@ -380,16 +380,7 @@
         });
         lay.addTo(map);
         setBounds();
-        map.addControl(new L.Control.Search({
-            layer: cluster_Evaporation_Studies_1,
-            initial: false,
-            hideMarkerOnCollapse: true,
-            propertyName: 'Name_PDF'}));
-        if (typeof url === 'undefined') {
-            document.getElementsByClassName('search-button')[0].className += ' fa fa-binoculars';
-        } else {
-            document.getElementsByClassName('search-button')[1].className += ' fa fa-binoculars';
-        }
+        
         var mapDiv = document.getElementById('map');
         var row = document.createElement('div');
         row.className="row";
@@ -410,7 +401,7 @@
         document.getElementById("all").appendChild(col2);
         col1.appendChild(mapDiv)
 		
-        var Filters = {"Country": "str","State": "str","City": "str","Year": "str","Customer": "str", "Temperature": "str","Elevation": "int","Model": "str","TDS": "int"};
+        var Filters = {"Year": "str","Customer": "str", "Temperature": "str","Elevation": "int","Model": "str","TDS": "int"};
         
         function filterFunc() {
             var allFeatures = json_Evaporation_Studies_1.features.slice(0);
@@ -604,119 +595,7 @@
             divClearAll.appendChild(btnClearAll);
             document.getElementById("menu").appendChild(divClearAll);
             // -- FIN: BOTÓN GENERAL "CLEAR ALL FILTERS" --
-            var div_Country = document.createElement('div');
-            div_Country.id = "div_Country";
-            div_Country.className= "filterselect";
-            document.getElementById("menu").appendChild(div_Country);
-            sel_Country = document.createElement('select');
-            sel_Country.multiple = true;
-            sel_Country.size = 8;
-            sel_Country.id = "sel_Country";
-            var Country_options_str = "<option value='' unselected></option>";
-            sel_Country.onchange = function(){filterFunc()};
-            Country_options_str  += '<option value="Australia">Australia</option>';
-            Country_options_str  += '<option value="Chile">Chile</option>';
-            Country_options_str  += '<option value="USA">USA</option>';
-            sel_Country.innerHTML = Country_options_str;
-            div_Country.appendChild(sel_Country);
-            var lab_Country = document.createElement('div');
-            lab_Country.innerHTML = 'Country';
-            lab_Country.className = 'filterlabel';
-            div_Country.appendChild(lab_Country);
-            var reset_Country = document.createElement('div');
-            reset_Country.innerHTML = 'clear filter';
-            reset_Country.className = 'filterlabel';
-            reset_Country.onclick = function() {
-                var options = document.getElementById("sel_Country").options;
-                for (var i=0; i < options.length; i++) {
-                    options[i].selected = false;
-                }
-                filterFunc();
-            };
-            div_Country.appendChild(reset_Country);
-            document.getElementById("menu").appendChild(
-                document.createElement("div"));
-            var div_State = document.createElement('div');
-            div_State.id = "div_State";
-            div_State.className= "filterselect";
-            document.getElementById("menu").appendChild(div_State);
-            sel_State = document.createElement('select');
-            sel_State.multiple = true;
-            sel_State.size = 8;
-            sel_State.id = "sel_State";
-            var State_options_str = "<option value='' unselected></option>";
-            sel_State.onchange = function(){filterFunc()};
-            State_options_str  += '<option value="Idaho">Idaho</option>';
-            State_options_str  += '<option value="New South Wales">New South Wales</option>';
-            State_options_str  += '<option value="Northern Territory">Northern Territory</option>';
-            State_options_str  += '<option value="Queensland">Queensland</option>';
-            State_options_str  += '<option value="Santiago">Santiago</option>';
-            State_options_str  += '<option value="Tasmania">Tasmania</option>';
-            State_options_str  += '<option value="Victoria">Victoria</option>';
-            State_options_str  += '<option value="Western Australia">Western Australia</option>';
-            sel_State.innerHTML = State_options_str;
-            div_State.appendChild(sel_State);
-            var lab_State = document.createElement('div');
-            lab_State.innerHTML = 'State';
-            lab_State.className = 'filterlabel';
-            div_State.appendChild(lab_State);
-            var reset_State = document.createElement('div');
-            reset_State.innerHTML = 'clear filter';
-            reset_State.className = 'filterlabel';
-            reset_State.onclick = function() {
-                var options = document.getElementById("sel_State").options;
-                for (var i=0; i < options.length; i++) {
-                    options[i].selected = false;
-                }
-                filterFunc();
-            };
-            div_State.appendChild(reset_State);
-            document.getElementById("menu").appendChild(
-                document.createElement("div"));
-            var div_City = document.createElement('div');
-            div_City.id = "div_City";
-            div_City.className= "filterselect";
-            document.getElementById("menu").appendChild(div_City);
-            sel_City = document.createElement('select');
-            sel_City.multiple = true;
-            sel_City.size = 8;
-            sel_City.id = "sel_City";
-            var City_options_str = "<option value='' unselected></option>";
-            sel_City.onchange = function(){filterFunc()};
-            City_options_str  += '<option value="Alice Springs">Alice Springs</option>';
-            City_options_str  += '<option value="Bowen">Bowen</option>';
-            City_options_str  += '<option value="Burnie">Burnie</option>';
-            City_options_str  += '<option value="Comet">Comet</option>';
-            City_options_str  += '<option value="Douglas River">Douglas River</option>';
-            City_options_str  += '<option value="Emerald">Emerald</option>';
-            City_options_str  += '<option value="Gladstone">Gladstone</option>';
-            City_options_str  += '<option value="Kalgoorlie">Kalgoorlie</option>';
-            City_options_str  += '<option value="Kalgoorlie-Boulder">Kalgoorlie-Boulder</option>';
-            City_options_str  += '<option value="Lidsdale">Lidsdale</option>';
-            City_options_str  += '<option value="Lithgow">Lithgow</option>';
-            City_options_str  += '<option value="Mangalore">Mangalore</option>';
-            City_options_str  += '<option value="Mount Magnet">Mount Magnet</option>';
-            City_options_str  += '<option value="Mountain Home">Mountain Home</option>';
-            City_options_str  += '<option value="Santiago">Santiago</option>';
-            City_options_str  += '<option value="Townsville">Townsville</option>';
-            City_options_str  += '<option value="West Leinster">West Leinster</option>';
-            sel_City.innerHTML = City_options_str;
-            div_City.appendChild(sel_City);
-            var lab_City = document.createElement('div');
-            lab_City.innerHTML = 'City';
-            lab_City.className = 'filterlabel';
-            div_City.appendChild(lab_City);
-            var reset_City = document.createElement('div');
-            reset_City.innerHTML = 'clear filter';
-            reset_City.className = 'filterlabel';
-            reset_City.onclick = function() {
-                var options = document.getElementById("sel_City").options;
-                for (var i=0; i < options.length; i++) {
-                    options[i].selected = false;
-                }
-                filterFunc();
-            };
-            div_City.appendChild(reset_City);
+            
 			var div_Year = document.createElement('div');
             div_Year.id = "div_Year";
             div_Year.className= "filterselect";
